@@ -1,0 +1,15 @@
+@@||dns.sb^
+@@||family.adguard-dns.com^
+# Samsung McAfee
+@@||mup.amp.mcafee.com^
+@@||mmfiles.amp.mcafee.com^
+# Peugeot App
+@@||account.services-store.peugeot.com^
+@@||collect.igodigital.com^
+#Skype
+@@||pipe.aria.microsoft.com^
+#Windows
+@@||settings-win.data.microsoft.com
+@@||settings.data.microsoft.com^
+#Joyn Live Stream
+@@||usercentrics.eu^
