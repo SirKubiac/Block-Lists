@@ -13,3 +13,5 @@
 @@||settings.data.microsoft.com^
 #Joyn Live Stream
 @@||usercentrics.eu^
+#Huawei
+@@||grs.dbankcloud.eu
