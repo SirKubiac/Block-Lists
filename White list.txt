@@ -9,9 +9,7 @@
 #Skype
 @@||pipe.aria.microsoft.com^
 #Windows
-@@||settings-win.data.microsoft.com
+@@||settings-win.data.microsoft.com^
 @@||settings.data.microsoft.com^
 #Joyn Live Stream
 @@||usercentrics.eu^
-#Huawei
-@@||grs.dbankcloud.eu
