@@ -2,8 +2,6 @@
 
 Merged.txt is a merged list of following lists: 
 - Hagezi's Ultimate
-- OISD big
-- The Blocklist Project Ads List
 - The Blocklist Project Tracker List
 
 Also removed double entries and cleaned up for use as Category in my Sophos XG.
