@@ -8,9 +8,22 @@
 @@||collect.igodigital.com^
 #Skype
 @@||pipe.aria.microsoft.com^
-#Windows
-@@||settings-win.data.microsoft.com^
-@@||settings.data.microsoft.com^
-@@||inference.location.live.net^
 #Joyn Live Stream
 @@||usercentrics.eu^
+# Windows Spotlight/Search, XBox Gamepass Images/GPU Perks.
+@@||arc.msn.com^
+@@||arc.trafficmanager.net^
+# Windows 11 App Store
+@@||bat.bing.com^
+# Quick Assist" utility (used for remote desktop assistance)
+@@||js.monitor.azure.com^
+# Windows
+@@||settings.data.microsoft.com^
+@@||settings-win.data.microsoft.com^
+@@||settings-sandbox.data.microsoft.com^
+@@||settings-win-ppe.data.microsoft.com^
+@@||atm-settingsfe-prod-geo2.trafficmanager.net^
+@@||settingsfd-sandbox.trafficmanager.net^
+@@||settingsfd-ppe.trafficmanager.net^
+# Windows GPS
+@@||inference.location.live.net^
