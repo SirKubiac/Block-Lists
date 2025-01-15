@@ -11,5 +11,6 @@
 #Windows
 @@||settings-win.data.microsoft.com^
 @@||settings.data.microsoft.com^
+@@||inference.location.live.net^
 #Joyn Live Stream
 @@||usercentrics.eu^
