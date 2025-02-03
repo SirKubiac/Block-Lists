@@ -25,5 +25,12 @@
 @@||atm-settingsfe-prod-geo2.trafficmanager.net^
 @@||settingsfd-sandbox.trafficmanager.net^
 @@||settingsfd-ppe.trafficmanager.net^
+@@||events.data.microsoft.com^
+@@||vortex.data.microsoft.com^
+@@||in.appcenter.ms^
+@@||gateway.bingviz.microsoftapp.net^
+@@||exo.nel.measure.office.net^
+@@||assets.activity.windows.com^
+@@||browser.events.data.msn.com^
 # Windows GPS
 @@||inference.location.live.net^
