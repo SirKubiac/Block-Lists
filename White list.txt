@@ -32,5 +32,6 @@
 @@||exo.nel.measure.office.net^
 @@||assets.activity.windows.com^
 @@||browser.events.data.msn.com^
+@@||mobile.events.data.microsoft.com^
 # Windows GPS
 @@||inference.location.live.net^
