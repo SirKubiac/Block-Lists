@@ -37,3 +37,4 @@
 @@||inference.location.live.net^
 # Huawei
 @@||dbankcloud.eu^
+@@||dbankcloud.com^
