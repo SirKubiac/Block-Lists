@@ -37,4 +37,6 @@
 @@||inference.location.live.net^
 # Huawei
 @@||dbankcloud.eu^
-@@||dbankcloud.com^
+@@||healthsession.things.dbankcloud.com^
+@@||sportsuggest-dre.things.dbankcloud.com^
+@@||dnkeeper.platform.dbankcloud.com^
