@@ -44,6 +44,8 @@
 # OPTIONAL
 @@||mobile.events.data.microsoft.com^
 @@||mobile.events.data.trafficmanager.net^
+# Teams
+@@||teams.events.data.microsoft.com^
 # Windows GPS
 @@||inference.location.live.net^
 # Huawei
