@@ -6,7 +6,5 @@
 # Peugeot App
 @@||account.services-store.peugeot.com^
 @@||collect.igodigital.com^
-#Skype
-@@||pipe.aria.microsoft.com^
 #Joyn Live Stream
 @@||usercentrics.eu^
