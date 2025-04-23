@@ -11,3 +11,6 @@
 # Windows
 @@||events.data.microsoft.com^
 @@||pipe.aria.microsoft.com^
+@@||location.live.net^
+@@||fp.msedge.net^
+@@||default.exp-tas.com^
