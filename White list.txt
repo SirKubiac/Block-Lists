@@ -8,3 +8,6 @@
 @@||collect.igodigital.com^
 #Joyn Live Stream
 @@||usercentrics.eu^
+# Windows
+@@||events.data.microsoft.com^
+@@||pipe.aria.microsoft.com^
