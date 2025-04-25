@@ -1,18 +1,4 @@
 @@||dns.sb^
 @@||family.adguard-dns.com^
-# Samsung McAfee
-@@||mup.amp.mcafee.com^
-@@||mmfiles.amp.mcafee.com^
 # Peugeot App
-@@||account.services-store.peugeot.com^
 @@||collect.igodigital.com^
-#Joyn Live Stream
-@@||usercentrics.eu^
-# Windows
-@@||events.data.microsoft.com^
-@@||pipe.aria.microsoft.com^
-@@||location.live.net^
-@@||msedge.net^
-@@||default.exp-tas.com^
-# Brave Browser
-@@||variations.brave.com^
