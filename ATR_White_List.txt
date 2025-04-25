@@ -23,3 +23,6 @@ exo.nel.measure.office.net
 m365cdn.nel.measure.office.net
 inference-location-livenet.trafficmanager.net
 variations.brave.com
+events.data.microsoft.com
+pipe.aria.microsoft.com
+location.live.net
