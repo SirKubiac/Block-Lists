@@ -1,10 +1,6 @@
 graph.facebook.com
 b-graph.facebook.com
 web.facebook.com
-dns.sb
-family.adguard-dns.com
-mup.amp.mcafee.com
-mmfiles.amp.mcafee.com
 mobile.events.data.microsoft.com
 teams.events.data.microsoft.com
 eu-office.events.data.microsoft.com
