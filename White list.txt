@@ -14,3 +14,5 @@
 @@||location.live.net^
 @@||fp.msedge.net^
 @@||default.exp-tas.com^
+# Brave Browser
+@@||variations.brave.com^
