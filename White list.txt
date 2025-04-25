@@ -12,7 +12,7 @@
 @@||events.data.microsoft.com^
 @@||pipe.aria.microsoft.com^
 @@||location.live.net^
-@@||fp.msedge.net^
+@@||msedge.net^
 @@||default.exp-tas.com^
 # Brave Browser
 @@||variations.brave.com^
