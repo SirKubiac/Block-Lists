@@ -2,6 +2,7 @@
 
 Script.sh loads the following lists:
 - Hagezi's Ultimate https://github.com/hagezi/dns-blocklists
+  
 and removes the domains of the following lists:
 - https://github.com/hagezi/dns-blocklists/blob/main/share/microsoft.txt
 - ATR_White_List.txt
