@@ -1,11 +1,11 @@
 # Custom blocklist for Adguard Home and Sophos XG
 
-Merged.txt is a merged list of following lists: 
-- Hagezi's Ultimate
-- The Blocklist Project Tracker List
+Script.sh loads the following lists:
+- Hagezi's Ultimate https://github.com/hagezi/dns-blocklists
+and removes the domains of the following lists:
+- https://github.com/hagezi/dns-blocklists/blob/main/share/microsoft.txt
+- ATR_White_List.txt
+- White_List.txt
+This new list is saved as Merged.txt which my Sophos XG is loading and using in Active Thread Response as thread list.
 
-Also removed double entries and cleaned up for use as Category in my Sophos XG.
-
-White list.txt is my white list for my personal Adguard Home instance 
-
-Microsoft Telemetry.txt ist for my Adguard Home. Telemetry Domains are from the official Windows 11 documentation.
+White list.txt is also my white list for my personal Adguard Home instance.
