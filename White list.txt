@@ -1,4 +1,2 @@
 @@||dns.sb^
 @@||family.adguard-dns.com^
-# Peugeot App
-@@||collect.igodigital.com^
