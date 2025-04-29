@@ -4,3 +4,5 @@
 @@||collect.igodigital.com^
 # Packages Tracker Ebay plugin
 @@||www.ebayadservices.com^
+@@||devicebind.ebay.com^
+@@||srv.main.ebayrtm.com^
