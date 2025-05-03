@@ -1,2 +1,2 @@
-@@||dns.sb^
-@@||family.adguard-dns.com^
+dns.sb
+family.adguard-dns.com
