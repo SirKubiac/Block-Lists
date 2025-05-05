@@ -41,3 +41,4 @@ teams.live.com
 statics.teams.cdn.live.net
 statics.teams.cdn.office.net
 srtb.msn.com
+watson.events.data.microsoft.com
