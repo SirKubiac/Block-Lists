@@ -2,6 +2,7 @@ location.live.net
 location.live.net
 agps.location.live.net
 collection.location.live.net
+inference.location.live.net
 c.bing.com
 fp.msedge.net
 k-ring.msedge.net
