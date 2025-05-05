@@ -42,3 +42,4 @@ statics.teams.cdn.live.net
 statics.teams.cdn.office.net
 srtb.msn.com
 watson.events.data.microsoft.com
+teams.events.data.microsoft.com
