@@ -1,0 +1,8 @@
+client.wns.windows.com
+wns.windows.com
+fp.msedge.net
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+wcpstatic.microsoft.com
+mobile.pipe.aria.microsoft.com
+browser.pipe.aria.microsoft.com
