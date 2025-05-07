@@ -75,7 +75,10 @@ wget https://blocklist.sefinek.net/generated/v1/noip/social/facebook.txt -P /var
 # DoH block list for Sophos
 wget https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt -P /var/filter_lists/ -O /var/filter_lists/DoH_1.txt
 wget https://raw.githubusercontent.com/SirKubiac/Block-Lists/refs/heads/main/DoH_White_List.txt -P /var/filter_lists/ -O /var/filter_lists/DoH_2.txt
-
+# Microsoft white list for Sophos
+wget https://raw.githubusercontent.com/SirKubiac/Block-Lists/refs/heads/main/Sophos_White_List_Microsoft.txt -P /var/filter_lists/ -O /var/filter_lists/SWLM.txt
+# Microsoft white list for Adguard
+wget https://raw.githubusercontent.com/SirKubiac/Block-Lists/refs/heads/main/White_List_Microsoft.txt -P /var/filter_lists/ -O /var/filter_lists/WLM.txt
 
 # Removes lines starting with '!' in Ads block list Adguard
 for i in {1..17}; do
@@ -120,6 +123,11 @@ cat /var/filter_lists/Tracker_*.txt > /var/filter_lists/Tracker_merge.txt
 cat /var/filter_lists/Sophos_Tracker_*.txt > /var/filter_lists/Sophos_Tracker_merge.txt
 cat /var/filter_lists/Native_*.txt > /var/filter_lists/Native_merge.txt
 cat /var/filter_lists/Sophos_Native_*.txt > /var/filter_lists/Sophos_Native_merge.txt
+
+# Remove Microsoft domains from Ads_merge.txt
+grep -v -f /var/filter_lists/WLM.txt /var/filter_lists/Ads_merge.txt > /var/filter_lists/Ads_merge.txt
+# Remove Microsoft domains from Sophos_Ads_merge.txt
+grep -v -f /var/filter_lists/SWLM.txt /var/filter_lists/Sophos_Ads_merge.txt > /var/filter_lists/Sophos_Ads_merge.txt
 
 # " $client='adg-pixel\, adg-surface'" an jede Zeile anhängen
 sed -i 's/$/$client='\''adg-pixel\, adg-surface'\''/' /var/filter_lists/Facebook.txt
