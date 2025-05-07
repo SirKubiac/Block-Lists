@@ -10,38 +10,36 @@ wget https://blocklist.sefinek.net/generated/v1/adguard/ads/adaway/hosts.fork.tx
 wget https://blocklist.sefinek.net/generated/v1/adguard/ads/blocklistproject/hosts.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_3.txt
 wget https://blocklist.sefinek.net/generated/v1/adguard/ads/blocklistproject/youtube.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_4.txt
 wget https://blocklist.sefinek.net/generated/v1/adguard/ads/craiu/mobiletrackers.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_5.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/crazy-max/spy.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_6.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/DandelionSprout.GameConsoleAdblockList.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_7.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/disconnectme/simple-ad.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_8.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/FadeMind/UncheckyAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_9.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/AdguardDNS.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_10.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Admiral.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_11.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Easylist.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_12.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Prigent-Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_13.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/MajkiIT/SmartTV-ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_14.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/r-a-y/AdguardMobileAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_15.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/sefinek.hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_16.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/ShadowWhisperer/Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_17.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/yoyo/ads-trackers-etc.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_18.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/DandelionSprout.GameConsoleAdblockList.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_6.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/disconnectme/simple-ad.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_7.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/FadeMind/UncheckyAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_8.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/AdguardDNS.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_9.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Admiral.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_10.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Easylist.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_11.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Prigent-Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_12.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/MajkiIT/SmartTV-ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_13.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/r-a-y/AdguardMobileAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_14.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/sefinek.hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_15.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/ShadowWhisperer/Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_16.txt
+wget https://blocklist.sefinek.net/generated/v1/adguard/ads/yoyo/ads-trackers-etc.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_17.txt
 # Ads block lists for Sophos
 wget https://blocklist.sefinek.net/generated/v1/noip/ads/0Zinc/easylist.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_1.txt
 wget https://blocklist.sefinek.net/generated/v1/noip/ads/adaway/hosts.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_2.txt
 wget https://blocklist.sefinek.net/generated/v1/noip/ads/blocklistproject/hosts.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_3.txt
 wget https://blocklist.sefinek.net/generated/v1/noip/ads/blocklistproject/youtube.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_4.txt
 wget https://blocklist.sefinek.net/generated/v1/noip/ads/craiu/mobiletrackers.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_5.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/crazy-max/spy.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_6.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/DandelionSprout.GameConsoleAdblockList.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_7.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/disconnectme/simple-ad.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_8.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/FadeMind/UncheckyAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_9.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/AdguardDNS.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_10.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Admiral.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_11.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Easylist.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_12.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Prigent-Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_13.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/MajkiIT/SmartTV-ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_14.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/r-a-y/AdguardMobileAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_15.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/sefinek.hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_16.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/ShadowWhisperer/Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_17.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/yoyo/ads-trackers-etc.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_18.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/DandelionSprout.GameConsoleAdblockList.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_6.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/disconnectme/simple-ad.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_7.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/FadeMind/UncheckyAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_8.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/AdguardDNS.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_9.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Admiral.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_10.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Easylist.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_11.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Prigent-Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_12.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/MajkiIT/SmartTV-ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_13.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/r-a-y/AdguardMobileAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_14.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/sefinek.hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_15.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/ShadowWhisperer/Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_16.txt
+wget https://blocklist.sefinek.net/generated/v1/noip/ads/yoyo/ads-trackers-etc.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_17.txt
 # Telemetry block list for Adguard
 wget https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Tracker_1.txt
 wget https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Tracker_2.txt
@@ -80,11 +78,11 @@ wget https://raw.githubusercontent.com/SirKubiac/Block-Lists/refs/heads/main/DoH
 
 
 # Removes lines starting with '!' in Ads block list Adguard
-for i in {1..18}; do
+for i in {1..17}; do
     sed -i '/^!/d' "/var/filter_lists/Ads_${i}.txt"
 done
 # Removes lines starting with '#' in Ads block list Sophos
-for i in {1..18}; do
+for i in {1..17}; do
     sed -i '/^#/d' "/var/filter_lists/Sophos_Ads_${i}.txt"         
 done
 # Removes lines starting with '!' in Telemetry block list Adguard
