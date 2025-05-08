@@ -1,2 +1,0 @@
-dns.sb
-family.adguard-dns.com
