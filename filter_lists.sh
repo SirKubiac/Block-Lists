@@ -4,132 +4,112 @@ export GIT_ASKPASS=echo
 export GIT_USERNAME=
 export GIT_PASSWORD=
 
-# Ads block lists for Adguard
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/0Zinc/easylist.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_1.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/adaway/hosts.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_2.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/blocklistproject/hosts.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_3.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/blocklistproject/youtube.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_4.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/craiu/mobiletrackers.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_5.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/DandelionSprout.GameConsoleAdblockList.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_6.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/disconnectme/simple-ad.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_7.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/FadeMind/UncheckyAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_8.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/AdguardDNS.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_9.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Admiral.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_10.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Easylist.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_11.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Prigent-Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_12.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/MajkiIT/SmartTV-ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_13.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/r-a-y/AdguardMobileAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_14.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/sefinek.hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_15.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/ShadowWhisperer/Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_16.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/ads/yoyo/ads-trackers-etc.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Ads_17.txt
-# Ads block lists for Sophos
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/0Zinc/easylist.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_1.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/adaway/hosts.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_2.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/blocklistproject/hosts.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_3.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/blocklistproject/youtube.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_4.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/craiu/mobiletrackers.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_5.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/DandelionSprout.GameConsoleAdblockList.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_6.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/disconnectme/simple-ad.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_7.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/FadeMind/UncheckyAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_8.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/AdguardDNS.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_9.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Admiral.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_10.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Easylist.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_11.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Prigent-Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_12.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/MajkiIT/SmartTV-ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_13.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/r-a-y/AdguardMobileAds.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_14.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/sefinek.hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_15.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/ShadowWhisperer/Ads.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_16.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/ads/yoyo/ads-trackers-etc.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Ads_17.txt
-# Telemetry block list for Adguard
-wget https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Tracker_1.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Tracker_2.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Tracker_3.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/neodevpro/host.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Tracker_4.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/quidsup/trackers-hosts.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Tracker_5.txt
-wget https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/sefinek.hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Tracker_6.txt
-# Telemetry block list for Sophos
-wget https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Tracker_1.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Tracker_2.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Tracker_3.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/neodevpro/host.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Tracker_4.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/quidsup/trackers-hosts.fork.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Tracker_5.txt
-wget https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/sefinek.hosts.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Tracker_6.txt
-# Native block list for Adguard
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt -P /var/filter_lists/ -O /var/filter_lists/Native_1.txt
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt -P /var/filter_lists/ -O /var/filter_lists/Native_2.txt
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt -P /var/filter_lists/ -O /var/filter_lists/Native_3.txt
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt -P /var/filter_lists/ -O /var/filter_lists/Native_4.txt
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt -P /var/filter_lists/ -O /var/filter_lists/Native_5.txt
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt -P /var/filter_lists/ -O /var/filter_lists/Native_6.txt
-# Native block list for Sophos
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Native_1.txt
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Native_2.txt
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Native_3.txt
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.samsung.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Native_4.txt
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Native_5.txt
-wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.extended.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Native_6.txt
-# Facebook block list for Adguard
-wget https://blocklist.sefinek.net/generated/v1/adguard/social/facebook.txt -P /var/filter_lists/ -O /var/filter_lists/Facebook.txt
-# Facebook block list for Sophos
-wget https://blocklist.sefinek.net/generated/v1/noip/social/facebook.txt -P /var/filter_lists/ -O /var/filter_lists/Sophos_Facebook.txt
-# DoH block list for Sophos
-wget https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt -P /var/filter_lists/ -O /var/filter_lists/DoH_1.txt
-wget https://raw.githubusercontent.com/SirKubiac/Block-Lists/refs/heads/main/DoH_White_List.txt -P /var/filter_lists/ -O /var/filter_lists/DoH_2.txt
+# URLs of ad blocklists
+ads_urls=(
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/adaway/hosts.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/0Zinc/easylist.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/blocklistproject/hosts.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/blocklistproject/youtube.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/craiu/mobiletrackers.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/crazy-max/spy.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/DandelionSprout.GameConsoleAdblockList.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/disconnectme/simple-ad.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/FadeMind/UncheckyAds.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/AdguardDNS.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Admiral.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Easylist.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Prigent-Ads.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/MajkiIT/SmartTV-ads.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/r-a-y/AdguardMobileAds.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/sefinek.hosts.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/ShadowWhisperer/Ads.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/yoyo/ads-trackers-etc.fork.txt"
+)
 
-# Removes lines starting with '!' in Ads block list Adguard
-for i in {1..17}; do
-    sed -i '/^!/d' "/var/filter_lists/Ads_${i}.txt"
+# URLs of tracking & telemetry blocklists
+tracking_urls=(
+    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/neodevpro/host.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/quidsup/trackers-hosts.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/sefinek.hosts.txt"
+)
+
+# URL for AMP blocklist
+amp_url="https://blocklist.sefinek.net/generated/v1/noip/amp/developerdan/amp-hosts-extended.fork.txt"
+
+# URL for DoH blocklist
+doh_url="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt"
+
+# URLs for native tracker blocklists
+native_tracker_urls=(
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.samsung.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt"
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.extended.txt"
+)
+
+# URL for Facebook blocklist
+facebook_url="https://blocklist.sefinek.net/generated/v1/noip/social/facebook.txt"
+
+# Paths to whitelist files
+whitelist_ads_tracking="/var/filter_lists/whitelist_microsoft_sophos.txt"
+whitelist_doh="/var/filter_lists/whitelist_doh_sophos.txt"
+
+# Output files
+ads_output="/var/git/Block-Lists/ads_sophos.txt"
+tracking_output="/var/git/Block-Lists/tracker_sophos.txt"
+amp_output="/var/git/Block-Lists/amp_sophos.txt"
+doh_output="/var/www/html/doh_sophos.txt"
+native_tracker_output="/var/git/Block-Lists/native_tracker_sophos.txt"
+facebook_output="/var/www/html/facebook_sophos.txt"
+
+# Temporary files
+temp_ads=$(mktemp)
+temp_tracking=$(mktemp)
+temp_doh=$(mktemp)
+temp_native=$(mktemp)
+
+# Fetch ad blocklists, remove comments, and merge them
+for url in "${ads_urls[@]}"; do
+    curl -s "$url" | grep -v '^#' >> "$temp_ads"
 done
-# Removes lines starting with '#' in Ads block list Sophos
-for i in {1..17}; do
-    sed -i '/^#/d' "/var/filter_lists/Sophos_Ads_${i}.txt"         
+
+# Fetch tracking & telemetry blocklists, remove comments, and merge them
+for url in "${tracking_urls[@]}"; do
+    curl -s "$url" | grep -v '^#' >> "$temp_tracking"
 done
-# Removes lines starting with '!' in Telemetry block list Adguard
-for i in {1..6}; do
-    sed -i '/^!/d' "/var/filter_lists/Tracker_${i}.txt"
+
+# Fetch AMP blocklist and remove comments
+curl -s "$amp_url" | grep -v '^#' > "$amp_output"
+
+# Fetch DoH blocklist and remove comments
+curl -s "$doh_url" | grep -v '^#' >> "$temp_doh"
+
+# Fetch native tracker blocklists, remove comments, and merge them
+for url in "${native_tracker_urls[@]}"; do
+    curl -s "$url" | grep -v '^#' >> "$temp_native"
 done
-# Removes lines starting with '#' in Telemetry block list Sophos
-for i in {1..6}; do
-    sed -i '/^#/d' "/var/filter_lists/Sophos_Tracker_${i}.txt"
-done
-# Removes lines starting with '!' and '[' in Native block list Adguard
-for i in {1..6}; do
-    sed -i '/^!/d' "/var/filter_lists/Native_${i}.txt"
-    sed -i '/^\[/d' "/var/filter_lists/Native_${i}.txt"
-done
-# Removes lines starting with '#' in Native block list Sophos
-for i in {1..6}; do
-    sed -i '/^#/d' "/var/filter_lists/Sophos_Native_${i}.txt"
-done
-# Removes lines starting with '!' in Facebook block list Adguard
-sed -i '/^!/d' /var/filter_lists/Facebook.txt
-# Removes lines starting with '#' in Facebook block list Sophos
-sed -i '/^#/d' /var/filter_lists/Sophos_Facebook.txt
 
-# Removes lines starting with '#' in DoH list Sophos
-sed -i '/^#/d' /var/filter_lists/DoH_1.txt
+# Fetch Facebook blocklist and remove comments
+curl -s "$facebook_url" | grep -v '^#' > "$facebook_output"
 
-# Opens DoH_1.txt and removes entries from DoH_2.txt
-grep -v -f /var/filter_lists/DoH_2.txt /var/filter_lists/DoH_1.txt > /var/filter_lists/DoH_merge.txt
+# Remove whitelisted entries from ads & tracking lists
+grep -vwFf "$whitelist_ads_tracking" "$temp_ads" | sort -u > "$ads_output"
+grep -vwFf "$whitelist_ads_tracking" "$temp_tracking" | sort -u > "$tracking_output"
 
-# Merge files
-cat /var/filter_lists/Ads_*.txt > /var/filter_lists/Ads_merge.txt
-cat /var/filter_lists/Sophos_Ads_*.txt > /var/filter_lists/Sophos_Ads_merge.txt
-cat /var/filter_lists/Tracker_*.txt > /var/filter_lists/Tracker_merge.txt
-cat /var/filter_lists/Sophos_Tracker_*.txt > /var/filter_lists/Sophos_Tracker_merge.txt
-cat /var/filter_lists/Native_*.txt > /var/filter_lists/Native_merge.txt
-cat /var/filter_lists/Sophos_Native_*.txt > /var/filter_lists/Sophos_Native_merge.txt
+# Remove whitelisted entries from the DoH blocklist
+grep -vwFf "$whitelist_doh" "$temp_doh" | sort -u > "$doh_output"
 
-# " $client='adg-pixel\, adg-surface'" an jede Zeile anhängen
-sed -i 's/$/$client='\''adg-pixel\, adg-surface'\''/' /var/filter_lists/Facebook.txt
+# Save the cleaned native tracker blocklist
+mv "$temp_native" "$native_tracker_output"
 
-# Move the cleaned files
-mv /var/filter_lists/{Ads_merge.txt,Sophos_Ads_merge.txt,Tracker_merge.txt,Sophos_Tracker_merge.txt,Native_merge.txt,Sophos_Native_merge.txt,Facebook.txt} /var/git/Block-Lists/
-mv /var/filter_lists/{DoH_merge.txt,Sophos_Facebook.txt} /var/www/html
+# Clean up temporary files
+rm "$temp_ads" "$temp_tracking" "$temp_doh"
 
-# Delete unnecessary files
-rm /var/filter_lists/{Ads_*,Sophos_Ads_*,Tracker_*,Sophos_Tracker_*,Native_*,Sophos_Native_*,DoH*}.txt
- 
 # Update the Git repository
 cd /var/git/Block-Lists
 git pull
