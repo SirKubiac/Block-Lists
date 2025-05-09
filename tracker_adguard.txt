@@ -28612,7 +28612,6 @@
 ||db0a4b4eb7.com^
 ||db33180b93.com^
 ||db4zl9wffwnmb.cloudfront.net^
-||db5.settings.data.microsoft.com.akadns.net^
 ||db5.vortex.data.microsoft.com.akadns.net^
 ||db72c26349.com^
 ||dba1bc1fdf.com^
@@ -35574,7 +35573,6 @@
 ||eu.ssp-bidder-maaads-1prod.gbc.criteo.com^
 ||eu.tt.omtrdc.net^
 ||eu.viatrisconnect.com^
-||eu.vortex-win.data.microsoft.com^
 ||eu5.gbc.criteo.com^
 ||eu5to.gbc.criteo.com^
 ||euads-o.api.leiniao.com^
@@ -46355,7 +46353,6 @@
 ||hk.gbc.criteo.com^
 ||hk.jtsh123.com^
 ||hk.napi.ucweb.com^
-||hk2.settings.data.microsoft.com.akadns.net^
 ||hk2d.tourismemauricie.com^
 ||hkaphqknkao.com^
 ||hkdisneyland.tt.omtrdc.net^
@@ -120773,7 +120770,6 @@
 ||us.staticdemorod.gbc.criteo.com^
 ||us.timeout.com^
 ||us.tt.omtrdc.net^
-||us.vortex-win.data.microsoft.com^
 ||us.vtex.com^
 ||us.w0wavhxew0wavhxod.gbc.criteo.com^
 ||us2res.gbc.criteo.com^
@@ -120854,7 +120850,6 @@
 ||user.ad-locus.com^
 ||user.userguiding.com^
 ||user.www.ag.gbc.criteo.com^
-||usercentrics.eu^
 ||usercollection.chinadaily.com.cn^
 ||usercycle.com^
 ||userdatatrust.com^
