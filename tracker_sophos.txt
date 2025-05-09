@@ -28611,7 +28611,6 @@ db033pq6bj64g.cloudfront.net
 db0a4b4eb7.com
 db33180b93.com
 db4zl9wffwnmb.cloudfront.net
-db5.settings.data.microsoft.com.akadns.net
 db72c26349.com
 dba1bc1fdf.com
 dba4.pandasuite.io
@@ -46353,7 +46352,6 @@ hk-go.experian.com
 hk.gbc.criteo.com
 hk.jtsh123.com
 hk.napi.ucweb.com
-hk2.settings.data.microsoft.com.akadns.net
 hk2d.tourismemauricie.com
 hkaphqknkao.com
 hkdisneyland.tt.omtrdc.net
@@ -120855,7 +120853,6 @@ user-registration.us5.vip.prod.criteo.com
 user.ad-locus.com
 user.userguiding.com
 user.www.ag.gbc.criteo.com
-usercentrics.eu
 usercollection.chinadaily.com.cn
 usercycle.com
 userdatatrust.com
