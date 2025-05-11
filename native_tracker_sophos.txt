@@ -198,6 +198,7 @@ cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
@@ -1768,3 +1769,4 @@ mcs-ie2.tiktokw.eu
 mcs16-normal-no1a.tiktokw.eu
 mssdk.tiktokw.eu
 mssdk.tiktokw.us
+mssdk16-normal-useastred.tiktokw.eu

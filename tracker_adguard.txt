@@ -5322,6 +5322,7 @@
 ||a8.au-hikarinet.com^
 ||a8.avalon-works.com^
 ||a8.b-cafe.net^
+||a8.baactive.tc.skysrt.com^
 ||a8.bambi-craft.com^
 ||a8.bandel.jp^
 ||a8.banninkun.com^
@@ -28415,7 +28416,6 @@
 ||data.us.gbc.criteo.com^
 ||data.vdi-wissensforum.de^
 ||data.vinsolutions.com^
-||data.vod.itc.cn^
 ||data.volksfreund.de^
 ||data.voyager.dev.cjmadobe.com^
 ||data.web.doitbest.com^
@@ -35880,6 +35880,7 @@
 ||events.ricoh.ch^
 ||events.ricoh.de^
 ||events.ricoh.ie^
+||events.s4long.com^
 ||events.santander.co.uk^
 ||events.shareably.net^
 ||events.sk.ht^
@@ -44503,6 +44504,7 @@
 ||greenbaypackersinc.tt.omtrdc.net^
 ||greenbeacon.actonservice.com^
 ||greencharge.actonservice.com^
+||greencolumnhealth.com^
 ||greendot.tt.omtrdc.net^
 ||greenfarmsel.ro^
 ||greenfox.ink^
@@ -61995,6 +61997,7 @@
 ||mbdlog.iqiyi.com^
 ||mbelia.underarmour.co.uk^
 ||mbeoxt.perfumesclub.pt^
+||mbi-craft.com^
 ||mbid.marfeelrev.com^
 ||mbidadm.com^
 ||mbidinp.com^
@@ -89264,7 +89267,7 @@
 ||pic1.59wd.com^
 ||pic2.bloggerads.net^
 ||pic50.pingguolv.com^
-||picaactive.tc.skysrt.com^
+||pica-juicy.picacomic.com^
 ||picanalysis.vivo.com.cn^
 ||picarasgalax.com^
 ||picarosexempt.shop^
@@ -100919,7 +100922,6 @@
 ||simg.yemeksepeti.com^
 ||similargrocery.pro^
 ||similarpresence.com^
-||similarweb.com^
 ||simility.com^
 ||simmeringsuitableunwoven.com^
 ||simonsignal.com^
@@ -115217,6 +115219,7 @@
 ||tms-api.shalltry.com^
 ||tms-st.cdn.ngenix.net^
 ||tms.53.com^
+||tms.abconsent.com^
 ||tms.danzz.ch^
 ||tms.dmp.wi-fi.ru^
 ||tms.eharmony.ca^
@@ -117230,6 +117233,7 @@
 ||tracker.affiliate.iqbroker.com^
 ||tracker.affirm.com^
 ||tracker.ai.xiaomi.com^
+||tracker.atrapalo.com^
 ||tracker.au.zitcha.app^
 ||tracker.azet.sk^
 ||tracker.baidu.com^
