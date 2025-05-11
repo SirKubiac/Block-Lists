@@ -624,6 +624,7 @@
 ||1r4g65b63.de^
 ||1r8435gsqldr.com^
 ||1redirb.com^
+||1rer.hummel.net^
 ||1rx.io^
 ||1rxntv.io^
 ||1s1r7hr1k.de^
@@ -17298,6 +17299,7 @@
 ||benue.site^
 ||benumelan.com^
 ||benzinga.postaffiliatepro.com^
+||beoecomapim.bang-olufsen.com^
 ||beoofo.pairs.lv^
 ||beop.io^
 ||beopinion.com^
@@ -25927,6 +25929,7 @@
 ||cszlks.com^
 ||cszz.ru^
 ||ct-dev.taskhuman.com^
+||ct-errs.cartrawler.com^
 ||ct.beslist.nl^
 ||ct.capterra.com^
 ||ct.corpusapp.com^
@@ -40797,6 +40800,7 @@
 ||globalbanking.wolterskluwer.com^
 ||globalcommunications.sc.com^
 ||globalcorporateventuring.actonsoftware.com^
+||globale-analytics-sdk.global-e.com^
 ||globaleloqua.americanexpress.com^
 ||globalemedia.net^
 ||globalinteractive.com^
@@ -50808,6 +50812,7 @@
 ||insights.spherasolutions.com^
 ||insights.sport1.de^
 ||insights.squintopera.com^
+||insights.triad.sk^
 ||insights.v3.decathlon.net^
 ||insights.video.a2z.com^
 ||insights.zinio.com^
@@ -55235,6 +55240,7 @@
 ||legoongetheew.net^
 ||legou361.com^
 ||legozu.com^
+||legy-jp.line-apps.com^
 ||lehechapunevent.com^
 ||lehemhavita.club^
 ||lehmergambits.click^
@@ -57173,6 +57179,7 @@
 ||log6.reader.qq.com^
 ||logaholic.com^
 ||loganmedia.mobi^
+||logapi.alza.cz^
 ||logauth.polarisoffice.com^
 ||logbak.hicloud.com^
 ||logbor.com^
@@ -58137,6 +58144,7 @@
 ||m.0pi84.cn^
 ||m.118ex.cn^
 ||m.16qijf.cn^
+||m.1gr.cz^
 ||m.1qp9k.cn^
 ||m.1s8pj.cn^
 ||m.1x3td.cn^
@@ -63428,6 +63436,7 @@
 ||metrics.fifa.com^
 ||metrics.figis.com^
 ||metrics.filemaker.com^
+||metrics.find.gr^
 ||metrics.finn.no^
 ||metrics.flagstar.com^
 ||metrics.flexerasoftware.com^
@@ -117325,6 +117334,7 @@
 ||trackeverything.co^
 ||trackfeed.com^
 ||trackicollect.ibase.fr^
+||trackid.globoid.globo.com^
 ||trackimpression.com^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||tracking-api.hotmart.com^
@@ -130371,7 +130381,7 @@
 ||zzsdtzb.com^
 ||zzsqqx.shopjapan.co.jp^
 ||zztxfj.xyz^
-||zzv2.net.daraz.com^!202505090303
+||zzv2.net.daraz.com^!202505110303
 ||zzy.quyaoya.com^
 ||zzy1.quyaoya.com^
 ||zzyanhushi.com^! Title: NoTrack Tracker Blocklist
