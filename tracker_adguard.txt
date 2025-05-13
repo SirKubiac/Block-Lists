@@ -25830,6 +25830,7 @@
 ||csp.as.criteo.net^
 ||csp.criteo.net^
 ||csp.da1.vip.prod.criteo.net^
+||csp.godaddy.com^
 ||csp.jp2.vip.prod.criteo.net^
 ||csp.nl3.eu.criteo.net^
 ||csp.nl3.vip.prod.criteo.net^
@@ -130327,7 +130328,7 @@
 ||zzsdtzb.com^
 ||zzsqqx.shopjapan.co.jp^
 ||zztxfj.xyz^
-||zzv2.net.daraz.com^!202505110303
+||zzv2.net.daraz.com^!202505120303
 ||zzy.quyaoya.com^
 ||zzy1.quyaoya.com^
 ||zzyanhushi.com^! Title: NoTrack Tracker Blocklist

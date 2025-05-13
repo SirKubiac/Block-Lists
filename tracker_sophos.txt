@@ -25830,6 +25830,7 @@ csp-reporting.cloudflare.com
 csp.as.criteo.net
 csp.criteo.net
 csp.da1.vip.prod.criteo.net
+csp.godaddy.com
 csp.jp2.vip.prod.criteo.net
 csp.nl3.eu.criteo.net
 csp.nl3.vip.prod.criteo.net
