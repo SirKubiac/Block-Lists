@@ -610,7 +610,6 @@
 ||adguard.hartley.cloud^
 ||query.hdns.io^
 ||ordns.he.net^
-||us-ny-alula.heliumcloud.cc^
 ||dns.hellozhao.com^
 ||dns.henek.ovh^
 ||httpdns-push.heytapmobile.com^
@@ -640,6 +639,7 @@
 ||opennic.i2pd.xyz^
 ||opennic2.i2pd.xyz^
 ||vd.i81.ru^
+||dns.iamanuragh.in^
 ||dns.iamninja.ru^
 ||mask.icloud.com^
 ||mask-h2.icloud.com^
