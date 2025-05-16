@@ -7611,6 +7611,7 @@ active.baofeng.com
 active.com.tt.omtrdc.net
 active.net.daraz.com
 active.sangfor.com
+active.tc.skysrt.com
 active.tt.omtrdc.net
 active24stats.nl
 activecampaign.tt.omtrdc.net
@@ -103182,7 +103183,6 @@ smetrics.litfulo.com
 smetrics.liveitup.com
 smetrics.lizearle.com
 smetrics.lloydslist.com
-smetrics.lloydslistintelligence.cactive.tc.skysrt.com
 smetrics.lloydslistintelligence.com
 smetrics.lmtonline.com
 smetrics.loblaws.ca
