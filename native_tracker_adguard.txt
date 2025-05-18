@@ -537,6 +537,7 @@
 ||mcs.us.tiktok.com^
 ||mcs.us.tiktokv.com^
 ||mcs16-normal-no1a.tiktokw.eu^
+||mcs16-normal-useastred.tiktokw.eu^
 ||mcs16-normal-ycru.tiktok.com^
 ||me.apple-dns.net^
 ||mercury-sdk.snssdk.com^
