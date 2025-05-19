@@ -725,7 +725,6 @@
 ||adg.khon.dev^
 ||adguard.kiboko.it^
 ||doh.kidzonet.io^
-||kilabit.info^
 ||doh.killtw.im^
 ||blog.kimiblock.top^
 ||dns1.klcd.eu^
@@ -880,7 +879,6 @@
 ||blackhole.myon.lu^
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
-||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
