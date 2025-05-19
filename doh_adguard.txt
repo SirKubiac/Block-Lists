@@ -725,6 +725,7 @@
 ||adg.khon.dev^
 ||adguard.kiboko.it^
 ||doh.kidzonet.io^
+||kilabit.info^
 ||doh.killtw.im^
 ||blog.kimiblock.top^
 ||dns1.klcd.eu^
