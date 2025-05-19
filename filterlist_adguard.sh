@@ -1,8 +1,8 @@
 #!/bin/bash
 
 export GIT_ASKPASS=echo
-export GIT_USERNAME=SirKubiac
-export GIT_PASSWORD=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
+export GIT_USERNAME=
+export GIT_PASSWORD=
 
 # Zielverzeichnis und Dateien
 DOH_TARGET="/var/git/Block-Lists/doh_adguard.txt"
