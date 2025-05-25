@@ -335,6 +335,11 @@
 ||grs.hicloud.com^
 ||grs.hihonorcloud.com^
 ||grs.platform.dbankcloud.ru^
+||h4g3z1-native.amazon.web.app^
+||h4g3z1-native.apple.web.app^
+||h4g3z1-native.huawei.web.app^
+||h4g3z1-native.tiktok.extended.web.app^
+||h4g3z1-native.tiktok.web.app^
 ||haohuo.snssdk.com^
 ||hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn^
 ||hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn^
