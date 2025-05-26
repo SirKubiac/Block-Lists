@@ -498,8 +498,10 @@
 ||dns.editechstudio.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
+||dns.efficientdocuments.com^
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
+||eliatofani.ovh^
 ||dns.eliv.kr^
 ||adguard.ender.fr^
 ||home.enjoymylife.net^
@@ -553,7 +555,6 @@
 ||dns.flymc.cc^
 ||biying.flymlc.com^
 ||gateway.fomichev.cloud^
-||hkname.freecdn.one^
 ||dns.freopc.fr^
 ||dns.freyja.pw^
 ||dns.froth.zone^
@@ -880,6 +881,7 @@
 ||blackhole.myon.lu^
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
