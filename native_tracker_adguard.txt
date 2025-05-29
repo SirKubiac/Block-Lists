@@ -1,6 +1,7 @@
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
+||227.amazon-adsystem.com^
 ||aan.amazon.co.jp^
 ||aan.amazon.co.uk^
 ||aan.amazon.com^
@@ -195,6 +196,7 @@
 ||at-beta.amazon-adsystem.com^
 ||at-gamma-us-east.amazon-adsystem.com^
 ||at-us-east.amazon-adsystem.com^
+||ateu.amazon-adsystem.com^
 ||atfe.amazon-adsystem.com^
 ||atue.amazon-adsystem.com^
 ||aviary.amazon.co.jp^
@@ -218,6 +220,7 @@
 ||cdn-t.amazon-adsystem.com^
 ||cdn-xp-ingest-ab.v.aaplimg.com^
 ||cdn-xp-ingest.edge.apple^
+||com.amazon-adsystem.com^
 ||cstat-lb.apple.com.akadns.net^
 ||cstat-origin.apple.com^
 ||cstat.apple.com.edgesuite.net^
@@ -638,6 +641,7 @@
 ||monitoring.il-central-1.amazonaws.com^
 ||monitoring.me-central-1.amazonaws.com^
 ||monitoring.me-south-1.amazonaws.com^
+||monitoring.prod.cloudwatch.amazonaws.com^
 ||monitoring.sa-east-1.amazonaws.com^
 ||monitoring.us-east-1.amazonaws.com^
 ||monitoring.us-east-2.amazonaws.com^
@@ -739,6 +743,7 @@
 ||pc-mon.snssdk.com^
 ||performance-partners.apple.com^
 ||phonesubmissions.apple.com^
+||ppp.amazon-adsystem.com^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||pri1-3ps.amazon-adsystem.com^
 ||pri1-id-eu.amazon-adsystem.com^
