@@ -1,7 +1,6 @@
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
-||227.amazon-adsystem.com^
 ||aan.amazon.co.jp^
 ||aan.amazon.co.uk^
 ||aan.amazon.com^
@@ -220,7 +219,6 @@
 ||cdn-t.amazon-adsystem.com^
 ||cdn-xp-ingest-ab.v.aaplimg.com^
 ||cdn-xp-ingest.edge.apple^
-||com.amazon-adsystem.com^
 ||cstat-lb.apple.com.akadns.net^
 ||cstat-origin.apple.com^
 ||cstat.apple.com.edgesuite.net^
@@ -417,6 +415,7 @@
 ||location.tiktokw.us^
 ||location.us.tiktok.com^
 ||location.us.tiktokv.com^
+||locationv16-normal-useastred.tiktokv.eu^
 ||log-dra.platform.hihonorcloud.com^
 ||log-drcn.platform.hihonorcloud.com^
 ||log-dre.platform.hihonorcloud.com^
@@ -743,7 +742,6 @@
 ||pc-mon.snssdk.com^
 ||performance-partners.apple.com^
 ||phonesubmissions.apple.com^
-||ppp.amazon-adsystem.com^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||pri1-3ps.amazon-adsystem.com^
 ||pri1-id-eu.amazon-adsystem.com^
@@ -783,6 +781,7 @@
 ||rtc-logger.tiktokv.com^
 ||rtc-logger.tiktokv.us^
 ||rtc-logger.us.tiktokv.com^
+||rtc-logger16-normal-useastred.tiktokv.eu^
 ||rtlog-i18n.tiktokv.com^
 ||rtlog-phx.tiktokv.com^
 ||rtlog-ru.tiktokv.com^
