@@ -1,4 +1,3 @@
-227.amazon-adsystem.com
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
 aan.amazon.com
@@ -227,7 +226,6 @@ cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 c.gamma-toolbox.aps.amazon-adsystem.com
 client.aps.amazon-adsystem.com
 client.rum.us-east-1.amazonaws.com
-com.amazon-adsystem.com
 config.aps.amazon-adsystem.com
 c.toolbox.aps.amazon-adsystem.com
 d3p8zr0ffa9t17.cloudfront.net
@@ -419,7 +417,6 @@ paa-reporting-advertising.amazon
 pg.bid-na.ads.aps.amazon-adsystem.com
 pg.event-na.ads.aps.amazon-adsystem.com
 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
-ppp.amazon-adsystem.com
 pri1-3ps.amazon-adsystem.com
 pri1-id-eu.amazon-adsystem.com
 pri1-id-fe.amazon-adsystem.com
@@ -1205,6 +1202,7 @@ location-v6-ttp2.tiktokv.eu
 location-v6-ttp2.tiktokv.us
 location-v6-va.tiktokv.com
 location-va.tiktokv.com
+locationv16-normal-useastred.tiktokv.eu
 log.tiktokv.com
 log.tiktokv.us
 log-i18n.tiktokv.com
@@ -1281,6 +1279,7 @@ rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
 rtc-logger-ttp2.tiktokv.us
 rtc-logger-va.tiktokv.com
+rtc-logger16-normal-useastred.tiktokv.eu
 rtlog.tiktokv.com
 rtlog-i18n.tiktokv.com
 rtlog-phx.tiktokv.com
@@ -1533,6 +1532,7 @@ location-v6-ttp2.tiktokv.eu
 location-v6-ttp2.tiktokv.us
 location-v6-va.tiktokv.com
 location-va.tiktokv.com
+locationv16-normal-useastred.tiktokv.eu
 log.tiktokv.com
 log.tiktokv.us
 log-i18n.tiktokv.com
@@ -1693,6 +1693,7 @@ rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
 rtc-logger-ttp2.tiktokv.us
 rtc-logger-va.tiktokv.com
+rtc-logger16-normal-useastred.tiktokv.eu
 rtlog.tiktokv.com
 rtlog-i18n.tiktokv.com
 rtlog-phx.tiktokv.com
