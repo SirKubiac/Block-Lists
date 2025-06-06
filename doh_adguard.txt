@@ -969,7 +969,6 @@
 ||dns2.nordvpn.com^
 ||1.dns.noridev.moe^
 ||2.dns.noridev.moe^
-||dns.norvig.dk^
 ||dns.notjakob.com^
 ||dns.novali.date^
 ||dns.novg.net^
@@ -1323,7 +1322,6 @@
 ||dot.tooli.ca^
 ||nsc.torgues.net^
 ||doh.totoro.pub^
-||dns.tracker.ink^
 ||resolv1.trash.net^
 ||resolv2.trash.net^
 ||resolv3.trash.net^
