@@ -718,6 +718,7 @@
 ||mssdk24-normal-useast2a.tiktokv.com^
 ||mssdk24-normal.tiktokv.com^
 ||mssdk31-normal-zr-alisg.tiktokv.com^
+||mssdk31-normal-zr-useast1a.tiktokv.com^
 ||mssdk32-normal-zr-alisg.tiktokv.com^
 ||mssdk32-normal-zr-useast1a.tiktokv.com^
 ||new-telemetry.insights.video.a2z.com^
