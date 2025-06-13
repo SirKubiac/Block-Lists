@@ -252,7 +252,6 @@
 ||adguard.frutuozo.com.br^
 ||adguard.gbrossi.com.br^
 ||dns.joaofidelix.com.br^
-||dns.netraptor.com.au^
 ||dns.weixin.qq.com.cn^
 ||dns.redhosting.com.ar^
 ||doh.viatech.com.tw^
@@ -513,7 +512,6 @@
 ||armorrush.eu.org^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.mayx.eu.org^
-||arashi.net.eu.org^
 ||sukidayo.eu.org^
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
@@ -1426,7 +1424,6 @@
 ||your-dns.run^
 ||yovbak.com^
 ||dns.yuu-g.net^
-||yuvelirtut.website^
 ||adg.yybyy.wiki^
 ||dns.daemon.za.net^
 ||adguard.zachitect.com^
