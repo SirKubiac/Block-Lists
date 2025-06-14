@@ -35,6 +35,7 @@ aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
+aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com
 aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
@@ -393,18 +394,6 @@ monitoring.us-gov-east-1.amazonaws.com
 monitoring.us-gov-west-1.amazonaws.com
 monitoring.us-west-1.amazonaws.com
 monitoring.us-west-2.amazonaws.com
-msh.amazon.ca
-msh.amazon.cn
-msh.amazon.co.jp
-msh.amazon.co.uk
-msh.amazon.com
-msh.amazon.com.br
-msh.amazon.com.mx
-msh.amazon.de
-msh.amazon.es
-msh.amazon.fr
-msh.amazon.in
-msh.amazon.it
 mshopbugsnag.irm.amazon.dev
 new-telemetry.insights.video.a2z.com
 notify.aca.bugsnag.appstore.a2z.com
