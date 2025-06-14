@@ -495,6 +495,7 @@
 ||dns.editechstudio.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
+||dns.efficientdocuments.com^
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||eliatofani.ovh^
@@ -512,6 +513,7 @@
 ||armorrush.eu.org^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.mayx.eu.org^
+||arashi.net.eu.org^
 ||sukidayo.eu.org^
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
