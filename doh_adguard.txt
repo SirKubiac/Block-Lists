@@ -252,6 +252,7 @@
 ||adguard.frutuozo.com.br^
 ||adguard.gbrossi.com.br^
 ||dns.joaofidelix.com.br^
+||dns.netraptor.com.au^
 ||dns.weixin.qq.com.cn^
 ||dns.redhosting.com.ar^
 ||doh.viatech.com.tw^
