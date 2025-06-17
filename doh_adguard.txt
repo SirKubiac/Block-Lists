@@ -104,6 +104,7 @@
 ||adguardhome.atakorah.com^
 ||atris.cyou^
 ||dohtrial.att.net^
+||dns.auapi.fun^
 ||africa.avastdns.com^
 ||secure.avastdns.com^
 ||adguard.avdkishore.dev^
@@ -327,6 +328,10 @@
 ||dns.dns-53.uk^
 ||dns.dns-53.us^
 ||dns-free.link^
+||dns1.dns-ga.de^
+||dns2.dns-ga.de^
+||dns3.dns-ga.de^
+||doh.dns-ga.de^
 ||secure-dns.dns-ga.de^
 ||dns.dns-over-https.com^
 ||dns0.eu^
@@ -484,6 +489,7 @@
 ||dukun.de^
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
+||resolver1.dyndnsinternetguide.com^
 ||dns.dynx.pro^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
@@ -514,7 +520,6 @@
 ||armorrush.eu.org^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.mayx.eu.org^
-||arashi.net.eu.org^
 ||sukidayo.eu.org^
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
@@ -1148,7 +1153,6 @@
 ||tiger.dns.qwer.pw^
 ||resolver.r0cket.net^
 ||r1bnc.com^
-||resolve2.r9x.cc^
 ||dns.rabbitdns.org^
 ||family.rabbitdns.org^
 ||security.rabbitdns.org^
