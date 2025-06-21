@@ -546,6 +546,7 @@
 ||dns.ffnw.de^
 ||fidelius.top^
 ||dns.filipccz.eu^
+||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns01.flm9.net^
@@ -889,6 +890,7 @@
 ||blackhole.myon.lu^
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
@@ -1101,7 +1103,6 @@
 ||doh.port53.dk^
 ||dns.porteii.com^
 ||doh.powerdns.org^
-||dns.aeiou.pp.ua^
 ||dns.ha-dvin.pp.ua^
 ||dns.korzhyk.pp.ua^
 ||lindung.pp.ua^

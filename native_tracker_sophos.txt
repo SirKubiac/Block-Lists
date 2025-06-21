@@ -1043,6 +1043,7 @@ uba.huaweicloud.com
 logserver.nzxcloud.cn
 logservice.vmall.com
 h4g3z1-native.huawei.web.app
+p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
 gplog-va.byteoversea.com
@@ -1083,6 +1084,7 @@ xlog.byteoversea.com
 xlog-o.byteoversea.com
 xlog-va.byteoversea.com
 xlog-va-useast2a.byteoversea.com
+p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
 abtest-ch.snssdk.com
 analytics.snssdk.com
 applog.snssdk.com
@@ -1160,6 +1162,7 @@ location.us.tiktok.com
 mcs.us.tiktok.com
 mcs-ttp2.us.tiktok.com
 mssdk.us.tiktok.com
+p16-tiktok-ads-sg.tiktokcdn.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 ad.tiktokv.com
 ad.tiktokv.us
@@ -1218,6 +1221,7 @@ log19-applog-useast1a.tiktokv.com
 log19-applog-useast2a.tiktokv.com
 log19-normal.tiktokv.com
 log19-normal-alisg.tiktokv.com
+log19-normal-no1a.tiktokv.eu
 log19-normal-useast1a.tiktokv.com
 log19-normal-useast2a.tiktokv.com
 log22-applog-useast1a.tiktokv.com
@@ -1366,6 +1370,7 @@ mcs-ie2.tiktokw.eu
 mssdk.tiktokw.eu
 mssdk.tiktokw.us
 h4g3z1-native.tiktok.web.app
+p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
 gplog-va.byteoversea.com
@@ -1406,6 +1411,7 @@ xlog.byteoversea.com
 xlog-o.byteoversea.com
 xlog-va.byteoversea.com
 xlog-va-useast2a.byteoversea.com
+p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
 abtest-ch.snssdk.com
 analytics.snssdk.com
 applog.snssdk.com
@@ -1488,6 +1494,7 @@ location.us.tiktok.com
 mcs.us.tiktok.com
 mcs-ttp2.us.tiktok.com
 mssdk.us.tiktok.com
+p16-tiktok-ads-sg.tiktokcdn.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 ad.tiktokv.com
 ad.tiktokv.us
@@ -1561,6 +1568,7 @@ log19-applog-useast1a.tiktokv.com
 log19-applog-useast2a.tiktokv.com
 log19-normal.tiktokv.com
 log19-normal-alisg.tiktokv.com
+log19-normal-no1a.tiktokv.eu
 log19-normal-useast1a.tiktokv.com
 log19-normal-useast2a.tiktokv.com
 log22-applog-useast1a.tiktokv.com
