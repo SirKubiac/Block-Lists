@@ -503,6 +503,7 @@
 ||dns.editechstudio.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
+||dns.efficientdocuments.com^
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||eliatofani.ovh^
@@ -724,7 +725,6 @@
 ||dns.kawa.tf^
 ||dns.kebree.fr^
 ||dns.keke125.com^
-||doh.kekew.info^
 ||doh.kel.pe^
 ||dns.kerekes.xyz^
 ||dns.kernel-error.de^
