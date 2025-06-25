@@ -1,15 +1,12 @@
 client.wns.windows.com
 wns.windows.com
 fp.msedge.net
-v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 wcpstatic.microsoft.com
 mobile.pipe.aria.microsoft.com
 browser.pipe.aria.microsoft.com
-eu-mobile.events.data.microsoft.com
 vortex.data.microsoft.com
 watson.microsoft.com
-watson.events.data.microsoft.com
 mup.amp.mcafee.com
 settings.data.microsoft.com
 settings-win.data.microsoft.com
