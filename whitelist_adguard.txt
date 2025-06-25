@@ -4,6 +4,7 @@
 ||wcpstatic.microsoft.com^
 ||pipe.aria.microsoft.com^
 ||settings.data.microsoft.com^
+||settings-win.data.microsoft.com^
 ||mup.amp.mcafee.com^
 ||usercentrics.eu^
 ||samsungcloudsolution.com^
