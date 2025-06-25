@@ -1,6 +1,5 @@
 ||wns.windows.com^
 ||fp.msedge.net^
-||events.data.microsoft.com^
 ||vortex-win.data.microsoft.com^
 ||wcpstatic.microsoft.com^
 ||pipe.aria.microsoft.com^
