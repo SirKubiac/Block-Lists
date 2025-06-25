@@ -12,3 +12,4 @@
 ||g.bing.com^
 ||fpt.microsoft.com^
 ||blob.core.windows.net^
+||js.monitor.azure.com^
