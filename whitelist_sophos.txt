@@ -13,6 +13,7 @@ watson.microsoft.com
 watson.events.data.microsoft.com
 mup.amp.mcafee.com
 settings.data.microsoft.com
+settings-win.data.microsoft.com
 usercentrics.eu
 samsungcloudsolution.com
 presence.teams.live.com
