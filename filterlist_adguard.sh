@@ -9,8 +9,8 @@ DOH_TARGET="/var/git/Block-Lists/doh_adguard.txt"
 ADS_TRACKER_TARGET="/var/git/Block-Lists/ads_tracker_adguard.txt"
 AMP_TARGET="/var/git/Block-Lists/amp_adguard.txt"
 NATIVE_TARGET="/var/git/Block-Lists/native_tracker_adguard.txt"
-WHITELIST_DOH="/var/filter_lists/whitelist_doh_adguard.txt"
-WHITELIST="/var/filter_lists/whitelist_adguard.txt"
+WHITELIST_DOH="/var/git/Block-Lists/whitelist_doh_adguard.txt"
+WHITELIST="/var/git/Block-Lists/whitelist_adguard.txt"
 
 # URLs der Listen
 DOH_URL="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt"
