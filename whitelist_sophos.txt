@@ -20,3 +20,4 @@ bat.bing.com
 g.bing.com
 merchantpool1.fpt.microsoft.com
 ceuswatcab01.blob.core.windows.net
+js.monitor.azure.com
