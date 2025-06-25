@@ -51,8 +51,8 @@ native_tracker_urls=(
 facebook_url="https://blocklist.sefinek.net/generated/v1/noip/social/facebook.txt"
 
 # Paths to whitelist files
-whitelist_ads_tracking="/var/filter_lists/whitelist_sophos.txt"
-whitelist_doh="/var/filter_lists/whitelist_doh_sophos.txt"
+whitelist_ads_tracking="/var/git/Block-Lists/whitelist_sophos.txt"
+whitelist_doh="/var/git/Block-Lists/whitelist_doh_sophos.txt"
 
 # Output files
 ads_tracker_output="/var/git/Block-Lists/ads_tracker_sophos.txt"
