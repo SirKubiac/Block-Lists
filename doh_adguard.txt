@@ -274,6 +274,7 @@
 ||dns.cryptomize.com^
 ||dotdns.cryptroute.com^
 ||dns.crystalyx.net^
+||dns.csa-rz.de^
 ||dns.csaonline.de^
 ||dns.csswg.org^
 ||cubedns.com^
@@ -720,7 +721,6 @@
 ||kavkaz.monster^
 ||dns.kawa.tf^
 ||dns.kebree.fr^
-||dns.keke125.com^
 ||doh.kekew.info^
 ||doh.kel.pe^
 ||dns.kerekes.xyz^
@@ -887,7 +887,6 @@
 ||blackhole.myon.lu^
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
-||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
