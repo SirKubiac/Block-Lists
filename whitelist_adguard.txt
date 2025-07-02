@@ -6,3 +6,4 @@
 ||mup.amp.mcafee.com^
 ||blob.core.windows.net^
 ||js.monitor.azure.com^
+||activity.windows.com^

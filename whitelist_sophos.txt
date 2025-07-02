@@ -7,3 +7,4 @@ settings.data.microsoft.com
 settings-win.data.microsoft.com
 blob.core.windows.net
 js.monitor.azure.com
+activity.windows.com

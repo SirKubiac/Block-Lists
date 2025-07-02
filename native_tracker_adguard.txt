@@ -88,7 +88,6 @@
 ||ac2.msn.com^
 ||ac3.msn.com^
 ||acfeedbackws.icloud.com^
-||activity.windows.com^
 ||ad-format-i18n.tiktokv.com^
 ||ad-format-sg.tiktokv.com^
 ||ad-format-ttp2.tiktokv.us^
