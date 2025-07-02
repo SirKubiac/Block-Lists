@@ -502,7 +502,6 @@
 ||fls-na.amazon.com.mx^
 ||fls-na.amazon.com^
 ||forester.a2z.com^
-||fp.msedge.net^
 ||frc-visio-telemetry.officeapps.live.com^
 ||frontier.byteoversea.com^
 ||frontier.tiktokv.com^
@@ -620,7 +619,6 @@
 ||jetanalytics.servicebus.windows.net^
 ||jpc-visio-telemetry.officeapps.live.com^
 ||js.cdn.applicationinsights.io^
-||js.monitor.azure.com^
 ||js0.cdn.applicationinsights.io^
 ||js0.tst.applicationinsights.io^
 ||js1.cdn.applicationinsights.io^
@@ -1216,8 +1214,6 @@
 ||self-events-data.trafficmanager.net^
 ||settings-sandbox.data.microsoft.com^
 ||settings-win-ppe.data.microsoft.com^
-||settings-win.data.microsoft.com^
-||settings.data.microsoft.com^
 ||settingsfd-geo.trafficmanager.net^
 ||settingsfd-ppe.trafficmanager.net^
 ||settingsfd-sandbox.trafficmanager.net^
