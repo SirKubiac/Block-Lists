@@ -7,3 +7,4 @@
 ||blob.core.windows.net^
 ||js.monitor.azure.com^
 ||activity.windows.com^
+||grs.dbankcloud.com^
