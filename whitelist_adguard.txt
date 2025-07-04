@@ -12,3 +12,4 @@
 ||grs.dbankcloud.cn^
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.ru^
+||grs-dbankcloud-com-dre.appacc.dbankedge.cn^

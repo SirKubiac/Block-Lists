@@ -527,7 +527,6 @@
 ||grs-dbankcloud-com-dra.region.dbankedge.cn^
 ||grs-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||grs-dbankcloud-com-dre.appacc-region.dbankedge.cn^
-||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
 ||grs-dbankcloud-com-dre.edge.dbankedge.cn^
 ||grs-dbankcloud-com-dre.region.dbankedge.cn^
 ||grs.hicloud.com^
