@@ -260,7 +260,6 @@
 ||at-us-east.amazon-adsystem.com^
 ||ateu.amazon-adsystem.com^
 ||atfe.amazon-adsystem.com^
-||atm-settingsfe-prod-geo2.trafficmanager.net^
 ||atue.amazon-adsystem.com^
 ||auc-visio-telemetry.officeapps.live.com^
 ||aviary.amazon.co.jp^
