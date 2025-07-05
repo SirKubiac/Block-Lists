@@ -209,7 +209,6 @@
 ||analytics-i18n.tiktok.com^
 ||analytics-ie.tiktokw.eu^
 ||analytics-ipv6.tiktokw.us^
-||analytics-listener.trafficmanager.net^
 ||analytics-sg.tiktok.com^
 ||analytics-test.tiktok.com^
 ||analytics-ttp2.tiktokw.eu^
@@ -747,7 +746,6 @@
 ||logservice1.dbankcloud.com^
 ||logservice1.hicloud.com^
 ||logtrace.snssdk.com^
-||logtransform.hicloud.com^
 ||mads-eu.amazon.com^
 ||mads-fe.amazon.com^
 ||mads.amazon-adsystem.com^
@@ -1309,6 +1307,9 @@
 ||vfw-us-west.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw.amazon-adsystem.com^
+||vfwm-us.amazon-adsystem.com^
+||vfwm.amazon-adsystem.com^
+||vfws.amazon-adsystem.com^
 ||visio-telemetry.officeapps.live.com^
 ||vortex-sandbox.data.microsoft.com^
 ||vortex-win-sandbox.data.microsoft.com^
@@ -1336,6 +1337,7 @@
 ||ws-fe.amazon-adsystem.com^
 ||ws-in.amazon-adsystem.com^
 ||ws-na.amazon-adsystem.com^
+||wttwebsiteprodapi-liveevents.trafficmanager.net^
 ||xlog-o.byteoversea.com^
 ||xlog-ru.tiktokv.com^
 ||xlog-va-useast2a.byteoversea.com^

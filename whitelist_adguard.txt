@@ -13,3 +13,4 @@
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.ru^
 ||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
+||time.samsungcloudsolution.com^
