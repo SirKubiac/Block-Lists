@@ -166,7 +166,6 @@
 ||adguard.bonsirven.eu^
 ||doh.bortzmeyer.fr^
 ||cloudns.bosco.ovh^
-||dns.braene.com^
 ||dns.brahma.world^
 ||bravedns.com^
 ||dns.brembeck.cloud^
@@ -501,7 +500,6 @@
 ||dns.editechstudio.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
-||dns.efficientdocuments.com^
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||eliatofani.ovh^
