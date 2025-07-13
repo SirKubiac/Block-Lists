@@ -960,7 +960,6 @@
 ||p16-ad.byteoversea.com^
 ||p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net^
 ||p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net^
-||p16-tiktok-ads-sg.tiktokcdn.com^
 ||paa-reporting-advertising.amazon^
 ||pangolin.snssdk.com^
 ||partiality.itunes-apple.com.akadns.net^
