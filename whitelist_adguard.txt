@@ -13,6 +13,7 @@
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.ru^
 ||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
+||grs-dbankcloud-com-dre.appacc-region.dbankedge.cn^
 ||time.samsungcloudsolution.com^
 ||atm-settingsfe-prod-geo2.trafficmanager.net^
 ||dc.dqa.samsung.com^
