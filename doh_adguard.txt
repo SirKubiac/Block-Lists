@@ -549,6 +549,7 @@
 ||dns.ffnw.de^
 ||fidelius.top^
 ||dns.filipccz.eu^
+||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns01.flm9.net^
@@ -1098,6 +1099,7 @@
 ||polisitogel.limo^
 ||polisitogel.living^
 ||polisitogel.luxe^
+||polisitogel.show^
 ||polisitogel.webcam^
 ||doh.port53.dk^
 ||dns.porteii.com^
@@ -1196,9 +1198,11 @@
 ||dns.rubyfish.cn^
 ||ea-dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
+||adg.rueiliu.space^
 ||rumpelsepp.org^
 ||doh.runsel.id^
 ||agh-yz.russel053.com^
+||drs.rustsword.com^
 ||dns1.ryan-palmer.com^
 ||dns1.saferbfc.org^
 ||dns2.saferbfc.org^
@@ -1438,4 +1442,5 @@
 ||adguard-kartoffel.zernico.de^
 ||doh.zknt.org^
 ||zougloub.eu^
+||dns.zui.lol^
 ||dns.zzuhacker.cn^
