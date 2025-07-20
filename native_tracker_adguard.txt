@@ -209,6 +209,7 @@
 ||analytics-i18n.tiktok.com^
 ||analytics-ie.tiktokw.eu^
 ||analytics-ipv6.tiktokw.us^
+||analytics-listener.trafficmanager.net^
 ||analytics-sg.tiktok.com^
 ||analytics-test.tiktok.com^
 ||analytics-ttp2.tiktokw.eu^
@@ -1307,12 +1308,18 @@
 ||vfwm-us.amazon-adsystem.com^
 ||vfwm.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
+||video-ads.a2z.com^
 ||visio-telemetry.officeapps.live.com^
 ||vortex-sandbox.data.microsoft.com^
 ||vortex-win-sandbox.data.microsoft.com^
 ||vortex-win.data.microsoft.com^
 ||vortex.data.microsoft.com^
 ||vortex.data.trafficmanager.net^
+||vq-eu-west-1.amazon-adsystem.com^
+||vq-fe-us-west-2.amazon-adsystem.com^
+||vq-test-us-east-1.amazon-adsystem.com^
+||vq-us-east-1.amazon-adsystem.com^
+||vq-us-west-2.amazon-adsystem.com^
 ||vstelemetry.trafficmanager.net^
 ||watson.live.com^
 ||watson.microsoft.com^
