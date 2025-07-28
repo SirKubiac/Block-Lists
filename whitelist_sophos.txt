@@ -14,3 +14,4 @@ dc.dqa.samsung.com
 push.services.mozilla.com
 grs.dbankcloud.com
 dnsotls-ds.metric.gstatic.com
+metric.gstatic.com
