@@ -489,7 +489,6 @@
 ||dukun.de^
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
-||gustamadh.dynv6.net^
 ||dns.dynx.pro^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
@@ -518,6 +517,7 @@
 ||armorrush.eu.org^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.mayx.eu.org^
+||arashi.net.eu.org^
 ||sukidayo.eu.org^
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
