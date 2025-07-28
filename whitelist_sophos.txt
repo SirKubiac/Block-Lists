@@ -12,3 +12,4 @@ time.samsungcloudsolution.com
 atm-settingsfe-prod-geo2.trafficmanager.net
 dc.dqa.samsung.com
 push.services.mozilla.com
+grs.dbankcloud.com
