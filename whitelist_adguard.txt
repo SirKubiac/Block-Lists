@@ -13,3 +13,4 @@
 ||push.services.mozilla.com^
 ||grs.dbankcloud.com^
 ||metric.gstatic.com^
+||mobile.events.data.microsoft.com^
