@@ -488,7 +488,6 @@
 ||dukun.de^
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
-||gustamadh.dynv6.net^
 ||dns.dynx.pro^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
@@ -1434,6 +1433,7 @@
 ||your-dns.run^
 ||yovbak.com^
 ||dns.yuu-g.net^
+||yuvelirtut.website^
 ||adg.yybyy.wiki^
 ||dns.daemon.za.net^
 ||adguard.zachitect.com^
