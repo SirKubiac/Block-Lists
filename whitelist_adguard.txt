@@ -13,7 +13,6 @@
 ||push.services.mozilla.com^
 ||grs.dbankcloud.com^
 ||metric.gstatic.com^
-||mobile.events.data.microsoft.com^
 ||mobile.pipe.aria.microsoft.com^
 ||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
 ||grs-dbankcloud-com-dre.appacc-region.dbankedge.cn^
