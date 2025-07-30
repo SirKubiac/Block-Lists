@@ -16,5 +16,6 @@ grs.dbankcloud.com
 dnsotls-ds.metric.gstatic.com
 metric.gstatic.com
 mobile.events.data.microsoft.com
+mobile.pipe.aria.microsoft.com
 grs-dbankcloud-com-dre.appacc.dbankedge.cn
 grs-dbankcloud-com-dre.appacc-region.dbankedge.cn
