@@ -14,5 +14,6 @@
 ||grs.dbankcloud.com^
 ||metric.gstatic.com^
 ||mobile.pipe.aria.microsoft.com^
+||browser.pipe.aria.microsoft.com^
 ||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
 ||grs-dbankcloud-com-dre.appacc-region.dbankedge.cn^
