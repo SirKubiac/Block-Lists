@@ -1,3 +1,8 @@
+||mobile.pipe.aria.microsoft.com^
+||browser.pipe.aria.microsoft.com^
+||fp.msedge.net^
+||settings.data.microsoft.com^
+||settings-win.data.microsoft.com^
 ||mup.amp.mcafee.com^
 ||time.samsungcloudsolution.com^
 ||dc.dqa.samsung.com^
