@@ -1,13 +1,4 @@
-client.wns.windows.com
-wns.windows.com
-fp.msedge.net
-wcpstatic.microsoft.com
 mup.amp.mcafee.com
-settings.data.microsoft.com
-settings-win.data.microsoft.com
-blob.core.windows.net
-js.monitor.azure.com
-activity.windows.com
 time.samsungcloudsolution.com
 atm-settingsfe-prod-geo2.trafficmanager.net
 dc.dqa.samsung.com
@@ -15,7 +6,5 @@ push.services.mozilla.com
 grs.dbankcloud.com
 dnsotls-ds.metric.gstatic.com
 metric.gstatic.com
-mobile.events.data.microsoft.com
-mobile.pipe.aria.microsoft.com
 grs-dbankcloud-com-dre.appacc.dbankedge.cn
 grs-dbankcloud-com-dre.appacc-region.dbankedge.cn
