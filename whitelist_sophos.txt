@@ -3,6 +3,7 @@ fp.msedge.net
 settings.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 browser.pipe.aria.microsoft.com
+client.wns.windows.com
 mup.amp.mcafee.com
 time.samsungcloudsolution.com
 atm-settingsfe-prod-geo2.trafficmanager.net
