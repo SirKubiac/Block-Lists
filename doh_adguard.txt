@@ -329,6 +329,7 @@
 ||dns.cmrg.net^
 ||dns.coderoria.com^
 ||dns.colorfreedom.org^
+||dns.comeonjames.club^
 ||dns.comff.net^
 ||dns.connect.fail^
 ||dns.controld.com^
@@ -762,6 +763,7 @@
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
 ||doh-2.seby.io^
+||doh-ca.naftalie.net^
 ||doh-ch.blahdns.com^
 ||doh-de.blahdns.com^
 ||doh-fi.blahdns.com^
