@@ -11,7 +11,5 @@ dc.dqa.samsung.com
 push.services.mozilla.com
 grs.dbankcloud.com
 grs.dbankcloud.eu
-dnsotls-ds.metric.gstatic.com
-metric.gstatic.com
 grs-dbankcloud-com-dre.appacc.dbankedge.cn
 grs-dbankcloud-com-dre.appacc-region.dbankedge.cn

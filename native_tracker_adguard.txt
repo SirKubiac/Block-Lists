@@ -709,6 +709,7 @@
 ||openlocation-drcn.platform.dbankcloud.com^
 ||origin-sq-tungsten-ts.amazon-adsystem.com^
 ||os-mon.snssdk.com^
+||p0-common-image-private-useastred.eu.tiktok.com^
 ||p16-ad.byteoversea.com^
 ||paa-reporting-advertising.amazon^
 ||pangolin.snssdk.com^
