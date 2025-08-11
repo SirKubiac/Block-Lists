@@ -702,6 +702,7 @@
 ||dns.yatima.tv^
 ||dns.yuu-g.net^
 ||dns.zemows.industries^
+||dns.zfsystem.tech^
 ||dns.zui.lol^
 ||dns.zzuhacker.cn^
 ||dns0.eu^
@@ -836,7 +837,6 @@
 ||doh.infracell.net^
 ||doh.iucc.ac.il^
 ||doh.jeroenhd.nl^
-||doh.kekew.info^
 ||doh.kel.pe^
 ||doh.kidzonet.io^
 ||doh.killtw.im^
@@ -877,7 +877,6 @@
 ||doh.sidnlabs.nl^
 ||doh.sublime9.xyz^
 ||doh.suche.org^
-||doh.sunoaki.net^
 ||doh.syshero.org^
 ||doh.technochat.in^
 ||doh.thio.me^
