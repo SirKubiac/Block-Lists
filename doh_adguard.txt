@@ -387,7 +387,6 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
-||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.floriantinney.de^
 ||dns.flwagners.com^
@@ -525,7 +524,6 @@
 ||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.muxinghe.cn^
-||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nako.kr^
@@ -936,7 +934,6 @@
 ||easyhandshake.com^
 ||ecs-doh.dnswarden.com^
 ||edge.nextdns.io^
-||edgy-dns.com^
 ||eliatofani.ovh^
 ||emby.rasp.tv^
 ||esel.stusta.mhn.de^
@@ -1162,6 +1159,7 @@
 ||ns2.flodns.net^
 ||ns2.opennameserver.org^
 ||ns2.recursive.dnsbycomodo.com^
+||ns2.wuyouss.com^
 ||ns3.bit-trail.nl^
 ||ns3.com^
 ||ns3.cx^
@@ -1198,7 +1196,6 @@
 ||par01.dnscry.pt^
 ||paradise-human.shop^
 ||paranoia.mydns.network^
-||pashagame456.com^
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||paulo.nom.za^
 ||pdns.faelix.net^
