@@ -629,7 +629,6 @@
 ||dns.stirringphoto.com^
 ||dns.stormycloud.org^
 ||dns.strassmair.org^
-||dns.stvsk.ml^
 ||dns.suhaila.dev^
 ||dns.superstefan.win^
 ||dns.surfshark.com^
@@ -940,6 +939,7 @@
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
 ||family.5ososea.com^
+||family.dns.doubleangels.com^
 ||family.dot.dns.yandex.net^
 ||family.mydns.network^
 ||family.rabbitdns.org^
