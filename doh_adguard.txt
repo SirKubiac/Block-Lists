@@ -199,7 +199,6 @@
 ||cube.neubsi.at^
 ||cubedns.com^
 ||cvt01.dnscry.pt^
-||cynntex.fun^
 ||d.apemlegit.my.id^
 ||d.bod.lol^
 ||d.niaox.com^
@@ -365,10 +364,10 @@
 ||dns.dnsoverhttps.net^
 ||dns.dnswarden.com^
 ||dns.dotnet.win^
+||dns.dremaxx.de^
 ||dns.dyn1.de^
 ||dns.dynx.pro^
 ||dns.eddi.net^
-||dns.efficientdocuments.com^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||dns.engineer.web.id^
@@ -560,7 +559,6 @@
 ||dns.pari.network^
 ||dns.pccoach.nl^
 ||dns.peb-schmidt.de^
-||dns.pernika.net^
 ||dns.pesaventofilippo.com^
 ||dns.petqa.ru^
 ||dns.phillipjberry.net^
