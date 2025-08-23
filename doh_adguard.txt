@@ -177,6 +177,7 @@
 ||chaos-system.de^
 ||child-noads.joindns4.eu^
 ||child.joindns4.eu^
+||chuncheon.dnsovertor.cc^
 ||cleanbrowsing.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
@@ -199,6 +200,7 @@
 ||cube.neubsi.at^
 ||cubedns.com^
 ||cvt01.dnscry.pt^
+||cynntex.fun^
 ||d.apemlegit.my.id^
 ||d.bod.lol^
 ||d.niaox.com^
@@ -252,6 +254,7 @@
 ||dns.abdullahabas.de^
 ||dns.adguard.com^
 ||dns.adrianlam.com^
+||dns.akbxr.com^
 ||dns.albony.xyz^
 ||dns.alloxr.info^
 ||dns.almir1904.eu^
@@ -405,6 +408,7 @@
 ||dns.goldplate.org^
 ||dns.google.com^
 ||dns.google^
+||dns.green-ping.lol^
 ||dns.grqu.de^
 ||dns.guard.io^
 ||dns.gutwe.in^
@@ -763,6 +767,7 @@
 ||doh-pure.onedns.net^
 ||doh-random-upstream.nicolas-dorriere.fr^
 ||doh-sg.blahdns.com^
+||doh.18bit.cn^
 ||doh.30x.me^
 ||doh.360.cn^
 ||doh.42l.fr^
@@ -866,6 +871,7 @@
 ||doh.suche.org^
 ||doh.sunoaki.net^
 ||doh.syshero.org^
+||doh.sz-dns.com^
 ||doh.technochat.in^
 ||doh.thio.me^
 ||doh.this.web.id^
@@ -1028,6 +1034,7 @@
 ||ivnkn.xyz^
 ||jabber-germany.de^
 ||jackyes.ovh^
+||japan.dnsovertor.cc^
 ||jcdns.fun^
 ||jhb01.dnscry.pt^
 ||jit.ddns.net^
@@ -1296,6 +1303,7 @@
 ||securedns.vendorvista.xyz^
 ||securenet.mhsystems.net^
 ||security.rabbitdns.org^
+||seoul.dnsovertor.cc^
 ||sg-dns1.bancuh.com^
 ||sg-w-f-1.nashkan.net^
 ||sg-w-p-1.nashkan.net^
@@ -1305,7 +1313,6 @@
 ||sg1.dnswarden.com^
 ||sg2.ooroot.com^
 ||sgn01.dnscry.pt^
-||shalenkov.dev^
 ||shield.afixer.app^
 ||shield1.eranext.net^
 ||sin02.dnscry.pt^
@@ -1427,4 +1434,3 @@
 ||zdn.ro^
 ||zougloub.eu^
 ||zrh1-ns01.monzoon.net^
-||zxcvb.pp.ua^
