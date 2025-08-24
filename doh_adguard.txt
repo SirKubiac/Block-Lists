@@ -1239,7 +1239,6 @@
 ||protective.joindns4.eu^
 ||ps1.modr.club^
 ||publicdnsserver.com^
-||punono.duckdns.org^
 ||puredns.org^
 ||qdns02.nymterm.com^
 ||qlf-doh.inria.fr^
