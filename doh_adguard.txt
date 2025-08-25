@@ -66,7 +66,6 @@
 ||adguard.haneulo.com^
 ||adguard.hartley.cloud^
 ||adguard.jfchenier.ca^
-||adguard.johanliebert.top^
 ||adguard.kantinyoyok.xyz^
 ||adguard.kasbot.net^
 ||adguard.kiboko.it^
@@ -371,6 +370,7 @@
 ||dns.dyn1.de^
 ||dns.dynx.pro^
 ||dns.eddi.net^
+||dns.efficientdocuments.com^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||dns.engineer.web.id^
@@ -388,6 +388,7 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
+||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.floriantinney.de^
 ||dns.flwagners.com^
