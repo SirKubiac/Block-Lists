@@ -199,7 +199,6 @@
 ||cube.neubsi.at^
 ||cubedns.com^
 ||cvt01.dnscry.pt^
-||cynntex.fun^
 ||d.apemlegit.my.id^
 ||d.bod.lol^
 ||d.niaox.com^
@@ -388,7 +387,6 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
-||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.floriantinney.de^
 ||dns.flwagners.com^
@@ -1363,7 +1361,6 @@
 ||tuandns.duckdns.org^
 ||tujenasnaszato.xyz^
 ||tungdnsne.duckdns.org^
-||tuskythehusky.tech^
 ||tw2.ooroot.com^
 ||tyo01.dnscry.pt^
 ||tyo02.dnscry.pt^
