@@ -826,6 +826,7 @@
 ||doh.eddi.net^
 ||doh.ersei.net^
 ||doh.eu.dnswarden.com^
+||doh.excdn.eu.org^
 ||doh.ffmuc.net^
 ||doh.flashstart.com^
 ||doh.funil.de^
@@ -1000,6 +1001,7 @@
 ||green2.jnraptor.net^
 ||gru01.dnscry.pt^
 ||guard.sntrk.ru^
+||gustamadh.dynv6.net^
 ||gva01.dnscry.pt^
 ||gztech.me^
 ||h.gjrick.tw^
@@ -1128,9 +1130,7 @@
 ||llk01.dnscry.pt^
 ||loadlow.me^
 ||lon01.dnscry.pt^
-||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
-||lukscasino-929-tr.xyz^
 ||luxembourg.privacy-dns.pw^
 ||mabuktogel.builders^
 ||mabuktogel.business^
