@@ -392,7 +392,6 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
-||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.floriantinney.de^
 ||dns.flwagners.com^
@@ -1001,7 +1000,6 @@
 ||green2.jnraptor.net^
 ||gru01.dnscry.pt^
 ||guard.sntrk.ru^
-||gustamadh.dynv6.net^
 ||gva01.dnscry.pt^
 ||gztech.me^
 ||h.gjrick.tw^
