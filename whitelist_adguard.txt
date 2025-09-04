@@ -9,3 +9,5 @@
 ||dc.dqa.samsung.com^
 ||push.services.mozilla.com^
 ||grs.dbankcloud.eu^
+||grs.dbankcloud.com^
+||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
