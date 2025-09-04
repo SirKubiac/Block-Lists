@@ -8,3 +8,4 @@
 ||time.samsungcloudsolution.com^
 ||dc.dqa.samsung.com^
 ||push.services.mozilla.com^
+||grs.dbankcloud.com^
