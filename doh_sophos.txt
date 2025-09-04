@@ -203,6 +203,7 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
@@ -340,7 +341,6 @@ dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cwlys.com
-dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -392,8 +392,8 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
+dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
@@ -425,7 +425,6 @@ dns.hanahira.dev
 dns.hanmey.de
 dns.hannielzhang.com
 dns.hellozhao.com
-dns.henek.ovh
 dns.hinet.net
 dns.home.daniil.it
 dns.hoody.com
@@ -1000,6 +999,7 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
