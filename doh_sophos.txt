@@ -203,7 +203,6 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
-cynntex.fun
 d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
@@ -393,6 +392,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -532,6 +532,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -658,7 +659,6 @@ dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
-dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
@@ -681,7 +681,6 @@ dns.vishalk.com
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
-dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
