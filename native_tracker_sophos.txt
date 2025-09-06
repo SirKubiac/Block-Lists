@@ -361,6 +361,7 @@ cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 cf.iadsdk.apple.com
+chunderw-vpc-gll-stage-us2-tnx.mcs-va.tiktokv.com
 client.aps.amazon-adsystem.com
 client.rum.us-east-1.amazonaws.com
 config.aps.amazon-adsystem.com
@@ -370,6 +371,7 @@ cstat.apple.com
 cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
 cstat.g.aaplimg.com
+customers-data-repository-postgresmx.mcs-va.tiktokv.com
 d3p8zr0ffa9t17.cloudfront.net
 da-cdn.amazon-adsystem.com
 dat.iad.apple.com
@@ -756,6 +758,7 @@ log19-normal.tiktokv.com
 log22-applog-useast1a.tiktokv.com
 log22-applog-useast2a.tiktokv.com
 log22-normal-alisg.tiktokv.com
+log22-normal-useast1a.tiktok.com
 log22-normal-useast1a.tiktokv.com
 log22-normal-useast2a.tiktokv.com
 log22-normal.tiktokv.com
@@ -769,6 +772,7 @@ log32-normal-alisg.tiktokv.com
 log32-normal-no1a.tiktokv.eu
 log32-normal-useast1a.tiktokv.com
 log32-normal-useast2a.tiktokv.com
+log32-normal-zr.tiktokv.com
 log32-normal.tiktokv.com
 log53-normal-c-useast1a.tiktokv.com
 log58-normal-alisg.tiktokv.com
@@ -918,12 +922,14 @@ mon16-platform-ycru.tiktokv.com
 mon16-tmp-normal-useast1a.tiktokv.com
 mon19-normal-alisg.tiktokv.com
 mon19-normal-useast1a.tiktokv.com
+mon19-normal-zr-alisg.tiktokv.com
 mon19-normal.tiktokv.com
 mon22-normal-alisg.tiktokv.com
 mon22-normal-useast1a.tiktokv.com
 mon22-normal.tiktokv.com
 mon31-normal-alisg.tiktokv.com
 mon31-normal-useast1a.tiktokv.com
+mon31-normal-zr-useast1a.tiktokv.com
 mon31-normal.tiktokv.com
 mon32-normal-alisg.tiktokv.com
 mon32-normal-useast1a.tiktokv.com
@@ -992,6 +998,7 @@ mssdk22-normal-useast1a.tiktokv.com
 mssdk22-normal-useast2a.tiktokv.com
 mssdk22-normal-zr-alisg.tiktokv.com
 mssdk22-normal-zr-useast1a.tiktokv.com
+mssdk22-normal-zr.tiktokv.com
 mssdk22-normal.tiktokv.com
 mssdk23-normal-zr-alisg.tiktokv.com
 mssdk23-normal-zr-useast1a.tiktokv.com
@@ -1037,7 +1044,6 @@ ott.us-east.aps.axp.amazon-adsystem.com
 ott.us-west.aps.axp.amazon-adsystem.com
 overlord.qa-iad.apple.com
 overlord.stg-iad.apple.com
-p0-common-image-private-useastred.eu.tiktok.com
 p1-am-iad-servlet-proxy.iad.apple.com
 p1-am-iad-ss-logging-server.iad.apple.com
 p1-mr-iad-ss-static-assets.iad.apple.com
@@ -1167,6 +1173,7 @@ rtlog19-applog-useast5.us.tiktokv.com
 rtlog19-normal-alisg.tiktokv.com
 rtlog19-normal-useast1a.tiktokv.com
 rtlog19-normal-useast2a.tiktokv.com
+rtlog19-normal-zr-useast1a.tiktokv.com
 rtlog19-normal.tiktokv.com
 rtlog19-platform-useast5.us.tiktokv.com
 rtlog22-applog-useast1a.tiktokv.com
@@ -1179,6 +1186,8 @@ rtlog31-normal-alisg.tiktokv.com
 rtlog31-normal-useast1a.tiktokv.com
 rtlog31-normal-useast2a.tiktokv.com
 rtlog31-normal.tiktokv.com
+rtlog32-normal-alisg.tiktokv.com
+rtlog32-normal-zr.tiktokv.com
 rtlog58-normal-alisg.tiktokv.com
 rtlog58-normal-useast1a.tiktokv.com
 rtlog58-normal-useast2a.tiktokv.com

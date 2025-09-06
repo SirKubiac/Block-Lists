@@ -485,6 +485,7 @@
 ||log22-applog-useast1a.tiktokv.com^
 ||log22-applog-useast2a.tiktokv.com^
 ||log22-normal-alisg.tiktokv.com^
+||log22-normal-useast1a.tiktok.com^
 ||log22-normal-useast1a.tiktokv.com^
 ||log22-normal-useast2a.tiktokv.com^
 ||log22-normal.tiktokv.com^
@@ -498,6 +499,7 @@
 ||log32-normal-no1a.tiktokv.eu^
 ||log32-normal-useast1a.tiktokv.com^
 ||log32-normal-useast2a.tiktokv.com^
+||log32-normal-zr.tiktokv.com^
 ||log32-normal.tiktokv.com^
 ||log53-normal-c-useast1a.tiktokv.com^
 ||log58-normal-alisg.tiktokv.com^
@@ -618,12 +620,14 @@
 ||mon16-tmp-normal-useast1a.tiktokv.com^
 ||mon19-normal-alisg.tiktokv.com^
 ||mon19-normal-useast1a.tiktokv.com^
+||mon19-normal-zr-alisg.tiktokv.com^
 ||mon19-normal.tiktokv.com^
 ||mon22-normal-alisg.tiktokv.com^
 ||mon22-normal-useast1a.tiktokv.com^
 ||mon22-normal.tiktokv.com^
 ||mon31-normal-alisg.tiktokv.com^
 ||mon31-normal-useast1a.tiktokv.com^
+||mon31-normal-zr-useast1a.tiktokv.com^
 ||mon31-normal.tiktokv.com^
 ||mon32-normal-alisg.tiktokv.com^
 ||mon32-normal-useast1a.tiktokv.com^
@@ -668,6 +672,7 @@
 ||mssdk22-normal-useast2a.tiktokv.com^
 ||mssdk22-normal-zr-alisg.tiktokv.com^
 ||mssdk22-normal-zr-useast1a.tiktokv.com^
+||mssdk22-normal-zr.tiktokv.com^
 ||mssdk22-normal.tiktokv.com^
 ||mssdk23-normal-zr-alisg.tiktokv.com^
 ||mssdk23-normal-zr-useast1a.tiktokv.com^
@@ -701,7 +706,6 @@
 ||openlocation-drcn.platform.dbankcloud.com^
 ||origin-sq-tungsten-ts.amazon-adsystem.com^
 ||os-mon.snssdk.com^
-||p0-common-image-private-useastred.eu.tiktok.com^
 ||p16-ad.byteoversea.com^
 ||paa-reporting-advertising.amazon^
 ||pangolin.snssdk.com^
@@ -790,6 +794,7 @@
 ||rtlog19-normal-alisg.tiktokv.com^
 ||rtlog19-normal-useast1a.tiktokv.com^
 ||rtlog19-normal-useast2a.tiktokv.com^
+||rtlog19-normal-zr-useast1a.tiktokv.com^
 ||rtlog19-normal.tiktokv.com^
 ||rtlog19-platform-useast5.us.tiktokv.com^
 ||rtlog22-applog-useast1a.tiktokv.com^
@@ -802,6 +807,8 @@
 ||rtlog31-normal-useast1a.tiktokv.com^
 ||rtlog31-normal-useast2a.tiktokv.com^
 ||rtlog31-normal.tiktokv.com^
+||rtlog32-normal-alisg.tiktokv.com^
+||rtlog32-normal-zr.tiktokv.com^
 ||rtlog58-normal-alisg.tiktokv.com^
 ||rtlog58-normal-useast1a.tiktokv.com^
 ||rtlog58-normal-useast2a.tiktokv.com^
