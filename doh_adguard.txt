@@ -202,6 +202,7 @@
 ||cube.neubsi.at^
 ||cubedns.com^
 ||cvt01.dnscry.pt^
+||cynntex.fun^
 ||d.apemlegit.my.id^
 ||d.bod.lol^
 ||d.niaox.com^
@@ -339,6 +340,7 @@
 ||dns.csaonline.de^
 ||dns.csswg.org^
 ||dns.cwlys.com^
+||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
 ||dns.d365.in^
 ||dns.d4d.moe^
@@ -390,7 +392,6 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
-||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns.floriantinney.de^
@@ -1449,6 +1450,7 @@
 ||wyx.cloud^
 ||xenergy.cc^
 ||xholgm.top^
+||xmr.land^
 ||xn--durhre-yxa.de^
 ||xorbiadns.com^
 ||xray.krnl.eu^

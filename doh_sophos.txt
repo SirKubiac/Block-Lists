@@ -203,6 +203,7 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
@@ -340,6 +341,7 @@ dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cwlys.com
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -391,7 +393,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1450,6 +1451,7 @@ www.dnsadguard.co.uk
 wyx.cloud
 xenergy.cc
 xholgm.top
+xmr.land
 xn--durhre-yxa.de
 xorbiadns.com
 xray.krnl.eu

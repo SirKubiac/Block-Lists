@@ -45,7 +45,6 @@ aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
-aax-events-cell01-cf.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com
@@ -361,7 +360,6 @@ cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 cf.iadsdk.apple.com
-chunderw-vpc-gll-stage-us2-tnx.mcs-va.tiktokv.com
 client.aps.amazon-adsystem.com
 client.rum.us-east-1.amazonaws.com
 config.aps.amazon-adsystem.com
@@ -371,7 +369,6 @@ cstat.apple.com
 cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
 cstat.g.aaplimg.com
-customers-data-repository-postgresmx.mcs-va.tiktokv.com
 d3p8zr0ffa9t17.cloudfront.net
 da-cdn.amazon-adsystem.com
 dat.iad.apple.com
@@ -758,7 +755,6 @@ log19-normal.tiktokv.com
 log22-applog-useast1a.tiktokv.com
 log22-applog-useast2a.tiktokv.com
 log22-normal-alisg.tiktokv.com
-log22-normal-useast1a.tiktok.com
 log22-normal-useast1a.tiktokv.com
 log22-normal-useast2a.tiktokv.com
 log22-normal.tiktokv.com

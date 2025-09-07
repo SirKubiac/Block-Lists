@@ -485,7 +485,6 @@
 ||log22-applog-useast1a.tiktokv.com^
 ||log22-applog-useast2a.tiktokv.com^
 ||log22-normal-alisg.tiktokv.com^
-||log22-normal-useast1a.tiktok.com^
 ||log22-normal-useast1a.tiktokv.com^
 ||log22-normal-useast2a.tiktokv.com^
 ||log22-normal.tiktokv.com^
