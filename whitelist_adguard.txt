@@ -12,3 +12,4 @@
 ||grs.dbankcloud.com^
 ||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
 ||grs-dbankcloud-com-dre.appacc-region.dbankedge.cn^
+||usercentrics.eu^
