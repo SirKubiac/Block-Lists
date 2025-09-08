@@ -332,6 +332,7 @@
 ||dns.comeonjames.club^
 ||dns.comff.net^
 ||dns.connect.fail^
+||dns.containerpi.com^
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.cryptomize.com^
@@ -392,6 +393,7 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
+||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns.floriantinney.de^
@@ -741,6 +743,7 @@
 ||dnsbunker.org^
 ||dnscache.e-utp.net^
 ||dnscache0.ns71.net^
+||dnsenc.com^
 ||dnsforfamily.com^
 ||dnsforge.de^
 ||dnsguard.pub^
@@ -997,6 +1000,7 @@
 ||green2.jnraptor.net^
 ||gru01.dnscry.pt^
 ||guard.sntrk.ru^
+||gustamadh.dynv6.net^
 ||gva01.dnscry.pt^
 ||gztech.me^
 ||h.gjrick.tw^
@@ -1278,6 +1282,7 @@
 ||protective.joindns4.eu^
 ||ps1.modr.club^
 ||publicdnsserver.com^
+||punono.duckdns.org^
 ||puredns.org^
 ||qdns02.nymterm.com^
 ||qlf-doh.inria.fr^
