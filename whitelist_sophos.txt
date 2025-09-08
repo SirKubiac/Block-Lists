@@ -18,4 +18,3 @@ lcprd1.samsungcloudsolution.net
 time.samsungcloudsolution.com
 osb-v2.samsungqbe.com
 api.usercentrics.eu
-usercentrics.eu
