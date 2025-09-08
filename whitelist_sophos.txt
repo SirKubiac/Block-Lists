@@ -17,5 +17,5 @@ cdn.samsungcloudsolution.com
 lcprd1.samsungcloudsolution.net
 time.samsungcloudsolution.com
 osb-v2.samsungqbe.com
-privacy-proxy.usercentrics.eu
+api.usercentrics.eu
 usercentrics.eu
