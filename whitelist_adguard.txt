@@ -4,6 +4,7 @@
 ||settings.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 ||wns.windows.com^
+||client.wns.windows.com^
 ||mup.amp.mcafee.com^
 ||time.samsungcloudsolution.com^
 ||dc.dqa.samsung.com^
@@ -12,4 +13,5 @@
 ||grs.dbankcloud.com^
 ||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
 ||grs-dbankcloud-com-dre.appacc-region.dbankedge.cn^
+||atm-settingsfe-prod-geo2.trafficmanager.net^
 ||usercentrics.eu^
