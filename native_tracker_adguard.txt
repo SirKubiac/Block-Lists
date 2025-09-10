@@ -563,6 +563,9 @@
 ||me.apple-dns.net^
 ||mercury-sdk.snssdk.com^
 ||metrics-dra.dt.dbankcloud.cn^
+||metrics-dra.dt.dbankcloud.com^
+||metrics-drcn.dt.dbankcloud.cn^
+||metrics-drcn.dt.dbankcloud.com^
 ||metrics-dre.data.dbankcloud.cn^
 ||metrics-dre.dt.dbankcloud.cn^
 ||metrics.apple.com^
