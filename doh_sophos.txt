@@ -62,7 +62,6 @@ adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -217,7 +216,6 @@ de-fra-w-p-1.nashkan.net
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de.teradns.org
-deep-henchman-excuse.cfd
 den01.dnscry.pt
 dfw02.dnscry.pt
 dns-1.wil.cloud
@@ -394,6 +392,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -534,7 +533,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -679,7 +677,6 @@ dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
-dns.vishalk.com
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
