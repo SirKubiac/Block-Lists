@@ -51,7 +51,6 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
-adguard.ajinga.net
 adguard.alu.dog
 adguard.avdkishore.dev
 adguard.bonis.de
@@ -391,7 +390,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -741,7 +739,6 @@ dnsblock.grisumedia.de
 dnsbunker.org
 dnscache.e-utp.net
 dnscache0.ns71.net
-dnsenc.com
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
@@ -837,6 +834,7 @@ doh.infracell.net
 doh.iqiyi.com
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -997,7 +995,6 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1160,7 +1157,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mru01.dnscry.pt
@@ -1475,5 +1471,4 @@ zakaria.website
 zal01.dnscry.pt
 zburger.top
 zdn.ro
-zougloub.eu
 zrh1-ns01.monzoon.net
