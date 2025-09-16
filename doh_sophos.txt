@@ -53,6 +53,7 @@ adguard.aa4.co.uk
 adguard.abd.ong
 adguard.alu.dog
 adguard.avdkishore.dev
+adguard.bitteeinbyte.de
 adguard.bonis.de
 adguard.bonsirven.eu
 adguard.dantynes.cyou
@@ -202,6 +203,7 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
@@ -339,7 +341,6 @@ dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cwlys.com
-dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -373,6 +374,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -391,7 +393,6 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
 dns.flatuslifir.is
-dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
@@ -995,6 +996,7 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1471,4 +1473,5 @@ zakaria.website
 zal01.dnscry.pt
 zburger.top
 zdn.ro
+zougloub.eu
 zrh1-ns01.monzoon.net
