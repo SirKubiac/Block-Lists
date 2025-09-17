@@ -70,7 +70,6 @@
 ||adguard.kasbot.net^
 ||adguard.kiboko.it^
 ||adguard.konikoni428.com^
-||adguard.leadseason.eu^
 ||adguard.lege.despagne.net^
 ||adguard.londonwebnerd.cloud^
 ||adguard.maison.gifino.fr^
@@ -340,6 +339,7 @@
 ||dns.csaonline.de^
 ||dns.csswg.org^
 ||dns.cwlys.com^
+||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
 ||dns.d365.in^
 ||dns.d4d.moe^
@@ -525,11 +525,11 @@
 ||dns.momou.ch^
 ||dns.moonssif.com^
 ||dns.mrkaran.dev^
-||dns.msxnet.ru^
 ||dns.mtoo.vip^
 ||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.muxinghe.cn^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nako.kr^
@@ -995,7 +995,6 @@
 ||green2.jnraptor.net^
 ||gru01.dnscry.pt^
 ||guard.sntrk.ru^
-||gustamadh.dynv6.net^
 ||gva01.dnscry.pt^
 ||gztech.me^
 ||h.gjrick.tw^
