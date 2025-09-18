@@ -339,7 +339,6 @@
 ||dns.csaonline.de^
 ||dns.csswg.org^
 ||dns.cwlys.com^
-||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
 ||dns.d365.in^
 ||dns.d4d.moe^
@@ -373,7 +372,6 @@
 ||dns.dynx.pro^
 ||dns.eddi.net^
 ||dns.edgeburnmedia.com^
-||dns.efficientdocuments.com^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||dns.engineer.web.id^
@@ -529,7 +527,6 @@
 ||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.muxinghe.cn^
-||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nako.kr^
@@ -644,6 +641,7 @@
 ||dns.surfsharkdns.com^
 ||dns.sv-zauner.at^
 ||dns.svoi.dev^
+||dns.switch.ch^
 ||dns.sy.st^
 ||dns.syaifullah.com^
 ||dns.szpadel.ovh^
@@ -1371,7 +1369,6 @@
 ||sukidayo.eu.org^
 ||sundalandia.pp.ua^
 ||sunnygyl.com^
-||switch.ch^
 ||syd.adfilter.net^
 ||syd02.dnscry.pt^
 ||takhtakh.domyah.net^
