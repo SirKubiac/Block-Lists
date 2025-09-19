@@ -340,6 +340,7 @@ dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cwlys.com
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -390,6 +391,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flwagners.com
@@ -528,6 +530,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1065,6 +1068,7 @@ ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
 imperio.top
+india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
@@ -1370,6 +1374,8 @@ stratus.bugz.fr
 sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
+sweden.privacy-dns.pw
+switzerland.privacy-dns.pw
 syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
@@ -1409,6 +1415,7 @@ uncensored-dot.dnswarden.com
 uncensoreddns.org
 unfiltered.joindns4.eu
 unicast.censurfridns.dk
+united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
