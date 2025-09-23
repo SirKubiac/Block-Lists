@@ -919,6 +919,7 @@
 ||dns.eddi.net^
 ||dns.edgeburnmedia.com^
 ||dns.edgeworkssystems.ca^
+||dns.edgy.network^
 ||dns.edison42.dev^
 ||dns.efficientdocuments.com^
 ||dns.electrotm.org^
@@ -1893,8 +1894,8 @@
 ||domburg.beruys.com^
 ||domeq.waw.pl^
 ||door.plasmadancer.ru^
+||doq.dns4all.eu^
 ||doq.sa-sa.eu^
-||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
