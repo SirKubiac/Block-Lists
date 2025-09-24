@@ -114,7 +114,6 @@
 ||adg.rokh.biz^
 ||adg.rueiliu.space^
 ||adg.spacework.com.mx^
-||adg.tshost.no^
 ||adg.yybyy.wiki^
 ||adg5yvi.ngatngay.net^
 ||adghome.charleschan.net^
@@ -186,7 +185,6 @@
 ||adguard.fam-rodenburg.nl^
 ||adguard.fatu.systems^
 ||adguard.frece.de^
-||adguard.gambini.org^
 ||adguard.gattow.com^
 ||adguard.gbrossi.com.br^
 ||adguard.georgev22.com^
@@ -217,7 +215,6 @@
 ||adguard.lamhoangtung.space^
 ||adguard.laurenlaufman.com^
 ||adguard.lege.despagne.net^
-||adguard.londonwebnerd.cloud^
 ||adguard.macrosolutionsltd.co.uk^
 ||adguard.maison.gifino.fr^
 ||adguard.manmademagic.com^
@@ -919,7 +916,6 @@
 ||dns.eddi.net^
 ||dns.edgeburnmedia.com^
 ||dns.edgeworkssystems.ca^
-||dns.edgy.network^
 ||dns.edison42.dev^
 ||dns.efficientdocuments.com^
 ||dns.electrotm.org^
@@ -956,6 +952,7 @@
 ||dns.fdue.de^
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
+||dns.fgbk.net^
 ||dns.fifux.be^
 ||dns.filipccz.eu^
 ||dns.fizz.studio^
@@ -1354,7 +1351,6 @@
 ||dns.romain.tech^
 ||dns.ronc.ru^
 ||dns.root.me^
-||dns.rootlab.top^
 ||dns.rotunneling.net^
 ||dns.rubyfish.cn^
 ||dns.safko.eu^
@@ -1896,6 +1892,7 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
+||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -2088,7 +2085,6 @@
 ||guard.yps.tw^
 ||guidetoworld.link^
 ||guigu.dns.army^
-||gustamadh.dynv6.net^
 ||gva01.dnscry.pt^
 ||gw1.dns.haynetwork.id^
 ||gye01.dnscry.pt^
@@ -2159,7 +2155,6 @@
 ||home.snow-sugar.net^
 ||home.weisbrod.me^
 ||home.wriedts.de^
-||home27.duckdns.org^
 ||homec92.dns.army^
 ||homedns.gumeniuk.com^
 ||homeguard.sleziona.org^
@@ -3025,7 +3020,6 @@
 ||tsm01.dnscry.pt^
 ||tsr01.dnscry.pt^
 ||ttag.dns.nomu.pw^
-||tuandns.duckdns.org^
 ||tuantran.cloud^
 ||tujenasnaszato.xyz^
 ||tungdnsne.duckdns.org^
