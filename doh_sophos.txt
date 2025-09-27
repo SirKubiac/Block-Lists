@@ -917,6 +917,7 @@ dns.edc-pws.com
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgeworkssystems.ca
+dns.edgy.network
 dns.edison42.dev
 dns.efficientdocuments.com
 dns.electrotm.org
