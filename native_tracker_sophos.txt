@@ -102,6 +102,7 @@ aax-us-ott.amazon-adsystem.amazon.com
 aax-us-pdx-rtb-adx.amazon-adsystem.com
 aax-us-pdx-rtb.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
+aax-us-west-2-ott.amazon-adsystem.amazon.com
 aax-us-west-dtb-mobile-events.amazon-adsystem.com
 aax-us-west-dtb-mobile.amazon-adsystem.com
 aax-us-west-ott-events.amazon-adsystem.com
@@ -352,6 +353,7 @@ cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
@@ -566,6 +568,7 @@ honorsearch-drcn.hiboard.hihonorcloud.com
 honorsearch-dre.hiboard.hihonorcloud.com
 iad-apple.com.akadns.net
 iad.apple.com
+iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 iad2d1-cmws.iad.apple.com
 iad2d1-feed.iad.apple.com
 iad2d1-iadc.iad.apple.com
@@ -846,6 +849,7 @@ mcs16-normal-no1a.tiktokw.eu
 mcs16-normal-useastred.tiktokw.eu
 mcs16-normal-ycru.tiktok.com
 mdn.iad.apple.com
+mdtb.ads.aps.amazon-adsystem.com
 me.apple-dns.net
 mercury-sdk.snssdk.com
 metrics-ad-drcn.dt.hihonorcloud.com
@@ -887,6 +891,7 @@ metrics5.data.hicloud.com
 metrics5.dt.dbankcloud.ru
 metrics6.dt.hicloud.com
 minerva.devices.a2z.com
+mobile.bid-na.ads.aps.amazon-adsystem.com
 mobile.eu-west.aps.axp.amazon-adsystem.com
 mobile.us-east.aps.axp.amazon-adsystem.com
 mobile.us-west.aps.axp.amazon-adsystem.com
