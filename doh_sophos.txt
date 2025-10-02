@@ -705,7 +705,6 @@ dns.080590.xyz
 dns.0ooo.icu
 dns.0x55.net
 dns.13evl.com
-dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
 dns.2poi.com
@@ -1656,7 +1655,6 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.hte.vn
 dnsguard.pub
-dnsjp.3300000.xyz
 dnslow.me
 dnsmm.mywire.org
 dnsmurray.de
