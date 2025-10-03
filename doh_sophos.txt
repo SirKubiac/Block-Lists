@@ -1658,7 +1658,6 @@ dnsguard.pub
 dnslow.me
 dnsmm.mywire.org
 dnsmurray.de
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
@@ -1667,7 +1666,6 @@ dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnspub.restena.lu
 dnsresolver02.ddns.net
-dnsse-noads.alekberg.net
 dnssec.dns.enginyring.com
 dnsserver.mailchan.eu
 dnssilo.top
@@ -2702,7 +2700,6 @@ polisitogel.luxe
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
-pope.cnblw.me
 positif4.cross.net.id
 pqh.ddns.net
 pr-nnss.ppleg.icu
