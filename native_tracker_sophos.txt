@@ -60,6 +60,9 @@ aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
+aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
+aax-events-cell02-cf.us-east.aps.axp.amazon-adsystem.com
+aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
 aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
@@ -85,6 +88,7 @@ aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
 aax-us-cpm.amazon-adsystem.amazon.com
+aax-us-east-1-ott.amazon-adsystem.amazon.com
 aax-us-east-dtb-mobile.amazon-adsystem.com
 aax-us-east-dtb.amazon-adsystem.com
 aax-us-east-ott.amazon-adsystem.com
@@ -568,7 +572,6 @@ honorsearch-drcn.hiboard.hihonorcloud.com
 honorsearch-dre.hiboard.hihonorcloud.com
 iad-apple.com.akadns.net
 iad.apple.com
-iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 iad2d1-cmws.iad.apple.com
 iad2d1-feed.iad.apple.com
 iad2d1-iadc.iad.apple.com
