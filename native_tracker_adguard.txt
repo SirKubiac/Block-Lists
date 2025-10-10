@@ -592,6 +592,8 @@
 ||metrics1.data.dbankcloud.cn^
 ||minerva.devices.a2z.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
+||mon-boot.tiktokv.com.edgekey.net^
+||mon-boot.tiktokv.com^
 ||mon-csj-maliva-ios.byteoversea.com^
 ||mon-hl.snssdk.com^
 ||mon-i18n.tiktokv.com^

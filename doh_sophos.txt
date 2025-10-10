@@ -199,6 +199,7 @@ adguard.eyadmojahed.ddnsgeek.com
 adguard.fam-rodenburg.nl
 adguard.fatu.systems
 adguard.frece.de
+adguard.gambini.org
 adguard.gattow.com
 adguard.gbrossi.com.br
 adguard.georgev22.com
@@ -220,6 +221,7 @@ adguard.itclogic.cloud
 adguard.jaydub.cloud
 adguard.jfchenier.ca
 adguard.jfpii.com
+adguard.johanliebert.top
 adguard.johnnypatras.org
 adguard.k-likhachev.ru
 adguard.kalyanmudumby.com
@@ -1054,6 +1056,7 @@ dns.ginovs.nl
 dns.girino.org
 dns.glampool.cloud
 dns.glf.wtf
+dns.glorydns.com
 dns.glsoft.ai
 dns.gnb09.id
 dns.goertz.digital
@@ -1307,6 +1310,7 @@ dns.nas-server.ru
 dns.native.cat
 dns.ndo.dev
 dns.neeb.it
+dns.nefret.net
 dns.neilzone.co.uk
 dns.nekofish.cc
 dns.nerdytechgeeks.co.za
@@ -2704,6 +2708,7 @@ ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
+ns3.link
 ns3.opennameserver.org
 ns3.wuyouss.com
 ns4.opennameserver.org
@@ -2871,7 +2876,6 @@ randn.ru
 rasp.matthias-iwer.de
 rayneau.fr
 rb750gr3.ulfhednar.ru
-rcpc2.duckdns.org
 rdd01.dnscry.pt
 rdjdns.ajraspi.xyz
 rdns.faelix.net

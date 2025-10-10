@@ -899,6 +899,8 @@ mobile.eu-west.aps.axp.amazon-adsystem.com
 mobile.us-east.aps.axp.amazon-adsystem.com
 mobile.us-west.aps.axp.amazon-adsystem.com
 mobileanalytics.us-east-1.amazonaws.com
+mon-boot.tiktokv.com
+mon-boot.tiktokv.com.edgekey.net
 mon-csj-maliva-ios.byteoversea.com
 mon-hl.snssdk.com
 mon-i18n.tiktokv.com
