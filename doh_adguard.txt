@@ -1,7 +1,6 @@
 ||001.smallnode.net^
 ||003153.xyz^
 ||0815cloud.de^
-||0ms.dev^
 ||1.0rz.space^
 ||1.11i.eu^
 ||1.dns.noridev.moe^
