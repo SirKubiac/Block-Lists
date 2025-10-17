@@ -208,7 +208,6 @@
 ||adguard.gonzcid.com^
 ||adguard.grantbruneau.com^
 ||adguard.green1052.com^
-||adguard.guyot.group^
 ||adguard.h22designs.com^
 ||adguard.h4nt3r.com^
 ||adguard.haneulo.com^
@@ -1111,13 +1110,10 @@
 ||dns.hujiayucc.cn^
 ||dns.huseynov.work^
 ||dns.huth.nu^
-||dns.huyhoangit.net^
 ||dns.huyizhou.com^
-||dns.huynd.click^
 ||dns.hva.li^
 ||dns.hwtwco.uk^
 ||dns.hyas.com^
-||dns.hypercute.eu^
 ||dns.iamanuragh.in^
 ||dns.iamninja.ru^
 ||dns.iblockads.net^
@@ -1908,7 +1904,6 @@
 ||doh.max.net.id^
 ||doh.mcasviper.de^
 ||doh.meetz.pw^
-||doh.micronets.in^
 ||doh.mmmalia.com^
 ||doh.mochou.site^
 ||doh.mullvad.net^
@@ -2083,6 +2078,7 @@
 ||f4ckdns.dl4mt.dev^
 ||family.5ososea.com^
 ||family.adguarddns.com^
+||family.dns.doubleangels.com^
 ||family.dns.teknoholistik.com^
 ||family.dot.dns.yandex.net^
 ||family.mydns.network^
@@ -2236,7 +2232,6 @@
 ||hk.imtsui.com^
 ||hk.janebooom.com^
 ||hk.jason666.top^
-||hk.jiusi.one^
 ||hk.reaticle.com^
 ||hk.rslvr.eu^
 ||hk.yoosoo.cc^
@@ -2489,7 +2484,6 @@
 ||lelux.fi^
 ||leoadguard.duckdns.org^
 ||leochen-dns.ddns.net^
-||lesuo.top^
 ||lewsha.lol^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
 ||lifeisa.live^
@@ -2579,7 +2573,6 @@
 ||mikewaddick.com^
 ||mikrobill.dns-cloud.net^
 ||mil01.dnscry.pt^
-||miniapp.global^
 ||minilla.store^
 ||miskoss.fun^
 ||mo0on15.com^
@@ -2604,7 +2597,6 @@
 ||muxyuji.ru^
 ||mx1.laoxiao789.com^
 ||myadg.ru^
-||myatris.sbs^
 ||mydevpn.eu^
 ||mydns.ddns.me^
 ||mypihole.hopto.org^
@@ -3247,8 +3239,6 @@
 ||v2202405224322270920.megasrv.de^
 ||v2rich.eu.org^
 ||v3.passby.eu.org^
-||v7.frame-one.cc^
-||v8.frame-one.cc^
 ||v971850.macloud.host^
 ||vadim.online^
 ||vasiliysoldatkin.ru^

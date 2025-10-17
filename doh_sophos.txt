@@ -209,7 +209,6 @@ adguard.glbd.fr
 adguard.gonzcid.com
 adguard.grantbruneau.com
 adguard.green1052.com
-adguard.guyot.group
 adguard.h22designs.com
 adguard.h4nt3r.com
 adguard.haneulo.com
@@ -1112,13 +1111,10 @@ dns.huizhechi.com
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huth.nu
-dns.huyhoangit.net
 dns.huyizhou.com
-dns.huynd.click
 dns.hva.li
 dns.hwtwco.uk
 dns.hyas.com
-dns.hypercute.eu
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.iblockads.net
@@ -3248,8 +3244,6 @@ v2.xx3210766.live
 v2202405224322270920.megasrv.de
 v2rich.eu.org
 v3.passby.eu.org
-v7.frame-one.cc
-v8.frame-one.cc
 v971850.macloud.host
 vadim.online
 vasiliysoldatkin.ru
