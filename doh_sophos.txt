@@ -1337,7 +1337,6 @@ dns.notjakob.com
 dns.novali.date
 dns.novg.net
 dns.npe.bz
-dns.npsolution.it
 dns.ntcrz.ru
 dns.ntr.lol
 dns.nubecita.biz
@@ -1837,7 +1836,6 @@ doh.bugdns.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
-doh.centraleu.pi-dns.com
 doh.cippapp.com
 doh.cloud-sekeng.com
 doh.cnetwork.cloud
@@ -1862,9 +1860,6 @@ doh.dnswarden.com
 doh.domreg.lt
 doh.dscloud.me
 doh.e7.work
-doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
-doh.eastus.pi-dns.com
 doh.eddi.net
 doh.eieidns.com
 doh.ersei.net
@@ -1905,14 +1900,12 @@ doh.maskab.com
 doh.max.net.id
 doh.mcasviper.de
 doh.meetz.pw
-doh.micronets.in
 doh.mmmalia.com
 doh.mochou.site
 doh.mullvad.net
 doh.nexen.cloud
 doh.nic.lv
 doh.niyawe.de
-doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.nukys.ca
 doh.onedns.net
@@ -1964,7 +1957,6 @@ doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
 doh.westeu.pi-dns.com
-doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -2002,16 +1994,11 @@ dot-public.exitstat.us
 dot-sg.blahdns.com
 dot.360.cn
 dot.anir0y.in
-dot.centraleu.pi-dns.com
 dot.cox.net
-dot.eastas.pi-dns.com
-dot.eastau.pi-dns.com
-dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.gordmo.com
 dot.libredns.gr
 dot.modsh.top
-dot.northeu.pi-dns.com
 dot.occ.top
 dot.pub
 dot.qooqle.date
@@ -2019,7 +2006,6 @@ dot.quickline.ch
 dot.seby.io
 dot.tiar.app
 dot.tooli.ca
-dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.appliedprivacy.net
 doth.huque.com
@@ -2080,6 +2066,7 @@ f1.dns.s3cure.me
 f4ckdns.dl4mt.dev
 family.5ososea.com
 family.adguarddns.com
+family.dns.doubleangels.com
 family.dns.teknoholistik.com
 family.dot.dns.yandex.net
 family.mydns.network
@@ -2233,7 +2220,6 @@ hk.end.pub
 hk.imtsui.com
 hk.janebooom.com
 hk.jason666.top
-hk.jiusi.one
 hk.reaticle.com
 hk.rslvr.eu
 hk.yoosoo.cc
@@ -2486,7 +2472,6 @@ leecurrylawfirm.com
 lelux.fi
 leoadguard.duckdns.org
 leochen-dns.ddns.net
-lesuo.top
 lewsha.lol
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr
 lifeisa.live
@@ -2576,7 +2561,6 @@ mikatos.de
 mikewaddick.com
 mikrobill.dns-cloud.net
 mil01.dnscry.pt
-miniapp.global
 minilla.store
 miskoss.fun
 mo0on15.com
@@ -2601,7 +2585,6 @@ muppy.pnamae.com
 muxyuji.ru
 mx1.laoxiao789.com
 myadg.ru
-myatris.sbs
 mydevpn.eu
 mydns.ddns.me
 mypihole.hopto.org
@@ -2720,7 +2703,6 @@ ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
 nsnacho.sytes.net
-nsown.com
 ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
@@ -2762,7 +2744,6 @@ oscnl.site
 osefcorp.duckdns.org
 ott01.dnscry.pt
 oury.privado.ovh
-outdoorchair.site
 outie.8ws.net
 outiejr.8ws.net
 ovhcloud.mehmetarikan.tech
@@ -2808,7 +2789,6 @@ pihole1.hoerli.net
 pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
-pingbi.xyz
 pioko.net
 pips.kpsn.org
 pl-waw-w-p-2.nashkan.net
