@@ -928,7 +928,6 @@ dns.comff.net
 dns.complianceauditores.com.br
 dns.connect.fail
 dns.consoro.eu
-dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.cryptomize.com
@@ -1308,7 +1307,6 @@ dns.nas-server.ru
 dns.native.cat
 dns.ndo.dev
 dns.neeb.it
-dns.nefret.net
 dns.neilzone.co.uk
 dns.nekofish.cc
 dns.nerdytechgeeks.co.za
@@ -1400,6 +1398,7 @@ dns.pumpkinvrar.com
 dns.qiyipic.iqiyi.com
 dns.qkc.fr
 dns.qpt.one
+dns.qq.com
 dns.qrtz.club
 dns.quad9.net
 dns.quanhd.net
@@ -1916,7 +1915,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-doh.pi-dns.com
 doh.plaawan.uk
 doh.plop.cc
 doh.port53.dk
@@ -1955,7 +1953,6 @@ doh.us.moe.tips
 doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
-doh.westeu.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -2183,7 +2180,6 @@ guard.thefather.cloud
 guard.yps.tw
 guidetoworld.link
 guigu.dns.army
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gw1.dns.haynetwork.id
 gyd01.dnscry.pt
@@ -2651,7 +2647,6 @@ node3.b4el.ru
 node9.servernode.store
 nop.mobi
 notebait.ddnsfree.com
-nqh-dns.duckdns.org
 nrt.core.access.zznet.fun
 nrusimha.crabdance.com
 ns.00dani.me
@@ -2760,6 +2755,7 @@ paskam.xyz
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 paydns.wechatpay.cn
+paydns.weixin.qq.com
 pccoach.ddns.net
 pcgo.fun
 pcornet.freeboxos.fr
@@ -2967,6 +2963,7 @@ saya.rnrkurir.com
 sbdns.co.in
 schimtar.com
 scottdylewski.com
+sdkconfig.tlivedns.com
 sdns22.gkonuralp.com
 sdvizhkov.ru
 sea01.dnscry.pt
