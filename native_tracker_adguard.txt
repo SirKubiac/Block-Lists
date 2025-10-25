@@ -93,6 +93,7 @@
 ||ads-drru.cloud.huawei.ru^
 ||ads-frontier.tiktok.com^
 ||ads-ie.tiktokw.eu^
+||ads-service.tiktok.com^
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-sg.tiktok.com^
 ||ads-ttp2.tiktokw.eu^
@@ -392,6 +393,7 @@
 ||location.tiktokv.com^
 ||location.tiktokw.us^
 ||location.us.tiktokv.com^
+||locationv16-normal-useastred.tiktokv.eu^
 ||log-dra.platform.hihonorcloud.com^
 ||log-drcn.platform.hihonorcloud.com^
 ||log-dre.platform.hihonorcloud.com^
@@ -716,6 +718,7 @@
 ||rtc-logger.tiktokv.com^
 ||rtc-logger.tiktokv.us^
 ||rtc-logger.us.tiktokv.com^
+||rtc-logger16-normal-useastred.tiktokv.eu^
 ||rtlog-i18n.tiktokv.com^
 ||rtlog-phx.tiktokv.com^
 ||rtlog-ru.tiktokv.com^

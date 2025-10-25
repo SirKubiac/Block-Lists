@@ -42,6 +42,7 @@ aax-eu-test1.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-central.3px.axp.amazon-adsystem.com
+aax-events-cell01-cf.eu-south.ono.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com
@@ -132,6 +133,7 @@ ads-drru.cloud.huawei.ru
 ads-frontier.tiktok.com
 ads-gamma.aps.amazon-adsystem.com
 ads-ie.tiktokw.eu
+ads-service.tiktok.com
 ads-setu-proxy-eu.amazon.com
 ads-sg.tiktok.com
 ads-ttp2.tiktokw.eu
@@ -309,6 +311,7 @@ cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
@@ -576,6 +579,7 @@ location.tiktok.com
 location.tiktokv.com
 location.tiktokw.us
 location.us.tiktokv.com
+locationv16-normal-useastred.tiktokv.eu
 log-dra.platform.hihonorcloud.com
 log-drcn.platform.hihonorcloud.com
 log-dre.platform.hihonorcloud.com
@@ -955,6 +959,7 @@ rtc-logger-va.tiktokv.com
 rtc-logger.tiktokv.com
 rtc-logger.tiktokv.us
 rtc-logger.us.tiktokv.com
+rtc-logger16-normal-useastred.tiktokv.eu
 rtlog-i18n.tiktokv.com
 rtlog-phx.tiktokv.com
 rtlog-ru.tiktokv.com
