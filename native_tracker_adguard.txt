@@ -946,10 +946,12 @@
 ||xlog16-platform-useast5.us.tiktokv.com^
 ||xlog16-platform-ycru.tiktokv.com^
 ||xlog16-tmp-normal-useast1a.tiktokv.com^
+||xp-cdn-lb.itunes-apple.com.akadns.net^
 ||xp-cdn.apple.com^
 ||xp.apple.com.edgekey.net^
 ||xp.apple.com^
 ||xp.itunes-apple.com.akadns.net^
+||xp.v.aaplimg.com^
 ||z-eu.amazon-adsystem.com^
 ||z-fe.amazon-adsystem.com^
 ||z-in.amazon-adsystem.com^

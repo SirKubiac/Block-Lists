@@ -70,7 +70,6 @@ ad.timefine.org
 ad.tzockt.beer
 ad.visbran.fr
 ad1guard.duckdns.org
-ada.ns.cloudflare.com
 adampowell.pro
 adb-dns.sapient.cyou
 adb-home.xaoimoon.fr
@@ -1973,6 +1972,7 @@ dohdot.coxlab.net
 dohsg.blahdns.com
 dohsg.goitoi.co
 dohtrial.att.net
+domain.name
 domburg.beruys.com
 domeq.waw.pl
 door.plasmadancer.ru
@@ -2258,6 +2258,7 @@ homec92.dns.army
 homedns.gumeniuk.com
 homeguard.sleziona.org
 homelab.terabit.net.id
+homenet.telecomitalia.it
 homita.id.vn
 horus-team.com
 host.jerry-lee.uk
