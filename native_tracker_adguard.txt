@@ -823,6 +823,7 @@
 ||tnc-sg.capcutapi.com^
 ||tnc-va-us-looki.capcutapi.com^
 ||tnc-va.capcutapi.com^
+||tnc0-normal-alisg.tiktokv.com^
 ||tnc0-normal-my.tiktokv.com^
 ||tnc0-normal-sg1.tiktokv.com^
 ||tnc0-normal-useast1a.tiktokv.com^
@@ -849,6 +850,7 @@
 ||tnc19-normal-no1a.tiktokv.eu^
 ||tnc19-normal-useast5.tiktokv.us^
 ||tnc19-normal-useast8.tiktokv.us^
+||tnc19-normal-useastred.tiktokv.eu^
 ||tnc3-aliec2.snssdk.com^
 ||tnc3-alisc1.snssdk.com^
 ||tnc3-bjlgy.snssdk.com^

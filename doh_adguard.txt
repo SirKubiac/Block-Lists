@@ -3337,6 +3337,7 @@
 ||x.ns1net.com^
 ||x.res.wang^
 ||x861g.duckdns.org^
+||xbcpb668.com^
 ||xenergy.cc^
 ||xfer.au^
 ||xiaoxinhui.cn^
