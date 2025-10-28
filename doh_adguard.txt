@@ -2032,6 +2032,7 @@
 ||ecs-doh.dnswarden.com^
 ||edgar.tobkar.net^
 ||edge.nextdns.io^
+||edgy-dns.com^
 ||egorovna.su^
 ||egshe.myqnapcloud.com^
 ||eime.goip.de^
