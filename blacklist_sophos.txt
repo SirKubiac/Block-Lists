@@ -2,3 +2,5 @@ self.events.data.microsoft.com
 eu-office.events.data.microsoft.com
 server.events.data.microsoft.com
 mobile.events.data.microsoft.com
+v20.events.data.microsoft.com
+events.data.microsoft.com
