@@ -79,6 +79,7 @@
 ||ab.apple.com.akadns.net^
 ||abtest-ch.snssdk.com^
 ||acfeedbackws.icloud.com^
+||ad-instantpage-ru.tiktokv.com^
 ||ad-instantpage-sg.tiktokv.com^
 ||ad-instantpage-ttp2.tiktokv.eu^
 ||ad-instantpage-ttp2.tiktokv.us^
@@ -394,6 +395,7 @@
 ||location.tiktokw.us^
 ||location.us.tiktokv.com^
 ||locationv16-normal-useastred.tiktokv.eu^
+||log-boot.capcutapi.com^
 ||log-dra.platform.hihonorcloud.com^
 ||log-drcn.platform.hihonorcloud.com^
 ||log-dre.platform.hihonorcloud.com^
@@ -404,6 +406,7 @@
 ||log-lq.snssdk.com^
 ||log-phx.tiktokv.com^
 ||log-ru.tiktokv.com^
+||log-sg.capcutapi.com^
 ||log-snssdk.tiktokv-us.com^
 ||log-tiktok.byteoversea.net^
 ||log-va-useast2a.tiktokv.com^
@@ -425,6 +428,8 @@
 ||log16-normal-delay-alisg.tiktokv.com^
 ||log16-normal-ind.tiktokv.com^
 ||log16-normal-no1a.tiktokv.eu^
+||log16-normal-sg.capcutapi.com^
+||log16-normal-us-ttp.capcutapi.us^
 ||log16-normal-useast1a.tiktokv.com^
 ||log16-normal-useast2a.tiktokv.com^
 ||log16-normal-useast5.tiktokv.us^
@@ -432,6 +437,7 @@
 ||log16-normal-useast8.us.tiktokv.com^
 ||log16-normal-useastred.tiktokv.eu^
 ||log16-normal-zr-useast1a.tiktokv.com^
+||log16-normal.capcutapi.com^
 ||log16-normal.tiktokv.com^
 ||log16-platform-ycru.tiktokv.com^
 ||log16-tmp-normal-useast1a.tiktokv.com^
@@ -461,9 +467,11 @@
 ||log31-normal.tiktokv.com^
 ||log32-normal-alisg.tiktokv.com^
 ||log32-normal-no1a.tiktokv.eu^
+||log32-normal-sg.capcutapi.com^
 ||log32-normal-useast1a.tiktokv.com^
 ||log32-normal-useast2a.tiktokv.com^
 ||log32-normal-zr.tiktokv.com^
+||log32-normal.capcutapi.com^
 ||log32-normal.tiktokv.com^
 ||log53-normal-c-useast1a.tiktokv.com^
 ||log58-normal-alisg.tiktokv.com^
@@ -508,6 +516,7 @@
 ||mcs-i18n.tiktok.com^
 ||mcs-ie.tiktokw.eu^
 ||mcs-ie2.tiktokw.eu^
+||mcs-normal-sg.capcutapi.com^
 ||mcs-sg.tiktok.com^
 ||mcs-sg.tiktokv.com^
 ||mcs-tiktok.byteoversea.net^
@@ -516,12 +525,14 @@
 ||mcs-va-useast2a.tiktokv.com^
 ||mcs-va.tiktok.com^
 ||mcs-va.tiktokv.com^
+||mcs.capcutapi.us^
 ||mcs.snssdk.com^
 ||mcs.tiktokv.us^
 ||mcs.tiktokw.us^
 ||mcs.us.tiktok.com^
 ||mcs.us.tiktokv.com^
 ||mcs16-normal-no1a.tiktokw.eu^
+||mcs16-normal-us-ttp.capcutapi.us^
 ||mcs16-normal-useastred.tiktokw.eu^
 ||mcs16-normal-ycru.tiktok.com^
 ||me.apple-dns.net^
@@ -545,6 +556,7 @@
 ||metrics1.data.dbankcloud.cn^
 ||minerva.devices.a2z.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
+||mon-boot.capcutapi.com^
 ||mon-boot.tiktokv.com.edgekey.net^
 ||mon-boot.tiktokv.com^
 ||mon-csj-maliva-ios.byteoversea.com^
@@ -552,12 +564,14 @@
 ||mon-i18n.tiktokv.com^
 ||mon-phx.tiktokv.com^
 ||mon-ru.tiktokv.com^
+||mon-sg.capcutapi.com^
 ||mon-sg.tiktokv.com^
 ||mon-useast2a.tiktokv.com^
 ||mon-va-useast2a.byteoversea.com^
 ||mon-va.byteoversea.com^
 ||mon-va.tiktokv.com^
 ||mon.byteoversea.com^
+||mon.capcutapi.us^
 ||mon.snssdk.com^
 ||mon.tiktokv.com^
 ||mon.tiktokv.eu^
@@ -575,6 +589,8 @@
 ||mon16-normal-c-useast1a.tiktokv.com^
 ||mon16-normal-c-useast2a.tiktokv.com^
 ||mon16-normal-no1a.tiktokv.eu^
+||mon16-normal-sg.capcutapi.com^
+||mon16-normal-us-ttp.capcutapi.us^
 ||mon16-normal-useast1a.tiktokv.com^
 ||mon16-normal-useast5.tiktokv.us^
 ||mon16-normal-useast8.tiktokv.us^
@@ -595,11 +611,13 @@
 ||mon31-normal-useast1a.tiktokv.com^
 ||mon31-normal.tiktokv.com^
 ||mon32-normal-alisg.tiktokv.com^
+||mon32-normal-sg.capcutapi.com^
 ||mon32-normal-useast1a.tiktokv.com^
 ||mon32-normal.tiktokv.com^
 ||monbk.tiktokv.com^
 ||msc-dct-prod.msc.apple.com^
 ||mshopbugsnag.irm.amazon.dev^
+||mssdk-boot.capcutapi.com^
 ||mssdk-bu.snssdk.com^
 ||mssdk-i18n.tiktok.com^
 ||mssdk-i18n.tiktokv.com^
@@ -611,6 +629,7 @@
 ||mssdk-ru.tiktokv.com^
 ||mssdk-sg-bu.byteoversea.com^
 ||mssdk-sg.byteoversea.com^
+||mssdk-sg.capcutapi.com^
 ||mssdk-sg.tiktok.com^
 ||mssdk-sg.tiktokv.com^
 ||mssdk-va-useast2a.byteoversea.com^
@@ -618,11 +637,13 @@
 ||mssdk-va.byteoversea.com^
 ||mssdk-va.tiktok.com^
 ||mssdk-va.tiktokv.com^
+||mssdk.capcutapi.us^
 ||mssdk.snssdk.com^
 ||mssdk.tiktokw.eu^
 ||mssdk.tiktokw.us^
 ||mssdk.us.tiktok.com^
 ||mssdk.us.tiktokv.com^
+||mssdk16-normal-us-ttp.capcutapi.us^
 ||mssdk16-normal-useastred.tiktokw.eu^
 ||mssdk16-normal.tiktokv.com^
 ||mssdk16-platform-useast5.us.tiktokv.com^
@@ -677,8 +698,11 @@
 ||partiality.itunes-apple.com.akadns.net^
 ||partiality.itunes.apple.com.edgekey.net^
 ||partiality.itunes.apple.com^
+||pc-mon-boot.capcutapi.com^
+||pc-mon-normal-sg.capcutapi.com^
 ||pc-mon-va.byteoversea.com^
 ||pc-mon.snssdk.com^
+||pc-mon16-normal-us-ttp.capcutapi.us^
 ||performance-partners.apple.com^
 ||phonesubmissions.apple.com^
 ||prd-usw2-requestattribution-iad.apple.com^
