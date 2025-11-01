@@ -2534,6 +2534,7 @@
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
 ||maqgie.xyz^
+||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
 ||mask.icloud.com^
 ||mastergad.me^
