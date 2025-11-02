@@ -137,7 +137,6 @@ adguard-server.pp.ua
 adguard-us1.cloudmini.net
 adguard-us2.cloudmini.net
 adguard-vn2.cloudmini.net
-adguard.007terminal.com
 adguard.19151120.xyz
 adguard.876542.xyz
 adguard.aa4.co.uk
@@ -3144,7 +3143,6 @@ tpa01.dnscry.pt
 tpe01.dnscry.pt
 tr-ist-w-p-2.nashkan.net
 tr.league1.xyz
-tr1-dns.7leecher.ir
 tran.net.vn
 travis90x.ddns.net
 trf01.dnscry.pt
