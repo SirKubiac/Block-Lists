@@ -166,7 +166,6 @@ adguard.chaudharyarnav.com
 adguard.chestnov.ru
 adguard.cinicollerico.top
 adguard.clawsucht.eu
-adguard.clawsucht.nrw
 adguard.clmnnt.codes
 adguard.cloud-chen.idv.tw
 adguard.cnbeining.com
@@ -411,7 +410,6 @@ agh.alematho.de
 agh.amber.edu.vn
 agh.broaddy.com
 agh.dchoe.com
-agh.doubleatech.site
 agh.dshubham.xyz
 agh.ero-sayhi.com
 agh.feblab.click
@@ -464,7 +462,6 @@ an81dns.ru
 ancv.sytes.net
 andrewnw.xyz
 andrey93rus.ru
-andryk111.duckdns.org
 andybunn.onthewifi.com
 angry.pp.ua
 angrysky.ru
@@ -592,7 +589,6 @@ ca.doh.cloudveil.org
 callies-online.site
 canadianshield.cira.ca
 carolinareaper.heeremans.net
-catchen121299.top
 catdns.org
 cattery.noddos.top
 cattery2.noddos.top
@@ -870,7 +866,6 @@ dns.bmwhocking.com
 dns.bofh.in
 dns.bortus.io
 dns.bovat.net
-dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
 dns.briac-mlb.fr
@@ -939,7 +934,6 @@ dns.d365.in
 dns.d4d.moe
 dns.d8e.ru
 dns.d94.xyz
-dns.daarrk.tech
 dns.daemon.za.net
 dns.dallinbryce.com
 dns.damlayayinevi.com.tr
@@ -996,7 +990,6 @@ dns.elemental.software
 dns.eliv.co.kr
 dns.eliv.kr
 dns.enderblocks.net
-dns.energized.pro
 dns.engineer-lib.ru
 dns.engineer.web.id
 dns.enzonix.com
@@ -1024,7 +1017,6 @@ dns.fc.idv.tw
 dns.fdue.de
 dns.fehlsprache.de
 dns.ffnw.de
-dns.fgbk.net
 dns.fifux.be
 dns.filipccz.eu
 dns.fizz.studio
@@ -1158,6 +1150,7 @@ dns.jiyi.eu
 dns.jluo.app
 dns.joey01245.nl
 dns.johndave.me
+dns.joindns4.in
 dns.jsd.web.id
 dns.jstockley.com
 dns.juancamos.com
@@ -1854,7 +1847,6 @@ doh.dnscrypt.uk
 doh.dnslify.com
 doh.dnswarden.com
 doh.domreg.lt
-doh.dscloud.me
 doh.e7.work
 doh.eddi.net
 doh.eieidns.com
@@ -3054,7 +3046,6 @@ sq.trin.icu
 squidmall.vip
 sradg.eastus.cloudapp.azure.com
 sradg2.eastus.cloudapp.azure.com
-srgaghome.freemyip.com
 sriedmueadguard.casa
 srv.insec.link
 srv5.jiripocta.cz
@@ -3181,7 +3172,6 @@ unicast.uncensoreddns.dk
 unicast2.servers.censurfridns.dk
 unifi.carioka.com
 united-arab-emirates.privacy-dns.pw
-unixfox.duckdns.org
 unp.im
 unraid.dedyn.io
 ur.hytec.org
@@ -3256,7 +3246,6 @@ vovale.px.i81.ru
 voyage-s01.cloudku.technology
 voyage-s02.cloudku.technology
 voyagerz.hopto.org
-vpich.duckdns.org
 vpn-tw.teng.sh
 vpn.1xtrm.com
 vpn.4-the.win
