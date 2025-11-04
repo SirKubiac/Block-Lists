@@ -1203,7 +1203,6 @@ dns.l6.ee
 dns.labar.re
 dns.labnekotest.site
 dns.lars-lehmann.net
-dns.lashes-brow.ru
 dns.lauraeguido.com
 dns.lavir.com
 dns.lepilleur.com
@@ -1325,7 +1324,6 @@ dns.notjakob.com
 dns.novali.date
 dns.novg.net
 dns.npe.bz
-dns.ntcrz.ru
 dns.ntr.lol
 dns.nubecita.biz
 dns.nullgate.net
@@ -1436,7 +1434,6 @@ dns.sarakas.net
 dns.sarilouis.com
 dns.sark.dev
 dns.sbstructure.ir
-dns.scapetical.com
 dns.scarx.net
 dns.scayn.com
 dns.schlagheck.berlin
@@ -1870,8 +1867,6 @@ doh.infracell.net
 doh.iqiyi.com
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
-doh.kekew.racing
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1907,7 +1902,6 @@ doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 doh.plaawan.uk
 doh.plop.cc
-doh.port53.dk
 doh.powerdns.org
 doh.ptqy.gitv.tv
 doh.pub
@@ -1958,7 +1952,6 @@ doh2.b-cdn.net
 doh2.blahdns.com
 doh2.gslb2.xfinity.com
 doh3.almir1904.eu
-doh3.kekew.info
 dohdot.coxlab.net
 dohsg.blahdns.com
 dohsg.goitoi.co
@@ -2034,7 +2027,6 @@ eliatofani.ovh
 emby.rasp.tv
 emmmmm.me
 enclosr.co
-epic3.mooo.com
 es-ma.foxyfy.net
 esel.stusta.mhn.de
 essentiallyjay.com
@@ -2227,7 +2219,6 @@ hkns.gzelvis.com
 hkt.kozow.com
 hockaday.synology.me
 hole.elbschloss.xyz
-home-server.store
 home.azagra.dev
 home.basthorst.eu
 home.bruckmoser.it
@@ -2303,7 +2294,6 @@ httpdnsmultiapi.meituan.com
 httpdnsmultiapivip.meituan.com
 httpdnsvip.meituan.com
 httpsdns.baidu.com
-hungary.privacy-dns.pw
 huntllcx.cn
 huv01.dnscry.pt
 hydra.plan9-ns1.com
@@ -2325,7 +2315,6 @@ imperio.top
 inadsware.ddns.net
 incaseineeditoneday.com
 ind01.dnscry.pt
-india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 ingenmannsland.online
 inoainoa.fun
@@ -2450,7 +2439,6 @@ lamdtl.giize.com
 landerbrauver.ru
 laptopdns.dr3ff1c13nt.com
 larkin.wang
-las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lastentarvike.fi
 lax.core.access.zznet.fun
@@ -2497,7 +2485,6 @@ lslnyjq.uk
 lukscasino-542-tr.xyz
 lux.sn0w.nl
 lux01.dnscry.pt
-luxembourg.privacy-dns.pw
 lvpn.2rdp.ru
 mabuktogel.builders
 mabuktogel.business
@@ -2788,7 +2775,6 @@ pips.kpsn.org
 pl-waw-w-p-2.nashkan.net
 plex.skin57.de
 plichaa12.ddns.net
-plushub.pro
 pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
@@ -2922,7 +2908,6 @@ roadesdyn.go.ro
 rockstars.netphoenix.ru
 rockwell.website
 roelgianotten.ddnsfree.com
-romania.privacy-dns.pw
 ronaldvkrueger.ddns.net
 rootdns.anir0y.in
 roucious.dyndns-remote.com
@@ -3074,9 +3059,7 @@ surfbelow.com
 surt.ovh
 svg33.eu
 swe.try-dns.com
-sweden.privacy-dns.pw
 sweethome.in.eu.org
-switzerland.privacy-dns.pw
 syd.adfilter.net
 syd.core.access.zznet.fun
 syd02.dnscry.pt
@@ -3171,7 +3154,6 @@ unicast.censurfridns.nu
 unicast.uncensoreddns.dk
 unicast2.servers.censurfridns.dk
 unifi.carioka.com
-united-arab-emirates.privacy-dns.pw
 unp.im
 unraid.dedyn.io
 ur.hytec.org
