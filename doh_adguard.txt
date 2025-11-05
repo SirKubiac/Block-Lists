@@ -680,7 +680,6 @@
 ||dac01.dnscry.pt^
 ||daemonhunt.no-ip.org^
 ||dandelionsprout.asuscomm.com^
-||darius-doh-nl.sserver.org^
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
 ||dart.kpsn.org^
@@ -1679,7 +1678,6 @@
 ||dns140.zhhz.cc^
 ||dns168.zhhz.cc^
 ||dns19.854000.xyz^
-||dns2-secure.wifire.it^
 ||dns2.afastserver.com^
 ||dns2.anuar.me^
 ||dns2.bortus.io^
@@ -1774,6 +1772,7 @@
 ||doh-ca.naftalie.net^
 ||doh-ch.blahdns.com^
 ||doh-de.blahdns.com^
+||doh-dns-apple-com.v.aaplimg.com^
 ||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
 ||doh-lb-atl.dnsflex.com^
@@ -3129,7 +3128,6 @@
 ||ttag.dns.nomu.pw^
 ||tuandns.duckdns.org^
 ||tuantran.cloud^
-||tujenasnaszato.xyz^
 ||tungdnsne.duckdns.org^
 ||tuskythehusky.tech^
 ||tuu01.dnscry.pt^
@@ -3248,7 +3246,6 @@
 ||vpn.technicule.info^
 ||vpn.vosjes.cloud^
 ||vpn0109.voodonline.fr^
-||vpndns.ru^
 ||vpnhellings.nl^
 ||vps-1f675aa1.vps.ovh.us^
 ||vps-ovh.pb2004.pl^
@@ -3301,7 +3298,6 @@
 ||woc.beelstb.biz.id^
 ||woodbridge.club^
 ||workcavestl.duckdns.org^
-||wuyou.pw^
 ||www.dnsadguard.co.uk^
 ||wyx.cloud^
 ||x-o-x.duckdns.org^
