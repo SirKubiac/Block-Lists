@@ -5,6 +5,9 @@ settings.data.microsoft.com
 settings-win.data.microsoft.com
 wns.windows.com
 client.wns.windows.com
+hk2.wns.windows.com
+par02p.wns.windows.com
+sg2p.wns.windows.com
 mup.amp.mcafee.com
 time.samsungcloudsolution.com
 dc.dqa.samsung.com
@@ -20,3 +23,9 @@ samsungcloudsolution.com
 samsungqbe.com
 mobile.events.data.microsoft.com
 grs.dbankcloud.eu
+c.msn.com
+srtb.msn.com
+watson.events.data.microsoft.com
+kmwatson.events.data.microsoft.com
+kmwatsonc.events.data.microsoft.com
+nw-umwatson.events.data.microsoft.com
