@@ -5,6 +5,9 @@
 ||settings-win.data.microsoft.com^
 ||wns.windows.com^
 ||client.wns.windows.com^
+||hk2.wns.windows.com^
+||par02p.wns.windows.com^
+||sg2p.wns.windows.com^
 ||mup.amp.mcafee.com^
 ||time.samsungcloudsolution.com^
 ||dc.dqa.samsung.com^
