@@ -19,3 +19,4 @@ osb-v2.samsungqbe.com
 samsungcloudsolution.com
 samsungqbe.com
 mobile.events.data.microsoft.com
+grs.dbankcloud.com
