@@ -11,5 +11,10 @@
 ||push.services.mozilla.com^
 ||atm-settingsfe-prod-geo2.trafficmanager.net^
 ||usercentrics.eu^
-||mobile.events.data.microsoft.com^
 ||grs.dbankcloud.eu^
+||watson.events.data.microsoft.com^
+||kmwatson.events.data.microsoft.com^
+||kmwatsonc.events.data.microsoft.com^
+||nw-umwatson.events.data.microsoft.com^
+||c.msn.com^
+||srtb.msn.com^
