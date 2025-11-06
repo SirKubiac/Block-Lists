@@ -11,3 +11,4 @@
 ||push.services.mozilla.com^
 ||atm-settingsfe-prod-geo2.trafficmanager.net^
 ||usercentrics.eu^
+||mobile.events.data.microsoft.com^
