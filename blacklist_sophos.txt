@@ -1,1 +1,2 @@
-
+self.events.data.microsoft.com
+browser.events.data.microsoft.com
