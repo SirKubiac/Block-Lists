@@ -58,6 +58,7 @@ aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
+aax-events-cell02-cf.us-east.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
@@ -115,8 +116,6 @@ aax.ap-southeast.3px.axp.amazon-adsystem.com
 aax.us-east.3px.axp.amazon-adsystem.com
 ab.apple.com.akadns.net
 abtest-ch.snssdk.com
-aca.bugsnag.appstore.a2z.com
-aca.ftv.bugsnag.appstore.a2z.com
 acfeedbackws.icloud.com
 ad-instantpage-ru.tiktokv.com
 ad-instantpage-sg.tiktokv.com
@@ -277,6 +276,7 @@ beta-ara.paa-reporting-advertising.amazon
 beta-c.aps.amazon-adsystem.com
 beta-config.aps.amazon-adsystem.com
 beta-krypton.aps.amazon-adsystem.com
+bid-eu.ads.aps.amazon-adsystem.com
 bid-na.ads-beta.aps.amazon-adsystem.com
 bid-na.ads-gamma.aps.amazon-adsystem.com
 bid-na.ads.aps.amazon-adsystem.com
@@ -285,7 +285,6 @@ browsercfg-drcn.cloud.dbankcloud.cn
 bugs.firebat.prime-video.amazon.dev
 bugsnag-event.monitor.core.app.alexa.a2z.com
 bugsnag-session.monitor.core.app.alexa.a2z.com
-bugsnag.appstore.a2z.com
 bugsnag.shopbop.amazon.dev
 business-api.tiktok.com
 c.amazon-adsystem.com
@@ -443,7 +442,6 @@ feedbackws.fe.apple-dns.cn
 feedbackws.fe2.apple-dns.net
 feedbackws.icloud.com
 feedbackws.icloud.com.cn
-firetv.bugsnag.appstore.a2z.com
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-eu.amazon-adsystem.com
@@ -897,10 +895,6 @@ news-events.apple.com
 news-notification-events.apple.com
 news-sports-events.apple.com
 notes-analytics-events.apple.com
-notify.aca.bugsnag.appstore.a2z.com
-notify.aca.ftv.bugsnag.appstore.a2z.com
-notify.bugsnag.appstore.a2z.com
-notify.firetv.bugsnag.appstore.a2z.com
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
 nsp-logservice-hiview-p06-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -975,7 +969,6 @@ rcm-na.amazon-adsystem.com
 rcm-na.assoc-amazon.com
 rcm-uk.amazon.co.uk
 rcm.amazon.com
-rnd-aresocean-commercial.huawei.com
 rnd-cbgpas01.huawei.com
 rtb.axp.amazon-adsystem.com
 rtc-logger-i18n.tiktokv.com
@@ -1082,7 +1075,6 @@ securemvt.v.aaplimg.com
 service.minerva.devices.a2z.com
 session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 session.mshopbugsnag.irm.amazon.dev
-sessions.bugsnag.appstore.a2z.com
 sessions.prod.bugs.firebat.prime-video.amazon.dev
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
@@ -1249,7 +1241,6 @@ vfw-ap.amazon-adsystem.com
 vfw-eu-gamma.amazon-adsystem.com
 vfw-eu.amazon-adsystem.com
 vfw-gamma.amazon-adsystem.com
-vfw-us-gamma.amazon-adsystem.com
 vfw-us-west-gamma.amazon-adsystem.com
 vfw-us-west.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
