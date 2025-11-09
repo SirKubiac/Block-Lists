@@ -1563,6 +1563,7 @@ dns.vemo.cc
 dns.vietdns.vn
 dns.vinnyp.xyz
 dns.vinokurov.tk
+dns.vip-kingstore.xyz
 dns.virtual-qr.ir
 dns.vk09.ru
 dns.vkhudyakov.ru
