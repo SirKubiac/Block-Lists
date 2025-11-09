@@ -233,6 +233,7 @@ adguard.kujoe.com
 adguard.lamhoangtung.space
 adguard.laurenlaufman.com
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.macrosolutionsltd.co.uk
 adguard.maison.gifino.fr
 adguard.manmademagic.com
@@ -462,6 +463,7 @@ an81dns.ru
 ancv.sytes.net
 andrewnw.xyz
 andrey93rus.ru
+andryk111.duckdns.org
 andybunn.onthewifi.com
 angry.pp.ua
 angrysky.ru
@@ -1866,6 +1868,8 @@ doh.infracell.net
 doh.iqiyi.com
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
+doh.kekew.racing
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1951,6 +1955,7 @@ doh2.b-cdn.net
 doh2.blahdns.com
 doh2.gslb2.xfinity.com
 doh3.almir1904.eu
+doh3.kekew.info
 dohdot.coxlab.net
 dohsg.blahdns.com
 dohsg.goitoi.co
@@ -2236,9 +2241,11 @@ home.realldz.id.vn
 home.snow-sugar.net
 home.weisbrod.me
 home.wriedts.de
+home27.duckdns.org
 homec92.dns.army
 homedns.gumeniuk.com
 homeguard.sleziona.org
+homejerem.duckdns.org
 homelab.terabit.net.id
 homenet.telecomitalia.it
 homita.id.vn
@@ -2479,7 +2486,9 @@ los02.dnscry.pt
 lothuscorp.com.br
 lovekers.cn
 lslnyjq.uk
+lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 lux.sn0w.nl
 lux01.dnscry.pt
 lvpn.2rdp.ru
@@ -2526,6 +2535,7 @@ media.streamfusion.online
 meganerd.nl
 megumin.is.my.waifu.cz
 mel01.dnscry.pt
+mendozasdelivery.com
 meowless.club
 mfimail.eu
 mia01.dnscry.pt
@@ -2536,6 +2546,7 @@ midns.clicinternet.com
 mijoregner.de
 mikatos.de
 mikewaddick.com
+mikezhang.xyz
 mikrobill.dns-cloud.net
 mil01.dnscry.pt
 minilla.store
@@ -2546,6 +2557,7 @@ moidns.hopto.org
 moise-et-maurice-gardent-la-maison.schneiderus.org
 moph.go.th
 morbitzer.de
+morgenegg.duckdns.org
 moto.adg.siudzinski.net
 mow01.dnscry.pt
 mq.hd440.de
@@ -2606,6 +2618,7 @@ nickcan.xyz
 nicknarayong.ddns.net
 nicktruehome.ddns.net
 nicsezcheckfbi.gov
+nikamurs.duckdns.org
 nilfheim.asguardian.de
 nimeserver.kirjakast.eu
 ningyan.top
@@ -2626,6 +2639,7 @@ node3.b4el.ru
 node9.servernode.store
 nop.mobi
 notebait.ddnsfree.com
+nqh-dns.duckdns.org
 nrt.core.access.zznet.fun
 nrusimha.crabdance.com
 ns.00dani.me
@@ -2730,6 +2744,7 @@ panser.web.id
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
+pashagame456.com
 paskam.xyz
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
@@ -2769,6 +2784,7 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 pioko.net
 pips.kpsn.org
+pitchforkwaydns.duckdns.org
 pl-waw-w-p-2.nashkan.net
 plex.skin57.de
 plichaa12.ddns.net
@@ -2839,6 +2855,7 @@ randn.ru
 rasp.matthias-iwer.de
 rayneau.fr
 rb750gr3.ulfhednar.ru
+rcpc2.duckdns.org
 rdd01.dnscry.pt
 rdjdns.ajraspi.xyz
 rdns.faelix.net
@@ -3150,6 +3167,7 @@ unicast.censurfridns.nu
 unicast.uncensoreddns.dk
 unicast2.servers.censurfridns.dk
 unifi.carioka.com
+unixfox.duckdns.org
 unp.im
 unraid.dedyn.io
 ur.hytec.org
@@ -3224,6 +3242,7 @@ vovale.px.i81.ru
 voyage-s01.cloudku.technology
 voyage-s02.cloudku.technology
 voyagerz.hopto.org
+vpich.duckdns.org
 vpn-tw.teng.sh
 vpn.1xtrm.com
 vpn.4-the.win
