@@ -120,6 +120,7 @@
 ||adg.rokh.biz^
 ||adg.rueiliu.space^
 ||adg.spacework.com.mx^
+||adg.tshost.no^
 ||adg.yybyy.wiki^
 ||adg5yvi.ngatngay.net^
 ||adghome.charleschan.net^
@@ -626,7 +627,6 @@
 ||cloud.securifi.com.my^
 ||cloud.tezoi.com^
 ||cloud2.holzmannclouddns.de^
-||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
 ||cloudflaredns.com^
@@ -1380,6 +1380,7 @@
 ||dns.pragmasec.nl^
 ||dns.privado.ovh^
 ||dns.privateservices.pro^
+||dns.propheci.xyz^
 ||dns.proprietarypenguin.com^
 ||dns.psyk.fr^
 ||dns.pub^
@@ -1561,6 +1562,7 @@
 ||dns.vietdns.vn^
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^
+||dns.vip-kingstore.xyz^
 ||dns.virtual-qr.ir^
 ||dns.vk09.ru^
 ||dns.vkhudyakov.ru^
