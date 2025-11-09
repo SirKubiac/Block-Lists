@@ -1,3 +1,4 @@
+cookielaw.org
 mobile.pipe.aria.microsoft.com
 browser.pipe.aria.microsoft.com
 fp.msedge.net
