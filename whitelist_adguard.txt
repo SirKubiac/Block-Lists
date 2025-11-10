@@ -22,5 +22,3 @@
 ||nw-umwatson.events.data.microsoft.com^
 ||c.msn.com^
 ||srtb.msn.com^
-||mobile.events.data.microsoft.com^
-||eu-mobile.events.data.microsoft.com^
