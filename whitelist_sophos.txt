@@ -1,6 +1,4 @@
 cookielaw.org
-mobile.pipe.aria.microsoft.com
-browser.pipe.aria.microsoft.com
 fp.msedge.net
 settings.data.microsoft.com
 settings-win.data.microsoft.com
@@ -22,7 +20,6 @@ time.samsungcloudsolution.com
 osb-v2.samsungqbe.com
 samsungcloudsolution.com
 samsungqbe.com
-mobile.events.data.microsoft.com
 grs.dbankcloud.eu
 c.msn.com
 srtb.msn.com
