@@ -143,6 +143,7 @@
 ||adguard.abd.ong^
 ||adguard.acrobyte.org^
 ||adguard.adrianofrongillo.ovh^
+||adguard.ajinga.net^
 ||adguard.almanasports.com^
 ||adguard.altgr.xyz^
 ||adguard.alu.dog^
@@ -777,7 +778,6 @@
 ||dns.52306.org^
 ||dns.58jdl.com^
 ||dns.5ososea.com^
-||dns.688447.xyz^
 ||dns.6level.net^
 ||dns.73zls.com^
 ||dns.7sec.com.br^
@@ -2191,6 +2191,7 @@
 ||herkes.online^
 ||hetz.sapient.cyou^
 ||hexxitcompany.com^
+||hfgx.shop^
 ||hg8.asia^
 ||hgrps.eu^
 ||himedns.com^
