@@ -115,7 +115,6 @@
 ||adg.meviusberry.hidns.co^
 ||adg.mnml.co.in^
 ||adg.niub.eu.org^
-||adg.pidns.de^
 ||adg.proprietarypenguin.com^
 ||adg.rokh.biz^
 ||adg.rueiliu.space^
@@ -1073,7 +1072,6 @@
 ||dns.hanahira.dev^
 ||dns.hanmey.de^
 ||dns.hannielzhang.com^
-||dns.haoxuan.me^
 ||dns.hashemlabs.co.uk^
 ||dns.hee.ink^
 ||dns.hellozhao.com^
@@ -1109,7 +1107,6 @@
 ||dns.ihaveacloud.com^
 ||dns.ikataruto.com^
 ||dns.iki.my.id^
-||dns.imaicool.com^
 ||dns.imchristian.de^
 ||dns.immanuelschaffer.de^
 ||dns.inclusioproject.com^
@@ -1158,7 +1155,6 @@
 ||dns.jungle-im.ir^
 ||dns.jupitrdns.com^
 ||dns.justinnetworkingsolutions.com^
-||dns.k1vzx.com^
 ||dns.k3nny.fr^
 ||dns.kamilszczepanski.com^
 ||dns.kapite.in^
@@ -1335,7 +1331,6 @@
 ||dns.ocedric.net^
 ||dns.octoworld.fr^
 ||dns.odinpl.com^
-||dns.odirf.de^
 ||dns.ofdoom.net^
 ||dns.oliverweinhold.de^
 ||dns.oliviertv.co.za^
@@ -1411,7 +1406,6 @@
 ||dns.renardyre.com^
 ||dns.reolinks.ru^
 ||dns.repinger.com^
-||dns.repinger.my.id^
 ||dns.repressoh.it^
 ||dns.resoft.org^
 ||dns.retakecs.com^
@@ -1858,7 +1852,6 @@
 ||doh.futa.app^
 ||doh.futa.gg^
 ||doh.greenwood.eu.org^
-||doh.hottis.de^
 ||doh.hugang8.cn^
 ||doh.ibr.cs.tu-bs.de^
 ||doh.immerda.ch^
@@ -2179,8 +2172,6 @@
 ||haf01.dnscry.pt^
 ||han01.dnscry.pt^
 ||happy365.me^
-||hayadns.online^
-||hayadns.site^
 ||hdns.ksyun.com^
 ||hdnsadguardhome.me^
 ||heavenorhell.ru^
@@ -2362,7 +2353,6 @@
 ||jnb01.dnscry.pt^
 ||jnb02.dnscry.pt^
 ||jnprd.com^
-||johneldenring.lol^
 ||jonathanaugusto.freeddns.org^
 ||joouddo.ru^
 ||josephfamily.org^
@@ -2391,7 +2381,6 @@
 ||jxzn.172896.xyz^
 ||k03.dedyn.io^
 ||k3n.pw^
-||k3rnel-pan1c.online^
 ||kaandikec.com^
 ||kaiser.int.eu.org^
 ||kaiwu.xyz^
@@ -2518,7 +2507,6 @@
 ||malanser.ru^
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
-||maqgie.xyz^
 ||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
 ||mask.icloud.com^
@@ -2735,7 +2723,6 @@
 ||oury.privado.ovh^
 ||outie.8ws.net^
 ||outiejr.8ws.net^
-||ovhcloud.mehmetarikan.tech^
 ||owa.pvmedia.ru^
 ||pad3w.pp.ua^
 ||padermail.net^

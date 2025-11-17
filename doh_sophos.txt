@@ -115,7 +115,6 @@ adg.khon.dev
 adg.meviusberry.hidns.co
 adg.mnml.co.in
 adg.niub.eu.org
-adg.pidns.de
 adg.proprietarypenguin.com
 adg.rokh.biz
 adg.rueiliu.space
@@ -1074,7 +1073,6 @@ dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.hannielzhang.com
-dns.haoxuan.me
 dns.hashemlabs.co.uk
 dns.hee.ink
 dns.hellozhao.com
@@ -1110,7 +1108,6 @@ dns.iblockads.net
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inclusioproject.com
@@ -1159,7 +1156,6 @@ dns.jundev.org
 dns.jungle-im.ir
 dns.jupitrdns.com
 dns.justinnetworkingsolutions.com
-dns.k1vzx.com
 dns.k3nny.fr
 dns.kamilszczepanski.com
 dns.kapite.in
@@ -1336,7 +1332,6 @@ dns.oceanprint.com.br
 dns.ocedric.net
 dns.octoworld.fr
 dns.odinpl.com
-dns.odirf.de
 dns.ofdoom.net
 dns.oliverweinhold.de
 dns.oliviertv.co.za
@@ -1412,7 +1407,6 @@ dns.reitmeier.me
 dns.renardyre.com
 dns.reolinks.ru
 dns.repinger.com
-dns.repinger.my.id
 dns.repressoh.it
 dns.resoft.org
 dns.retakecs.com
@@ -1859,7 +1853,6 @@ doh.funtopia.tv
 doh.futa.app
 doh.futa.gg
 doh.greenwood.eu.org
-doh.hottis.de
 doh.hugang8.cn
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
@@ -2180,8 +2173,6 @@ h4g3z1-doh.web.app
 haf01.dnscry.pt
 han01.dnscry.pt
 happy365.me
-hayadns.online
-hayadns.site
 hdns.ksyun.com
 hdnsadguardhome.me
 heavenorhell.ru
@@ -2363,7 +2354,6 @@ jkt01.dnscry.pt
 jnb01.dnscry.pt
 jnb02.dnscry.pt
 jnprd.com
-johneldenring.lol
 jonathanaugusto.freeddns.org
 joouddo.ru
 josephfamily.org
@@ -2392,7 +2382,6 @@ justhost.bedro.cloud
 jxzn.172896.xyz
 k03.dedyn.io
 k3n.pw
-k3rnel-pan1c.online
 kaandikec.com
 kaiser.int.eu.org
 kaiwu.xyz
@@ -2519,7 +2508,6 @@ makatla.tech
 malanser.ru
 man01.dnscry.pt
 management.alexpollard.net
-maqgie.xyz
 mask-canary.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
@@ -2736,7 +2724,6 @@ ott01.dnscry.pt
 oury.privado.ovh
 outie.8ws.net
 outiejr.8ws.net
-ovhcloud.mehmetarikan.tech
 owa.pvmedia.ru
 pad3w.pp.ua
 padermail.net
