@@ -22,6 +22,7 @@ samsungcloudsolution.com
 samsungqbe.com
 grs.dbankcloud.com
 grs-dbankcloud-com-dre.appacc.dbankedge.cn
+grs-dbankcloud-com-dre.appacc-region.dbankedge.cn
 c.msn.com
 srtb.msn.com
 watson.events.data.microsoft.com
