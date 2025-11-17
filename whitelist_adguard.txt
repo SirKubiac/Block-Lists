@@ -15,6 +15,7 @@
 ||usercentrics.eu^
 ||grs.dbankcloud.com^
 ||grs-dbankcloud-com-dre.appacc.dbankedge.cn^
+||grs-dbankcloud-com-dre.appacc-region.dbankedge.cn^
 ||watson.events.data.microsoft.com^
 ||kmwatson.events.data.microsoft.com^
 ||kmwatsonc.events.data.microsoft.com^
