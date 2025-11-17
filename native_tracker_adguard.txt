@@ -320,7 +320,7 @@
 ||grs-dbankcloud-com-dre.region.dbankedge.cn^
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.cn^
-||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
 ||grs.hicloud.com^
 ||grs.hihonorcloud.com^
 ||grs.platform.dbankcloud.ru^

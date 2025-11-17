@@ -71,7 +71,6 @@ ad.tzockt.beer
 ad.visbran.fr
 ad1guard.duckdns.org
 adampowell.pro
-adb-dns.sapient.cyou
 adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
 adb.aadityakushwaha.com
@@ -396,7 +395,6 @@ ag.ff0x.ca
 ag.hostme.co.il
 ag.iyn.one
 ag.marschi.de
-ag.sageton.pl
 ag.snrka.ru
 ag.ssrahul96.xyz
 ag.stepnew.ru
@@ -1373,7 +1371,6 @@ dns.pointless.chat
 dns.polatarasan.com.tr
 dns.porteii.com
 dns.powerbs.net
-dns.pragmasec.nl
 dns.privado.ovh
 dns.privateservices.pro
 dns.propheci.xyz
@@ -1629,7 +1626,6 @@ dns0.tardishost.ru
 dns01.almir1904.eu
 dns01.enginyring.com
 dns01.flm9.net
-dns01.sdu.pp.ua
 dns02.almir1904.eu
 dns02.enginyring.com
 dns03.almir1904.eu
@@ -2179,7 +2175,6 @@ heavenorhell.ru
 hel01.dnscry.pt
 helios.plan9-dns.com
 herkes.online
-hetz.sapient.cyou
 hexxitcompany.com
 hfgx.shop
 hg8.asia
@@ -2499,7 +2494,6 @@ mad01.dnscry.pt
 maherhost.uk
 mail.data.haus
 mail.hilton-groups.com
-mail.pragmasec.nl
 mailer.amlegion.org
 mailkyb.co
 maincloud.ir
@@ -2595,7 +2589,6 @@ nelsonleung.org
 net.tt6.net
 net01.youcef.io
 netcup.mismat.ch
-new.pragmasec.nl
 newd.rezyro.com
 newlibrarian.myqnapcloud.com
 next.atomix.in
@@ -2788,7 +2781,6 @@ polisitogel.cruises
 polisitogel.diy
 polisitogel.green
 polisitogel.hair
-polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 polisitogel.show
@@ -2965,7 +2957,6 @@ selsby.info
 seoul.101818.xyz
 seoul.dnsovertor.cc
 sers.lirlab.su
-server.pragmasec.nl
 server01.karl.one
 server01.vboekel.nl
 servis4u.top
@@ -3095,7 +3086,6 @@ thxvv.ru
 tia01.dnscry.pt
 tienpham.id.vn
 tiger.dns.qwer.pw
-tigrons.ru
 timedns.net
 timmes.nl
 tj.jamesxue.xyz
@@ -3283,7 +3273,6 @@ waw02.dnscry.pt
 waydnes.ru
 web-rated.ie
 webdav.cubecloud.win
-webmeel.pragmasec.nl
 webteufel-it.solutions
 wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn
 wg-aghome.freemyip.com
