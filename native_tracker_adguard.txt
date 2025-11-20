@@ -405,6 +405,7 @@
 ||log-sg.capcutapi.com^
 ||log-snssdk.tiktokv-us.com^
 ||log-tiktok.byteoversea.net^
+||log-v2-boot.capcutapi.com^
 ||log-va-useast2a.tiktokv.com^
 ||log-va.tiktokv.com^
 ||log.byteoversea.com^
@@ -518,6 +519,7 @@
 ||mcs-tiktok.byteoversea.net^
 ||mcs-ttp2.tiktokv.us^
 ||mcs-ttp2.us.tiktok.com^
+||mcs-v2-boot.capcutapi.com^
 ||mcs-va-useast2a.tiktokv.com^
 ||mcs-va.tiktok.com^
 ||mcs-va.tiktokv.com^
@@ -563,6 +565,7 @@
 ||mon-sg.capcutapi.com^
 ||mon-sg.tiktokv.com^
 ||mon-useast2a.tiktokv.com^
+||mon-v2-boot.capcutapi.com^
 ||mon-va-useast2a.byteoversea.com^
 ||mon-va.byteoversea.com^
 ||mon-va.tiktokv.com^
@@ -584,6 +587,7 @@
 ||mon16-normal-alisg.tiktokv.com^
 ||mon16-normal-c-useast1a.tiktokv.com^
 ||mon16-normal-c-useast2a.tiktokv.com^
+||mon16-normal-no1a.tiktokv.eu.station^
 ||mon16-normal-no1a.tiktokv.eu^
 ||mon16-normal-sg.capcutapi.com^
 ||mon16-normal-us-ttp.capcutapi.us^
@@ -628,6 +632,7 @@
 ||mssdk-sg.capcutapi.com^
 ||mssdk-sg.tiktok.com^
 ||mssdk-sg.tiktokv.com^
+||mssdk-v2-boot.capcutapi.com^
 ||mssdk-va-useast2a.byteoversea.com^
 ||mssdk-va-useast2a.tiktokv.com^
 ||mssdk-va.byteoversea.com^
@@ -639,8 +644,10 @@
 ||mssdk.tiktokw.us^
 ||mssdk.us.tiktok.com^
 ||mssdk.us.tiktokv.com^
+||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal-us-ttp.capcutapi.us^
 ||mssdk16-normal-useastred.tiktokw.eu^
+||mssdk16-normal.capcutapi.com^
 ||mssdk16-normal.tiktokv.com^
 ||mssdk16-platform-useast5.us.tiktokv.com^
 ||mssdk19-normal-alisg.tiktokv.com^
@@ -664,8 +671,10 @@
 ||mssdk24-normal.tiktokv.com^
 ||mssdk31-normal-zr-alisg.tiktokv.com^
 ||mssdk31-normal-zr-useast1a.tiktokv.com^
+||mssdk32-normal-sg.capcutapi.com^
 ||mssdk32-normal-zr-alisg.tiktokv.com^
 ||mssdk32-normal-zr-useast1a.tiktokv.com^
+||mssdk32-normal.capcutapi.com^
 ||news-app-events.apple.com^
 ||news-events.apple.com^
 ||news-notification-events.apple.com^
@@ -696,6 +705,7 @@
 ||partiality.itunes.apple.com^
 ||pc-mon-boot.capcutapi.com^
 ||pc-mon-normal-sg.capcutapi.com^
+||pc-mon-v2-boot.capcutapi.com^
 ||pc-mon-va.byteoversea.com^
 ||pc-mon.snssdk.com^
 ||pc-mon16-normal-us-ttp.capcutapi.us^
@@ -840,6 +850,7 @@
 ||tnc-boot.capcutapi.com^
 ||tnc-boot.tiktokv.com^
 ||tnc-sg.capcutapi.com^
+||tnc-v2-boot.capcutapi.com^
 ||tnc-va-us-looki.capcutapi.com^
 ||tnc-va.capcutapi.com^
 ||tnc0-normal-alisg.tiktokv.com^
