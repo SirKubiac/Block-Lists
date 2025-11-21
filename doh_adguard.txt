@@ -1656,6 +1656,7 @@
 ||dns1.sarakas.net^
 ||dns1.schooldns.nl^
 ||dns1.serdcebolit.ru^
+||dns1.server.my.id^
 ||dns1.slowb.ro^
 ||dns1.tardishost.ru^
 ||dns1.techeasy.org^
