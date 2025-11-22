@@ -116,6 +116,8 @@ aax.ap-southeast.3px.axp.amazon-adsystem.com
 aax.us-east.3px.axp.amazon-adsystem.com
 ab.apple.com.akadns.net
 abtest-ch.snssdk.com
+aca.bugsnag.appstore.a2z.com
+aca.ftv.bugsnag.appstore.a2z.com
 acfeedbackws.icloud.com
 ad-instantpage-ru.tiktokv.com
 ad-instantpage-sg.tiktokv.com
@@ -285,6 +287,7 @@ browsercfg-drcn.cloud.dbankcloud.cn
 bugs.firebat.prime-video.amazon.dev
 bugsnag-event.monitor.core.app.alexa.a2z.com
 bugsnag-session.monitor.core.app.alexa.a2z.com
+bugsnag.appstore.a2z.com
 bugsnag.shopbop.amazon.dev
 business-api.tiktok.com
 c.amazon-adsystem.com
@@ -381,6 +384,7 @@ dra.amazon-adsystem.com
 dt.dbankcloud.ru
 dt.hicloud.com
 dt.hihonorcloud.com
+dub.stv.event-eu.ads.aps.amazon-adsystem.com
 endpoint.prod.eu-west-1.forester.a2z.com
 endpoint.prod.us-east-1.forester.a2z.com
 endpoint.prod.us-west-2.forester.a2z.com
@@ -444,6 +448,7 @@ feedbackws.fe.apple-dns.cn
 feedbackws.fe2.apple-dns.net
 feedbackws.icloud.com
 feedbackws.icloud.com.cn
+firetv.bugsnag.appstore.a2z.com
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-eu.amazon-adsystem.com
@@ -477,6 +482,7 @@ forester.a2z.com
 frontier.byteoversea.com
 frontier.tiktokv.com
 frontier.tiktokv.us
+ftv.bugsnag.appstore.a2z.com
 gamma-config.aps.amazon-adsystem.com
 gamma-toolbox.aps.amazon-adsystem.com
 gamma.useast.rtb.axp.amazon-adsystem.com
@@ -528,7 +534,6 @@ honorsearch-drcn.hiboard.hihonorcloud.com
 honorsearch-dre.hiboard.hihonorcloud.com
 iad-apple.com.akadns.net
 iad.apple.com
-iad.web.bid-na.ads.aps.amazon-adsystem.com
 iadcontent-lb.apple.com.akadns.net
 iadcontent.apple.com
 iadmoo.apple.com
@@ -812,7 +817,6 @@ mon16-normal-alisg.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-c-useast2a.tiktokv.com
 mon16-normal-no1a.tiktokv.eu
-mon16-normal-no1a.tiktokv.eu.station
 mon16-normal-sg.capcutapi.com
 mon16-normal-us-ttp.capcutapi.us
 mon16-normal-useast1a.tiktokv.com
@@ -905,6 +909,10 @@ news-events.apple.com
 news-notification-events.apple.com
 news-sports-events.apple.com
 notes-analytics-events.apple.com
+notify.aca.bugsnag.appstore.a2z.com
+notify.aca.ftv.bugsnag.appstore.a2z.com
+notify.bugsnag.appstore.a2z.com
+notify.firetv.bugsnag.appstore.a2z.com
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
 nsp-logservice-hiview-p06-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -1086,6 +1094,7 @@ securemvt.v.aaplimg.com
 service.minerva.devices.a2z.com
 session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 session.mshopbugsnag.irm.amazon.dev
+sessions.bugsnag.appstore.a2z.com
 sessions.prod.bugs.firebat.prime-video.amazon.dev
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
@@ -1258,6 +1267,8 @@ vfw-us-west-gamma.amazon-adsystem.com
 vfw-us-west.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
 vfw.amazon-adsystem.com
+vfwm.amazon-adsystem.com
+vfws.amazon-adsystem.com
 video-ads.a2z.com
 video-player.aps.amazon-adsystem.com
 vq-eu-west-1.amazon-adsystem.com
