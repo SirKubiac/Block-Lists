@@ -384,7 +384,6 @@ dra.amazon-adsystem.com
 dt.dbankcloud.ru
 dt.hicloud.com
 dt.hihonorcloud.com
-dub.stv.event-eu.ads.aps.amazon-adsystem.com
 endpoint.prod.eu-west-1.forester.a2z.com
 endpoint.prod.us-east-1.forester.a2z.com
 endpoint.prod.us-west-2.forester.a2z.com
@@ -708,6 +707,7 @@ maws-aax-apse-rtb-adx.amazon-adsystem.com
 maws-aax-apse-rtb.amazon-adsystem.com
 maws-aax-eu-rtb-adx.amazon-adsystem.com
 maws-aax-eu-rtb.amazon-adsystem.com
+maws-aax-fe-sin.amazon-adsystem.com
 maws-aax-us-east-rtb-adx.amazon-adsystem.com
 maws-aax-us-east-rtb.amazon-adsystem.com
 maws-aax-us-east-test4.amazon-adsystem.com
@@ -1118,6 +1118,7 @@ stocks-analytics-events.apple.com
 strategicpub.eu-west.aps.axp.amazon-adsystem.com
 strategicpub.us-east.aps.axp.amazon-adsystem.com
 strategicpub.us-west.aps.axp.amazon-adsystem.com
+stv.bid-eu.ads.aps.amazon-adsystem.com
 stv.bid-na.ads-beta.aps.amazon-adsystem.com
 stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 stv.bid-na.ads.aps.amazon-adsystem.com
@@ -1267,6 +1268,7 @@ vfw-us-west-gamma.amazon-adsystem.com
 vfw-us-west.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
 vfw.amazon-adsystem.com
+vfwm-us.amazon-adsystem.com
 vfwm.amazon-adsystem.com
 vfws.amazon-adsystem.com
 video-ads.a2z.com
