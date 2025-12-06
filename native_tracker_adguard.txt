@@ -99,6 +99,7 @@
 ||ads-sg.tiktok.com^
 ||ads-ttp2.tiktokw.eu^
 ||ads-ttp2.us.tiktok.com^
+||ads-useast2a.tiktok.com^
 ||ads.cloud.huawei.com^
 ||ads.tiktok.com^
 ||ads.tiktok.in^
@@ -664,8 +665,6 @@
 ||mssdk22-normal-zr-useast1a.tiktokv.com^
 ||mssdk22-normal-zr.tiktokv.com^
 ||mssdk22-normal.tiktokv.com^
-||mssdk23-normal-zr-alisg.tiktokv.com^
-||mssdk23-normal-zr-useast1a.tiktokv.com^
 ||mssdk24-normal-alisg.tiktokv.com^
 ||mssdk24-normal-useast1a.tiktokv.com^
 ||mssdk24-normal-useast2a.tiktokv.com^
