@@ -598,6 +598,7 @@
 ||ca.doh.cloudveil.org^
 ||canadianshield.cira.ca^
 ||carolinareaper.heeremans.net^
+||catchen121299.top^
 ||catdns.org^
 ||cattery.noddos.top^
 ||cattery2.noddos.top^
@@ -667,6 +668,7 @@
 ||cvt-ic-us-adns-001.clearviewtechnology.net^
 ||cvt01.dnscry.pt^
 ||cyliu.idv.tw^
+||cynntex.fun^
 ||d.apemlegit.my.id^
 ||d.bod.lol^
 ||d.gametechnet.com^
@@ -712,6 +714,7 @@
 ||de.dns.privex.io^
 ||de.teradns.org^
 ||dedidl.com^
+||deep-henchman-excuse.cfd^
 ||defendfrienddns.fyi^
 ||dehb.ru^
 ||den01.dnscry.pt^
@@ -869,6 +872,7 @@
 ||dns.bofh.in^
 ||dns.bortus.io^
 ||dns.bovat.net^
+||dns.braene.com^
 ||dns.brahma.world^
 ||dns.brembeck.cloud^
 ||dns.briac-mlb.fr^
@@ -924,6 +928,7 @@
 ||dns.complianceauditores.com.br^
 ||dns.connect.fail^
 ||dns.consoro.eu^
+||dns.containerpi.com^
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.cryptomize.com^
@@ -932,6 +937,7 @@
 ||dns.csaonline.de^
 ||dns.csswg.org^
 ||dns.cwlys.com^
+||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
 ||dns.d365.in^
 ||dns.d4d.moe^
@@ -987,6 +993,7 @@
 ||dns.eddi.net^
 ||dns.edgeburnmedia.com^
 ||dns.edgeworkssystems.ca^
+||dns.edgy.network^
 ||dns.efficientdocuments.com^
 ||dns.electrotm.org^
 ||dns.elemental.software^
@@ -1023,6 +1030,7 @@
 ||dns.filipccz.eu^
 ||dns.fizz.studio^
 ||dns.flatuslifir.is^
+||dns.flightspace.net^
 ||dns.floriantinney.de^
 ||dns.flux24.net^
 ||dns.flwagners.com^
@@ -1727,6 +1735,7 @@
 ||dnscdn.bai0012.com^
 ||dnscity.org^
 ||dnsdoh.art^
+||dnsenc.com^
 ||dnsfilter.domotik.us^
 ||dnsforfamily.com^
 ||dnsforge.de^
@@ -1751,6 +1760,7 @@
 ||dnsvs.ddns.net^
 ||dnswebvsn.com^
 ||dnx.niko-sem.com^
+||do-39574-tr.xyz^
 ||do.dnscrypt.uk^
 ||do.shimul.me^
 ||docker-hub.ir^
@@ -2154,6 +2164,7 @@
 ||guard.yps.tw^
 ||guidetoworld.link^
 ||guigu.dns.army^
+||gustamadh.dynv6.net^
 ||gva01.dnscry.pt^
 ||gw1.dns.haynetwork.id^
 ||gyd01.dnscry.pt^
@@ -2206,6 +2217,7 @@
 ||hkt.kozow.com^
 ||hockaday.synology.me^
 ||hole.elbschloss.xyz^
+||home-server.store^
 ||home.azagra.dev^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
@@ -2225,6 +2237,7 @@
 ||home.weisbrod.me^
 ||home.wriedts.de^
 ||home27.duckdns.org^
+||homec92.dns.army^
 ||homedns.gumeniuk.com^
 ||homeguard.sleziona.org^
 ||homejerem.duckdns.org^
@@ -2420,6 +2433,7 @@
 ||kstdownload.com^
 ||kudns.kescher.at^
 ||kwas24izynek74.ddns.net^
+||kx-97795-tr.xyz^
 ||kz-pav-w-p-1.nashkan.net^
 ||la-doh.stuptech.com^
 ||lamdtl.giize.com^
@@ -2439,6 +2453,7 @@
 ||lelux.fi^
 ||leoadguard.duckdns.org^
 ||leochen-dns.ddns.net^
+||lesuo.top^
 ||lewsha.lol^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
 ||lifeisa.live^
@@ -2558,6 +2573,7 @@
 ||mx1.laoxiao789.com^
 ||myadg.ru^
 ||myagh.claptrap.me^
+||myatris.sbs^
 ||mydevpn.eu^
 ||mydns.ddns.me^
 ||mydns.x96maxultra.ru^
@@ -2676,6 +2692,7 @@
 ||nsc.torgues.net^
 ||nsec.arnor.org^
 ||nsnacho.sytes.net^
+||nsown.com^
 ||ntwrkh.pro^
 ||nue01.dnscry.pt^
 ||nvi-dns.bitdefender.net^
@@ -2764,6 +2781,7 @@
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
 ||pihole4.hoerli.net^
+||pingbi.xyz^
 ||pioko.net^
 ||pips.kpsn.org^
 ||pitchforkwaydns.duckdns.org^
@@ -2852,6 +2870,7 @@
 ||resolve2.srv-pro.de^
 ||resolver-eu.haringstad.com^
 ||resolver.as203038.net^
+||resolver.dns.eban.eu.org^
 ||resolver.dnsprivacy.org.uk^
 ||resolver.frank-ruan.com^
 ||resolver.haringstad.com^
@@ -3281,9 +3300,11 @@
 ||workcavestl.duckdns.org^
 ||www.dnsadguard.co.uk^
 ||wyx.cloud^
+||x-o-x.duckdns.org^
 ||x.laoban.fun^
 ||x.ns1net.com^
 ||x.res.wang^
+||x861g.duckdns.org^
 ||xbcpb668.com^
 ||xenergy.cc^
 ||xfer.au^
