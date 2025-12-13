@@ -219,6 +219,9 @@ analytics.snssdk.com
 analytics.tiktok.com
 analytics.us.tiktok.com
 analytics16-normal-alisg.tiktok.com
+analytics16-normal-no1a.tiktokw.eu
+analytics16-normal-useast5.tiktokw.us
+analytics16-normal-useast8.tiktokw.us
 analytics16-normal-useastred.tiktokw.eu
 analytics16-normal.tiktok.com
 ap-northeast-1-1.telemetry.insights.video.a2z.com
@@ -1263,6 +1266,7 @@ vfw-ap.amazon-adsystem.com
 vfw-eu-gamma.amazon-adsystem.com
 vfw-eu.amazon-adsystem.com
 vfw-gamma.amazon-adsystem.com
+vfw-us-gamma.amazon-adsystem.com
 vfw-us-west-gamma.amazon-adsystem.com
 vfw-us-west.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
@@ -1321,6 +1325,7 @@ xlog.snssdk.com
 xlog.tiktokv.com
 xlog16-normal-c-useast1a.tiktokv.com
 xlog16-normal-c-useast2a.tiktokv.com
+xlog16-normal-no1a.tiktokv.eu
 xlog16-normal-useast8.us.tiktokv.com
 xlog16-platform-useast5.us.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
