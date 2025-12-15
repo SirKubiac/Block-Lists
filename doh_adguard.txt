@@ -35,10 +35,8 @@
 ||3.local-dns.noridev.moe^
 ||3dcosas.xyz^
 ||3dns.eu^
-||3jjxxl.tech^
 ||45.32.17.58.vultrusercontent.com^
 ||51576162.ru^
-||520ily.cn^
 ||5g.o0o.re^
 ||6301s.dangkiem.com^
 ||7164.ddns.net^
@@ -750,7 +748,6 @@
 ||dns-fr-psv1.cloudsides.com^
 ||dns-free.link^
 ||dns-gcp.aaflalo.me^
-||dns-hk.524228.xyz^
 ||dns-idx1.itsec.my.id^
 ||dns-idx2.itsec.my.id^
 ||dns-lb.unpak.ac.id^
