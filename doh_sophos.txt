@@ -115,7 +115,6 @@ adg.jnorton.us
 adg.khon.dev
 adg.meviusberry.hidns.co
 adg.mnml.co.in
-adg.niub.eu.org
 adg.proprietarypenguin.com
 adg.rokh.biz
 adg.rueiliu.space
@@ -561,7 +560,6 @@ blitz-setup.ahadns.com
 blitz.ahadns.com
 block.abstergo.it
 block.coconut.id
-blockadhomemoskva.ru
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
 blog.kimiblock.top
@@ -910,7 +908,6 @@ dns.clanless.ovh
 dns.clanto.cloud
 dns.clickhost.xyz
 dns.clickitsolutionsllc.com
-dns.cloud-admin.xyz
 dns.cloud.ionutl.ro
 dns.cloud88.com.au
 dns.cloudfiction.eu
@@ -919,7 +916,6 @@ dns.cloudseriousshit.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.codarbyte.de
-dns.code66.de
 dns.coderoria.com
 dns.colorfreedom.org
 dns.comeonjames.club
@@ -1819,7 +1815,6 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cippapp.com
-doh.cloud-sekeng.com
 doh.cnetwork.cloud
 doh.controld.com
 doh.cornes.me
@@ -3076,7 +3071,6 @@ test.adg.siudzinski.net
 test.businessconnect.com.tr
 test.marss.pro
 test.privatenode.ru
-test.zkwg.duckdns.org
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
