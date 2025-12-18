@@ -276,7 +276,6 @@
 ||adguard.rowdyengeesje.nl^
 ||adguard.ruby.ci^
 ||adguard.sealyserver.com^
-||adguard.searom.ovh^
 ||adguard.senthil.us^
 ||adguard.servernation.xyz^
 ||adguard.serverrune.be^
@@ -1340,7 +1339,6 @@
 ||dns.oryxlabs.com^
 ||dns.osmenoga.com^
 ||dns.otezz.net^
-||dns.ours.luxe^
 ||dns.ourvau.lt^
 ||dns.p3k.sk^
 ||dns.p55k.com^
@@ -1395,7 +1393,6 @@
 ||dns.rayarksb.fun^
 ||dns.rbn.gr^
 ||dns.readlook.tk^
-||dns.reckoningslug.name^
 ||dns.redhosting.com.ar^
 ||dns.redroot.cc^
 ||dns.redvau.lt^
@@ -1698,7 +1695,6 @@
 ||dns2.sillav.dev^
 ||dns2.slowb.ro^
 ||dns2.srv-home.fr^
-||dns2.svip.one^
 ||dns2.thylacine.co.nz^
 ||dns2.vinc.me^
 ||dns2.xcapenet.ru^
@@ -2838,7 +2834,6 @@
 ||redsea.meetz.pw^
 ||regiopolis.cloud^
 ||renardbleu.dev^
-||reptis.online^
 ||res-acst1.absolight.net^
 ||res-acst2.absolight.net^
 ||res-acst3.absolight.net^
@@ -3190,7 +3185,6 @@
 ||vds2380673.my-ihor.ru^
 ||vdska-pl.ydns.eu^
 ||vdsn-nl-2.azatmutq.com^
-||venum.space^
 ||vie01.dnscry.pt^
 ||vik.ro^
 ||villalazza.stream^
