@@ -57,6 +57,7 @@ aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
+aax-events-cell02-cf.eu-west.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
@@ -388,6 +389,7 @@ dra.amazon-adsystem.com
 dt.dbankcloud.ru
 dt.hicloud.com
 dt.hihonorcloud.com
+dz1dt3wqswdezgx4j2ryem5iad.apple.com
 endpoint.prod.eu-west-1.forester.a2z.com
 endpoint.prod.us-east-1.forester.a2z.com
 endpoint.prod.us-west-2.forester.a2z.com
