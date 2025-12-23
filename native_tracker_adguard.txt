@@ -304,6 +304,8 @@
 ||fls-na.amazon.com^
 ||forester.a2z.com^
 ||frontier.byteoversea.com^
+||frontier.capcutw.us.edgesuite.net^
+||frontier.capcutw.us^
 ||frontier.tiktokv.com^
 ||frontier.tiktokv.us^
 ||gplog-sg.byteoversea.com^

@@ -485,6 +485,8 @@ fls-na.amazon.com.br
 fls-na.amazon.com.mx
 forester.a2z.com
 frontier.byteoversea.com
+frontier.capcutw.us
+frontier.capcutw.us.edgesuite.net
 frontier.tiktokv.com
 frontier.tiktokv.us
 ftv.bugsnag.appstore.a2z.com
