@@ -346,6 +346,7 @@
 ||honorsearch-dra.hiboard.hihonorcloud.com^
 ||honorsearch-drcn.hiboard.hihonorcloud.com^
 ||honorsearch-dre.hiboard.hihonorcloud.com^
+||i.snssdk.com^
 ||iad-apple.com.akadns.net^
 ||iad.apple.com^
 ||iadcontent-lb.apple.com.akadns.net^
@@ -739,7 +740,6 @@
 ||radarsubmissions.apple.com^
 ||rcm-eu.amazon-adsystem.com^
 ||rcm-fe.amazon-adsystem.com^
-||rcm-images.amazon.com^
 ||rcm-it.amazon.it^
 ||rcm-jp.amazon.co.jp^
 ||rcm-na.amazon-adsystem.com^
