@@ -206,7 +206,6 @@
 ||adguard.gambini.org^
 ||adguard.gattow.com^
 ||adguard.gbrossi.com.br^
-||adguard.georgev22.com^
 ||adguard.ghkyzz.us^
 ||adguard.glbd.fr^
 ||adguard.gonzcid.com^
@@ -987,7 +986,6 @@
 ||dns.dnshome.de^
 ||dns.dnsoverhttps.net^
 ||dns.dnswarden.com^
-||dns.dodhymikrotik.my.id^
 ||dns.doserver.top^
 ||dns.dotnet.win^
 ||dns.dr3ff1c13nt.com^
@@ -1115,7 +1113,6 @@
 ||dns.huas.me^
 ||dns.hub.com.de^
 ||dns.huizegunsing.nl^
-||dns.huizhechi.com^
 ||dns.hujiayucc.cn^
 ||dns.huseynov.work^
 ||dns.huth.nu^
@@ -1134,7 +1131,6 @@
 ||dns.inclusioproject.com^
 ||dns.indybanipal.com^
 ||dns.inforlogia.com^
-||dns.interhub.cc^
 ||dns.internal.espresso-tasse.de^
 ||dns.internal.hosmatic.com^
 ||dns.invent.hr^
@@ -1240,7 +1236,6 @@
 ||dns.litong.dev^
 ||dns.lmir.info^
 ||dns.lobbygod.com^
-||dns.lsho.top^
 ||dns.luismm2311.com^
 ||dns.lululu.dev^
 ||dns.luma-medien.com^
@@ -1394,7 +1389,6 @@
 ||dns.privateservices.pro^
 ||dns.propheci.xyz^
 ||dns.proprietarypenguin.com^
-||dns.psyk.fr^
 ||dns.pub^
 ||dns.pumpkinvrar.com^
 ||dns.qiyipic.iqiyi.com^
@@ -1434,7 +1428,6 @@
 ||dns.rogpurs.com^
 ||dns.romain.tech^
 ||dns.ronc.ru^
-||dns.root.me^
 ||dns.rotunneling.net^
 ||dns.rubyfish.cn^
 ||dns.safko.eu^
@@ -1753,6 +1746,7 @@
 ||dnsmm.mywire.org^
 ||dnsnl.alekberg.net^
 ||dnsotls.lab.nic.cl^
+||dnspod.com^
 ||dnspub.restena.lu^
 ||dnsresolver02.ddns.net^
 ||dnssec.dns.enginyring.com^
@@ -2024,6 +2018,7 @@
 ||easyhandshake.com^
 ||ebpmc.diskstation.me^
 ||ebpmc.tplinkdns.com^
+||ec.i-puppy.ru^
 ||ecs-doh.dnswarden.com^
 ||edgar.tobkar.net^
 ||edge.nextdns.io^
@@ -2182,7 +2177,6 @@
 ||ha.o51r15.com^
 ||haf01.dnscry.pt^
 ||han01.dnscry.pt^
-||happy365.me^
 ||hdns.ksyun.com^
 ||hdnsadguardhome.me^
 ||heavenorhell.ru^
@@ -2303,7 +2297,6 @@
 ||huntllcx.cn^
 ||huv01.dnscry.pt^
 ||hydra.plan9-ns1.com^
-||i-puppy.ru^
 ||i.dns-over-https.tk^
 ||i.passcloud.xyz^
 ||iah01.dnscry.pt^
@@ -2401,7 +2394,6 @@
 ||kallemarc.de^
 ||kalwat.duckdns.org^
 ||katherine-dns.newcore.cl^
-||kavkaz.monster^
 ||kawpad.southeastasia.cloudapp.azure.com^
 ||kcolspacrm.ir^
 ||kdgnkjho4od8w40.americasnet.com.br^
@@ -2464,7 +2456,6 @@
 ||leochen-dns.ddns.net^
 ||lesuo.top^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
-||lifeisa.live^
 ||lilibox.freeboxos.fr^
 ||lim02.dnscry.pt^
 ||lime.samonte.ovh^
@@ -2476,8 +2467,6 @@
 ||lis02.dnscry.pt^
 ||lju01.dnscry.pt^
 ||llk01.dnscry.pt^
-||lmc.privatedns.org^
-||lmc1.privatedns.org^
 ||loadlow.me^
 ||loan.paymdm.xyz^
 ||log.qrsoft.ru^
@@ -2498,19 +2487,6 @@
 ||lux.sn0w.nl^
 ||lux01.dnscry.pt^
 ||lvpn.2rdp.ru^
-||mabuktogel.builders^
-||mabuktogel.business^
-||mabuktogel.cards^
-||mabuktogel.creditcard^
-||mabuktogel.degree^
-||mabuktogel.directory^
-||mabuktogel.enterprises^
-||mabuktogel.immobilien^
-||mabuktogel.limited^
-||mabuktogel.ltd^
-||mabuktogel.marketing^
-||mabuktogel.properties^
-||mabuktogel.solutions^
 ||mad01.dnscry.pt^
 ||maherhost.uk^
 ||mail.data.haus^
@@ -2559,7 +2535,6 @@
 ||miskoss.fun^
 ||mistasinresolver.ru^
 ||mnl01.dnscry.pt^
-||mo0on15.com^
 ||moe01.dnscry.pt^
 ||moidns.hopto.org^
 ||moise-et-maurice-gardent-la-maison.schneiderus.org^
@@ -2826,7 +2801,6 @@
 ||pro.shecan.ir^
 ||proariel.dns-dynamic.net^
 ||project-evoex.de^
-||prostoclub.ru^
 ||protective.joindns4.eu^
 ||proxjdf.jamesferrand.fr^
 ||proxy.srs.su^
@@ -2934,6 +2908,7 @@
 ||router.sapib.ca^
 ||roycom.win^
 ||rpz-public-resolver1.rrdns.pch.net^
+||ru.i-puppy.ru^
 ||rumpelsepp.org^
 ||rwkdwpwsyv48.mikopono.nl^
 ||rx.techomespace.com^
@@ -3041,8 +3016,6 @@
 ||songochain.freeddns.org^
 ||sorephie-dns2.ddns.net^
 ||spacedns.org^
-||spyro-the-bat.fleuryk.ovh^
-||spyrothebat.fleuryk.ovh^
 ||sq.trin.icu^
 ||squidmall.vip^
 ||sradg.eastus.cloudapp.azure.com^
@@ -3268,7 +3241,6 @@
 ||vps.559299366.xyz^
 ||vps.atomix.in^
 ||vps.avc.cx^
-||vps.fleuryk.ovh^
 ||vps.grussenmeyer.com^
 ||vps.jmarkin.ru^
 ||vps.poly-tank.jp^
