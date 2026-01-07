@@ -7,6 +7,7 @@
 1.dns.noridev.moe
 1.rock-review.ru
 123000123.xyz
+14921004.xyz
 1735r.ru
 1a.ns.ozer.im
 1and1-dns.de
@@ -45,6 +46,7 @@
 8888.google
 9132706292.cloudns.be
 959818.xyz
+9827015.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.ns.dnslify.com
@@ -156,6 +158,7 @@ adguard.alu.dog
 adguard.aminetwork.biz
 adguard.amscenter.net
 adguard.app.sabino.pro
+adguard.avavd.ru
 adguard.avdkishore.dev
 adguard.ayrespace.cc
 adguard.baltes.info
@@ -252,6 +255,7 @@ adguard.meddy94.de
 adguard.mokocup.dev
 adguard.myddns.org
 adguard.nasaud.info
+adguard.neelyha.tk
 adguard.neotix.net
 adguard.netmasc.services
 adguard.nielsenhost.dk
@@ -411,6 +415,7 @@ agathe.tobkar.net
 agent.frankutils.xyz
 agh-hetzner.yasirafique.com
 agh-jkt.santainetwork.my.id
+agh-ovh.mynetgear.com
 agh-yz.russel053.com
 agh.710523.xyz
 agh.alematho.de
@@ -520,6 +525,7 @@ au-syd-w-f-1.nashkan.net
 au-syd-w-p-1.nashkan.net
 au.rslvr.eu
 au.teradns.org
+auberge78.site
 aveekay.ddns.net
 axaxa.fun
 axistechsupport.com
@@ -949,6 +955,7 @@ dns.csswg.org
 dns.cwlys.com
 dns.cybertonic.tech
 dns.cynthialabs.net
+dns.cysynex.cloud
 dns.d365.in
 dns.d4d.moe
 dns.d8e.ru
@@ -1019,6 +1026,7 @@ dns.esegece.com
 dns.esnube.es
 dns.eu-frankfurt-1.oraclecloud.com
 dns.everdns.tech
+dns.exhome.pl
 dns.exitstat.us
 dns.exonip.de
 dns.expert
@@ -1060,6 +1068,7 @@ dns.gamban.com
 dns.gayanalysing.co.uk
 dns.geekbyte.de
 dns.geohide.ru
+dns.getnoclip.link
 dns.ghost.pm
 dns.gi.co.id
 dns.ginovs.nl
@@ -1162,6 +1171,7 @@ dns.jimirobaer.be
 dns.jimwelanobong.com
 dns.jinwoo.dev
 dns.jiyi.eu
+dns.jmore.dev
 dns.joey01245.nl
 dns.johndave.me
 dns.joindns4.in
@@ -1198,6 +1208,7 @@ dns.kloiber.co.at
 dns.knyfie.com
 dns.koala.us.to
 dns.kobo.dev
+dns.koretech.com.br
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dns.koshin.me
@@ -1547,6 +1558,7 @@ dns.uk-london-1.oraclecloud.com
 dns.umbrella.com
 dns.unerror.network
 dns.unitech.company
+dns.unknown-universe.co.uk
 dns.unx.io
 dns.uplenk.com
 dns.us-ashburn-1.oraclecloud.com
@@ -1578,6 +1590,7 @@ dns.vortexstore.cloud
 dns.vps.pw
 dns.w3ctag.org
 dns.wael.name
+dns.walker.id
 dns.walshnet.co.uk
 dns.wang.art
 dns.wantfreedom.eu.org
@@ -2127,6 +2140,7 @@ getdnsapi.net
 gibblets.top
 gigatapbot.top
 ginnungagap.rabenhain.net
+gitea.sukon.idv.tw
 glacius.top
 globalcloud.ir
 gmf-dns.ddns.net
@@ -2361,6 +2375,7 @@ jnb01.dnscry.pt
 jnb02.dnscry.pt
 jnprd.com
 jonathanaugusto.freeddns.org
+jonzalvo.duckdns.org
 joouddo.ru
 josephfamily.org
 joshberg.org
@@ -2393,6 +2408,7 @@ kaiser.int.eu.org
 kaiwu.xyz
 kallemarc.de
 kalwat.duckdns.org
+kams.kii.qzz.io
 katherine-dns.newcore.cl
 kawpad.southeastasia.cloudapp.azure.com
 kcolspacrm.ir
@@ -2889,6 +2905,7 @@ rfree1.blue-shield.at
 rfree2.blue-shield.at
 richardo.net
 ricko.is
+riga91197.mooo.com
 rini.id.vn
 rix01.dnscry.pt
 rjaldorau.com
@@ -3074,6 +3091,7 @@ tetra.aeins.at
 th1.dnsfinder.ir
 thakkali.teej.xyz
 thanos.pleumkungz.com
+theadblocksg.duckdns.org
 thefamilypuls.com
 thenotionplus.top
 thuis.familiethomassen.nl
@@ -3110,6 +3128,7 @@ tributh.net
 trovs.ru
 truta.org
 trytackle.ddns.net
+ts653d.duckdns.org
 tsm01.dnscry.pt
 tsr01.dnscry.pt
 ttag.dns.nomu.pw
@@ -3336,12 +3355,14 @@ zakaria.website
 zal01.dnscry.pt
 zanty123456.myasustor.com
 zapacasa.ddns.net
+zapranet.my.id
 zburger.top
 zdn.ro
 zetland.rm-ni.uk
 zeusvps.cloudns.nz
 zhang.wenru.xyz
 zhengkaiyun.top
+zhk.13142233.xyz
 zougloub.eu
 zrh1-ns01.monzoon.net
 ztv.su
