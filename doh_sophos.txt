@@ -675,6 +675,7 @@ crusnik80.co.za
 crypt.mostsecureme.com
 cryptd.space
 crypto.sx
+cryptostorm.is
 cryptroute.com
 cube.neubsi.at
 cubedns.com
@@ -880,6 +881,7 @@ dns.bgeneto.com
 dns.bibica.net
 dns.bibitos.cc
 dns.bitdefender.net
+dns.bitgeek.in
 dns.bitservices.io
 dns.bitup.de
 dns.blaumer.dev
@@ -902,6 +904,7 @@ dns.c0ntroller.de
 dns.cahlen.com
 dns.caliph.dev
 dns.carson-family.com
+dns.carter.me
 dns.casadecampo.casa
 dns.caspervk.net
 dns.cctld.kg
@@ -2940,6 +2943,7 @@ s3.d3mik.ru
 sabine.bruno2000.link
 sabzipolobamahi.nl
 sacarino.es
+safe-guard.badbotdev.xyz
 safe.dot.dns.yandex.net
 safe.eaccelera.com
 safeservedns.com

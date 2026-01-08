@@ -315,6 +315,7 @@
 ||gpm-mon-va-useast1a.byteoversea.com^
 ||gpm-mon-va-useast2a.byteoversea.com^
 ||gpm-mon-va.byteoversea.com^
+||graffiti-tags.apple.com^
 ||grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn^
 ||grs-dbankcloud-asia-dra.appacc.dbankedge.cn^
 ||grs-dbankcloud-com-dra.appacc-region.dbankedge.cn^
@@ -829,6 +830,7 @@
 ||searchads.apple.com.edgesuite.net^
 ||searchads.apple.com^
 ||searchads.lb-apple.com.akadns.net^
+||securemetrics.apple.com.cn^
 ||securemetrics.apple.com^
 ||securemetrics.v.aaplimg.com^
 ||securemvt.apple.com^
