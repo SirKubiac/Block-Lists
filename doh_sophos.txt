@@ -134,6 +134,7 @@ adg.tshost.no
 adg.webyfa.ir
 adg.yybyy.wiki
 adg5yvi.ngatngay.net
+adgaurd.lingmont.net
 adgh.imtsui.com
 adgh.xrossj.top
 adghome.charleschan.net
@@ -766,6 +767,7 @@ dirrectumrx.duckdns.org
 disbish.com
 disinformer.mooo.com
 diskstation.alexpollard.net
+diy.itsa.top
 djtesok.ddns.net
 dmit.wangjiaqi.store
 dmjp.joeyl.de
@@ -1332,6 +1334,7 @@ dns.mnet-online.de
 dns.mni.li
 dns.molinero.dev
 dns.momou.ch
+dns.moog.sh
 dns.mooncheng.top
 dns.moondip.net
 dns.moonssif.com
@@ -1494,6 +1497,7 @@ dns.sarakas.net
 dns.sarilouis.com
 dns.sark.dev
 dns.sbstructure.ir
+dns.scapetical.com
 dns.scarx.net
 dns.scayn.com
 dns.schlagheck.berlin
@@ -2441,6 +2445,7 @@ jkt01.dnscry.pt
 jnb01.dnscry.pt
 jnb02.dnscry.pt
 jnprd.com
+johneldenring.lol
 jonathanaugusto.freeddns.org
 jonzalvo.duckdns.org
 joouddo.ru
@@ -2525,6 +2530,7 @@ lamdtl.giize.com
 landerbrauver.ru
 laptopdns.dr3ff1c13nt.com
 larkin.wang
+las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lastentarvike.fi
 lax.core.access.zznet.fun
@@ -2570,6 +2576,7 @@ lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 lux.sn0w.nl
 lux01.dnscry.pt
+luxembourg.privacy-dns.pw
 lvpn.2rdp.ru
 mad01.dnscry.pt
 maherhost.uk
@@ -2583,6 +2590,7 @@ makatla.tech
 malanser.ru
 man01.dnscry.pt
 management.alexpollard.net
+maqgie.xyz
 mask-canary.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
@@ -2997,6 +3005,7 @@ roadesdyn.go.ro
 rockstars.netphoenix.ru
 rockwell.website
 roelgianotten.ddnsfree.com
+romania.privacy-dns.pw
 ronaldvkrueger.ddns.net
 rootdns.anir0y.in
 roucious.dyndns-remote.com
@@ -3151,6 +3160,7 @@ surt.ovh
 svg33.eu
 swe.try-dns.com
 sweethome.in.eu.org
+switzerland.privacy-dns.pw
 syd.adfilter.net
 syd.core.access.zznet.fun
 syd02.dnscry.pt
@@ -3244,6 +3254,7 @@ unicast.censurfridns.nu
 unicast.uncensoreddns.dk
 unicast2.servers.censurfridns.dk
 unifi.carioka.com
+united-arab-emirates.privacy-dns.pw
 unixfox.duckdns.org
 unp.im
 unraid.dedyn.io
