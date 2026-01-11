@@ -717,6 +717,7 @@
 ||d.zscale.gq^
 ||d0.tada.ly^
 ||d1.12342345.xyz^
+||d2.shabi.icu^
 ||d3vy.ru^
 ||d51538618.access.telenet.be^
 ||dac01.dnscry.pt^
@@ -1641,6 +1642,7 @@
 ||dns.vps.pw^
 ||dns.w3ctag.org^
 ||dns.wael.name^
+||dns.wakgood.net^
 ||dns.walker.id^
 ||dns.walshnet.co.uk^
 ||dns.wang.art^
@@ -3231,6 +3233,7 @@
 ||ttag.dns.nomu.pw^
 ||tuandns.duckdns.org^
 ||tuantran.cloud^
+||tujenasnaszato.xyz^
 ||tungdnsne.duckdns.org^
 ||tuskythehusky.tech^
 ||tuu01.dnscry.pt^
