@@ -87,7 +87,6 @@ adb.aiec.vn
 adb.amishkaz.site
 adb.intienquan.io.vn
 adb.timnichollsphotography.com
-adbl-tslagter.nl
 adblock-dot.dnswarden.com
 adblock.freeddns.org
 adblock.indianets.net
@@ -103,7 +102,6 @@ addns.jpr.space
 addns.jujuland.net
 addns.ovalie.ovh
 addns1.m-it.ro
-aden.my
 adfight.ru
 adfiltro.fun
 adfree.usableprivacy.net
@@ -1741,6 +1739,7 @@ dns1.server.my.id
 dns1.slowb.ro
 dns1.tardishost.ru
 dns1.techeasy.org
+dns1.techniverse.net
 dns1.thylacine.co.nz
 dns1.timothy-dev.com
 dns1.understandingcyber.co.uk
@@ -2465,7 +2464,6 @@ jp.tiarap.org
 jp01.just-a-web.com
 jp1.f7b6h9.tk
 jp193.flyzhouyc.win
-jp2.101818.xyz
 jp2.ooroot.com
 jpdns.cola16.app
 jpdns.hker.me
