@@ -84,7 +84,6 @@ adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
 adb.aadityakushwaha.com
 adb.aiec.vn
-adb.amishkaz.site
 adb.intienquan.io.vn
 adb.timnichollsphotography.com
 adblock-dot.dnswarden.com
@@ -1065,7 +1064,6 @@ dns.exonip.de
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
-dns.f97.xyz
 dns.fadhilyori.my.id
 dns.fahr.in
 dns.faked.org
@@ -1698,7 +1696,6 @@ dns.zky666.fun
 dns.zoogle.cn
 dns.zui.lol
 dns.zzuhacker.cn
-dns0.eu
 dns0.permafrostmiami.com
 dns0.tardishost.ru
 dns01.almir1904.eu
@@ -2158,7 +2155,6 @@ flat.loisy.it
 flyloadguard.dynu.net
 fnt01.dnscry.pt
 forzalaquila.servebeer.com
-fptdns.site
 fr-gra-w-p-1.nashkan.net
 fr.dalockd.net
 fr1.dnswarden.com
@@ -3189,7 +3185,6 @@ th1.dnsfinder.ir
 thaibksri.duckdns.org
 thakkali.teej.xyz
 thanos.pleumkungz.com
-theadblocksg.duckdns.org
 thefamilypuls.com
 thenotionplus.top
 thuis.familiethomassen.nl
