@@ -261,7 +261,6 @@ adguard.mokocup.dev
 adguard.myddns.org
 adguard.nasaud.info
 adguard.neelyha.tk
-adguard.neotix.net
 adguard.netmasc.services
 adguard.nielsenhost.dk
 adguard.niko-sem.com
@@ -1197,7 +1196,6 @@ dns.iteo.pw
 dns.itsec.crolla.net
 dns.itwht.com
 dns.itya.xyz
-dns.izyserv.site
 dns.jamessliu.com
 dns.japan.joshcheng.host
 dns.jcdn.site
@@ -2812,7 +2810,6 @@ ore-dns.bitdefender.net
 orjp4.lz0724.com
 ornext.luxury-web.kz
 orpi.privado.ovh
-ortudns.com
 oscnl.site
 osefcorp.duckdns.org
 ott01.dnscry.pt
@@ -2905,7 +2902,6 @@ psociety.de
 pub.hsuan.ink
 publicdnsserver.com
 punono.duckdns.org
-pure.lunetra.online
 puredns.org
 purpose.shamanlanding.org
 pygos.space
