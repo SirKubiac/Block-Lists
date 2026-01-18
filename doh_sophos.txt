@@ -128,7 +128,6 @@ adg.rokh.biz
 adg.rueiliu.space
 adg.spacework.com.mx
 adg.tshost.no
-adg.webyfa.ir
 adg.yybyy.wiki
 adg5yvi.ngatngay.net
 adgaurd.lingmont.net
@@ -300,7 +299,6 @@ adguard.shuting.idv.tw
 adguard.sixxi.de
 adguard.soloanvill.ru
 adguard.spaceindex.net
-adguard.sparshbajaj.me
 adguard.sre.ovh
 adguard.sscw.win
 adguard.stealbit.com
@@ -2162,7 +2160,6 @@ fra02.dnscry.pt
 fra1.eyecay.xyz
 frank-web.dedyn.io
 fredic.us
-free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 friend.bedro.cloud
@@ -2568,7 +2565,6 @@ lslnyjq.uk
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
-lux.sn0w.nl
 lux01.dnscry.pt
 luxembourg.privacy-dns.pw
 lvpn.2rdp.ru
@@ -2823,7 +2819,6 @@ panel.gogolvpn.com
 panel.joosh.ru
 panser.web.id
 par01.dnscry.pt
-paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 paskam.xyz
@@ -2866,7 +2861,6 @@ pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
 pingbi.xyz
-pioko.net
 pips.kpsn.org
 pitchforkwaydns.duckdns.org
 pl-waw-w-p-2.nashkan.net
@@ -3012,7 +3006,6 @@ rwkdwpwsyv48.mikopono.nl
 rx.techomespace.com
 s.hd440.de
 s.idsam.com
-s.rafiadinata.web.id
 s1.s2.shahramv1.site
 s1.srch.top
 s2.d3mik.ru
@@ -3124,7 +3117,6 @@ sq.trin.icu
 squidmall.vip
 sradg.eastus.cloudapp.azure.com
 sradg2.eastus.cloudapp.azure.com
-sriedmueadguard.casa
 srv5.jiripocta.cz
 ss.0001.xyz
 ss.microbaidu.com
