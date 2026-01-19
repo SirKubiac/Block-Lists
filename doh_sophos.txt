@@ -2945,6 +2945,7 @@ resolve.corpa.me
 resolve.fknw.de
 resolve.srv-pro.de
 resolve02.srv-pro.de
+resolve2.r9x.cc
 resolve2.srv-pro.de
 resolver-eu.haringstad.com
 resolver.as203038.net
