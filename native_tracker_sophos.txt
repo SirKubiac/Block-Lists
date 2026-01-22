@@ -1363,6 +1363,7 @@ www.assoc-amazon.es
 www.assoc-amazon.fr
 www.assoc-amazon.it
 www.assoc-amazon.jp
+www.paa-reporting-advertising.amazon
 www.qwapi.com
 xlog-o.byteoversea.com
 xlog-ru.tiktokv.com
