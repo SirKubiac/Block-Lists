@@ -31,3 +31,4 @@ kmwatsonc.events.data.microsoft.com
 nw-umwatson.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
+eu-mobile.events.data.microsoft.com
