@@ -149,6 +149,7 @@ ads.tiktok.com
 ads.tiktok.in
 ads.tiktok.tv
 ads.us.tiktok.com
+ads16-normal-useastred.tiktokw.eu
 advertising-api-eu.amazon.com
 advertising.a2z.com
 advertising.amazon.ae
@@ -1148,8 +1149,11 @@ session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 session.mshopbugsnag.irm.amazon.dev
 sessions.bugsnag.appstore.a2z.com
 sessions.prod.bugs.firebat.prime-video.amazon.dev
+sf16-ads-format-sign.tiktokcdn.com
+sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
+sf19-ads-format-sign.tiktokcdn.com
 sgali-mcs.byteoversea.com
 sgaws-mcs.byteoversea.com
 sgee-log.byteoversea.com
