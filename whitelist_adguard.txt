@@ -24,3 +24,4 @@
 ||umwatsonc.events.data.microsoft.com^
 ||c.msn.com^
 ||srtb.msn.com^
+||eu-mobile.events.data.microsoft.com^
