@@ -51,7 +51,6 @@
 ||a-bld.sys-adm.in^
 ||a.family.ns.dnslify.com^
 ||a.ns.dnslify.com^
-||a.passcloud.xyz^
 ||a.safe.ns.dnslify.com^
 ||a5135324.csie.io^
 ||abe01.dnscry.pt^
@@ -78,7 +77,6 @@
 ||ad.timefine.org^
 ||ad.tzockt.beer^
 ||ad.visbran.fr^
-||ad1guard.duckdns.org^
 ||adampowell.pro^
 ||adb-home.xaoimoon.fr^
 ||adb-wan.xaoimoon.fr^
@@ -629,7 +627,6 @@
 ||ccyykk.top^
 ||cdn.refined.pro^
 ||cdns.lagzerotm.com^
-||cdzopi.duckdns.org^
 ||cfdjb.org^
 ||chandr1000.net^
 ||changesmart2024.top^
@@ -1634,7 +1631,6 @@
 ||dns.vps.pw^
 ||dns.w3ctag.org^
 ||dns.wael.name^
-||dns.wakgood.net^
 ||dns.walker.id^
 ||dns.walshnet.co.uk^
 ||dns.wang.art^
@@ -2240,7 +2236,6 @@
 ||guard.yps.tw^
 ||guidetoworld.link^
 ||guigu.dns.army^
-||gustamadh.dynv6.net^
 ||gva01.dnscry.pt^
 ||gw1.dns.haynetwork.id^
 ||gyd01.dnscry.pt^
@@ -2316,7 +2311,6 @@
 ||homec92.dns.army^
 ||homedns.gumeniuk.com^
 ||homeguard.sleziona.org^
-||homejerem.duckdns.org^
 ||homelab.terabit.net.id^
 ||homenet.telecomitalia.it^
 ||homita.id.vn^
@@ -2375,7 +2369,6 @@
 ||huv01.dnscry.pt^
 ||hydra.plan9-ns1.com^
 ||i.dns-over-https.tk^
-||i.passcloud.xyz^
 ||iah01.dnscry.pt^
 ||iana.tenta.io^
 ||ib.systems^
@@ -2427,7 +2420,6 @@
 ||jax01.dnscry.pt^
 ||jcdns.fun^
 ||jen01.dnscry.pt^
-||jfeoks.duckdns.org^
 ||jhb01.dnscry.pt^
 ||jimmyshjj.top^
 ||jit.ddns.net^
@@ -2471,7 +2463,6 @@
 ||kaiser.int.eu.org^
 ||kaiwu.xyz^
 ||kallemarc.de^
-||kalwat.duckdns.org^
 ||kams.kii.qzz.io^
 ||katherine-dns.newcore.cl^
 ||kawpad.southeastasia.cloudapp.azure.com^
@@ -2498,7 +2489,6 @@
 ||ko-18948-tr.xyz^
 ||kocapb.ru^
 ||kokesh.se^
-||kolobok2.duckdns.org^
 ||komo4ek.ru^
 ||kondrcloud.ru^
 ||kopcm.ru^
@@ -2510,7 +2500,6 @@
 ||krafty31.duckdns.org^
 ||krdns.cola16.app^
 ||kronos.plan9-dns.com^
-||krtekvpn.duckdns.org^
 ||kstdownload.com^
 ||kudns.kescher.at^
 ||kwas24izynek74.ddns.net^
@@ -2529,7 +2518,6 @@
 ||lax02.dnscry.pt^
 ||layer1.jnraptor.net^
 ||lboxtv.top^
-||ldaman.duckdns.org^
 ||le-mesle.fr^
 ||leecurrylawfirm.com^
 ||lelux.fi^
@@ -2965,7 +2953,6 @@
 ||resolver1.opendns.com^
 ||resolver2-fs.opendns.com^
 ||resolver2.absolight.net^
-||resolver2.dyndnsinternetguide.com^
 ||resolver2.hosting-cloud.net^
 ||resolver2.ipv6-sandbox.opendns.com^
 ||resolver2.opendns.com^
@@ -3196,7 +3183,6 @@
 ||tngch.mydns.jp^
 ||toaster.lol^
 ||tokyo.559299366.xyz^
-||tokyo.92-m.com^
 ||tor.vasi.li^
 ||tpa01.dnscry.pt^
 ||tpe01.dnscry.pt^
@@ -3316,7 +3302,6 @@
 ||voyage-s01.cloudku.technology^
 ||voyage-s02.cloudku.technology^
 ||voyagerz.hopto.org^
-||vpich.duckdns.org^
 ||vpn-tw.teng.sh^
 ||vpn.1xtrm.com^
 ||vpn.4-the.win^
@@ -3384,7 +3369,6 @@
 ||wiqi.top^
 ||wired-guardian.duckdns.org^
 ||wireguard.osmenoga.com^
-||wisehomeguard.duckdns.org^
 ||woalongit.synology.me^
 ||woc.beelstb.biz.id^
 ||woodbridge.club^
