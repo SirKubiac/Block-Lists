@@ -105,7 +105,6 @@ acr.roku.com
 acr0.samsungcloudsolution.com
 activity.browser.intl.miui.com
 activity.hybrid.xiaomi.com
-activity.windows.com
 ad-bl.geoproximity.staging.rpay.roku.com
 ad-bl.prod.rpay.int.roku.com
 ad-bl.usw2.staging.rpay.int.roku.com
@@ -1100,10 +1099,13 @@ grs-dbankcloud-com-dra.appacc.dbankedge.cn
 grs-dbankcloud-com-dra.edge.dbankedge.cn
 grs-dbankcloud-com-dra.region.dbankedge.cn
 grs-dbankcloud-com-drcn.wec.dbankedge.cn
+grs-dbankcloud-com-dre.appacc-region.dbankedge.cn
+grs-dbankcloud-com-dre.appacc.dbankedge.cn
 grs-dbankcloud-com-dre.edge.dbankedge.cn
 grs-dbankcloud-com-dre.region.dbankedge.cn
 grs.dbankcloud.asia
 grs.dbankcloud.cn
+grs.dbankcloud.com
 grs.dbankcloud.eu
 grs.hicloud.com
 grs.hihonorcloud.com
