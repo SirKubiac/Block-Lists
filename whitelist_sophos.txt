@@ -28,3 +28,4 @@ kmwatsonc.events.data.microsoft.com
 nw-umwatson.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
+activity.windows.com
