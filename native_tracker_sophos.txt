@@ -536,6 +536,7 @@ browser-api-za.heytapmobile.com
 browser-sdk-fr.heytapmobile.com
 browser-sdk-in.heytapmobile.com
 browser-sdk-ru.heytapmobile.com
+browser.events.data.microsoft.com
 browser.miui.com
 browsercfg-drcn.cloud.dbankcloud.cn
 browserfiles.heytapmobile.com
@@ -2011,6 +2012,7 @@ obus-jssdk-us.heytapmobile.com
 oca.microsoft.com
 odin-signals.apple.com
 office-events-data.trafficmanager.net
+office.events.data.microsoft.com
 om-ad-lgsmartad-com.aws-prd.net
 om.lgsmartad.com
 omes-sec.heytapmobi.com
@@ -2498,9 +2500,11 @@ securemetrics.v.aaplimg.com
 securemvt.apple.com
 securemvt.v.aaplimg.com
 self-events-data.trafficmanager.net
+self.events.data.microsoft.com
 sentry.be.xiaomi.com
 sentry.pay.xiaomi.com
 sentry.sec.miui.com
+server.events.data.microsoft.com
 sf16-ads-format-sign.tiktokcdn.com
 sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
