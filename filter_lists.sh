@@ -2,61 +2,27 @@
 
 export 
 export 
-export 
+export  
+
+# Update the Git repository
+cd /var/git/Block-Lists
+git pull
+git add .
+git commit -m "automatic update"
+git push https://$GIT_USERNAME:$GIT_PASSWORD@github.com/SirKubiac/Block-Lists.git --all
 
 # URLs of ad blocklists
 ads_tracker_url_sophos=(
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/adaway/hosts.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/0Zinc/easylist.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/blocklistproject/hosts.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/blocklistproject/youtube.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/craiu/mobiletrackers.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/DandelionSprout.GameConsoleAdblockList.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/disconnectme/simple-ad.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/FadeMind/UncheckyAds.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/AdguardDNS.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Admiral.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Easylist.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/Prigent-Ads.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/MajkiIT/SmartTV-ads.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/r-a-y/AdguardMobileAds.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/sefinek.hosts.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/ShadowWhisperer/Ads.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/yoyo/ads-trackers-etc.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/neodevpro/host.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/quidsup/trackers-hosts.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/tracking-and-telemetry/sefinek.hosts.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/multi.txt"
+    "https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt"
+    "https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt"
 )
 
 ads_tracker_url_adguard=(
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/0Zinc/easylist.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/adaway/hosts.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/blocklistproject/hosts.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/blocklistproject/youtube.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/craiu/mobiletrackers.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/DandelionSprout.GameConsoleAdblockList.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/disconnectme/simple-ad.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/FadeMind/UncheckyAds.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/AdguardDNS.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Admiral.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Easylist.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Prigent-Ads.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/MajkiIT/SmartTV-ads.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/r-a-y/AdguardMobileAds.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/sefinek.hosts.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/ShadowWhisperer/Ads.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/ads/yoyo/ads-trackers-etc.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/neodevpro/host.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/quidsup/trackers-hosts.fork.txt"
-    "https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/sefinek.hosts.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt"
+    "https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt"
+    "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"
+    ""
 )
 
 # URL for AMP blocklist
@@ -65,25 +31,36 @@ amp_url_adguard="https://blocklist.sefinek.net/generated/v1/adguard/amp/develope
 
 # URL for DoH blocklist
 doh_url_sophos="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt"
-doh_url_adguard="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt"
+doh_url_adguard="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt"
 
 # URLs for native tracker blocklists
 native_tracker_url_sophos=(
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.extended.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.amazon-onlydomains.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.apple-onlydomains.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.huawei-onlydomains.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.winoffice-onlydomains.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.samsung-onlydomains.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.extended-onlydomains.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.lgwebos-onlydomains.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.roku-onlydomains.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.vivo-onlydomains.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme-onlydomains.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi-onlydomains.txt"
     
 )
 
 native_tracker_url_adguard=(
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt"
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.amazon.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.apple.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.samsung.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.extended.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.lgwebos.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.roku.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.vivo.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.oppo-realme.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.xiaomi.txt"
 )
 
 # URL for Facebook blocklist
@@ -104,11 +81,11 @@ ads_tracker_output_sophos="/var/git/Block-Lists/ads_tracker_sophos.txt"
 ads_tracker_output_adguard="/var/git/Block-Lists/ads_tracker_adguard.txt"
 amp_output_sophos="/var/git/Block-Lists/amp_sophos.txt"
 amp_output_adguard="/var/git/Block-Lists/amp_adguard.txt"
-doh_output_sophos="/var/git/Block-Lists/doh_sophos.txt"
+doh_output_sophos="/var/www/html/doh_sophos.txt"
 doh_output_adguard="/var/git/Block-Lists/doh_adguard.txt"
 native_tracker_output_sophos="/var/git/Block-Lists/native_tracker_sophos.txt"
 native_tracker_output_adguard="/var/git/Block-Lists/native_tracker_adguard.txt"
-facebook_output_sophos="/var/git/Block-Lists/facebook_sophos.txt"
+facebook_output_sophos="/var/www/html/facebook_sophos.txt"
 
 # Temporary files
 temp_ads_tracker_sophos=$(mktemp)
@@ -162,17 +139,17 @@ grep -Fvxf "$whitelist_ads_tracking_adguard" "$temp_native_adguard" | sort -u > 
 # Clean up temporary files
 rm "$temp_ads_tracker_sophos" "$temp_doh_sophos" "$temp_native_sophos" "$temp_ads_tracker_adguard" "$temp_native_adguard"
 
-# Append blacklist entries to the final ad & tracker lists
-grep -v '^\s*$' "$blacklist_ads_tracking_sophos" >> "$ads_tracker_output_sophos"
-grep -v '^\s*$' "$blacklist_ads_tracking_adguard" >> "$ads_tracker_output_adguard"
+# Append blacklist entries to the final native tracker lists
+grep -v '^\s*$' "$blacklist_ads_tracking_sophos" >> "$native_tracker_output_sophos"
+grep -v '^\s*$' "$blacklist_ads_tracking_adguard" >> "$native_tracker_output_adguard"
 
 # Optional: remove duplicates again after appending
-sort -u "$ads_tracker_output_sophos" -o "$ads_tracker_output_sophos"
-sort -u "$ads_tracker_output_adguard" -o "$ads_tracker_output_adguard"
+sort -u "$native_tracker_output_sophos" -o "$native_tracker_output_sophos"
+sort -u "$native_tracker_output_adguard" -o "$native_tracker_output_adguard"
 
 # Update the Git repository
 cd /var/git/Block-Lists
-git pull
+git push
 git add .
 git commit -m "automatic update"
 git push https://$GIT_USERNAME:$GIT_PASSWORD@github.com/SirKubiac/Block-Lists.git --all
