@@ -10,3 +10,5 @@
 ||osb-v2.samsungqbe.com^
 ||samsungcloudsolution.com^
 ||samsungqbe.com^
+||settings-win.data.microsoft.com^
+||settings.data.microsoft.com^
