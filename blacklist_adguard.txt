@@ -1,4 +1,1 @@
-||self.events.data.microsoft.com^
-||browser.events.data.microsoft.com^
-||office.events.data.microsoft.com^
-||server.events.data.microsoft.com^
+
