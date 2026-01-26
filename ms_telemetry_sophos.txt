@@ -32,7 +32,6 @@ vortex-win-sandbox.data.microsoft.com
 events-sandbox.data.microsoft.com
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
-vortex-win-sandbox.data.microsoft.com
 c.msn.com
 ads.msn.com
 bat.bing.com
