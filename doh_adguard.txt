@@ -1700,6 +1700,7 @@
 ||callandtextapp.com^
 ||callbackping.net^
 ||callies-online.site^
+||callllllllllcu.galaxybbs.net^
 ||calm-tree-976.blanktext.net^
 ||cameraproposal.xyz^
 ||camping.outdoorzone.ie^
@@ -4336,6 +4337,7 @@
 ||freemybrowser.com^
 ||freenetproject.org^
 ||freenomisratelimitingme.cf^
+||freeopenproxy.com^
 ||freeopenvpn.org^
 ||freeplace.info^
 ||freeplanetvpn.com^
