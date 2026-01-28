@@ -13,3 +13,4 @@
 ||settings-win.data.microsoft.com^
 ||settings.data.microsoft.com^
 ||fp.msedge.net^
+||location.services.mozilla.com^
