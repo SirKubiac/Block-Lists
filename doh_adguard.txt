@@ -1345,7 +1345,6 @@
 ||alphalogic.sevecom.com^
 ||alphareading.blindatech.cl^
 ||alphareading.dmf-ivv.dk^
-||alphavpn.info^
 ||altf4.vandrekalenderen.dk^
 ||altovate.xyz^
 ||altvpn.com^
@@ -2073,7 +2072,6 @@
 ||biologylearning.funteacher.work.23.3233.333.321.212.simpleplantdesign.com^
 ||bir2hmi.online^
 ||bit.psyk.fr^
-||bitly-galatikx.duckdns.org^
 ||bitphox.com^
 ||bitping.com^
 ||bitxlszroot.com^
@@ -2134,7 +2132,6 @@
 ||blog2.amlegion.org^
 ||blokuj.ujwie.co^
 ||blooket-2026-happynewyears.wechchile.cl^
-||blooket.broomleigh.org^
 ||bloquer.fr^
 ||blr01.dnscry.pt^
 ||blubby.3d-mart.ru^
@@ -3290,7 +3287,6 @@
 ||decorous-mouth.surge.sh^
 ||dedidl.com^
 ||deep-henchman-excuse.cfd^
-||deep-sea.dns.navy^
 ||deep-soul-486.biologyscholar.org^
 ||deepcs.estiloescencial.cl^
 ||deepwebvpn.net^
@@ -3428,7 +3424,6 @@
 ||divalane.com^
 ||divaloo.com^
 ||divincilaw.arionskyclub.com^
-||diy.itsa.top^
 ||djc5yls6yrtdmo69.online^
 ||djdjfjjkeodidififi-kdkdkdkfkfk.tto.gtagissogood.com.chickenkiller.com^
 ||djfbasjbnijasdas.info.north-kazakhstan.su.cdn.cloudflare.net^
@@ -6115,7 +6110,6 @@
 ||glitch.zone^
 ||glitched.ert.infotechnology.com^
 ||glitchvpn.app^
-||global-proxy.com^
 ||global.felicitous.abrdns.com^
 ||globalchat1.com^
 ||globalchatinc.com^
@@ -6163,7 +6157,6 @@
 ||goguardian-is-ass.oneuniversity.info^
 ||goguardian-is-not-my-guardian.easterndns.com^
 ||goguardian-vs-iboss.com.crabdance.com^
-||goguardian.broomleigh.org^
 ||goguardianlearning.shela.nu^
 ||goguardianrules.jumpingcrab.com^
 ||goguardianyouaremakingmemad.staglin.hr^
@@ -6776,7 +6769,6 @@
 ||home.vincenzodimaro.it^
 ||home.weisbrod.me^
 ||home.wriedts.de^
-||home27.duckdns.org^
 ||home34.su^
 ||homec92.dns.army^
 ||homedns.gumeniuk.com^
@@ -7889,7 +7881,6 @@
 ||lengua.insti.mooo.com^
 ||lenz.bouncers4rent.com^
 ||leo-vapes.fit-tw.com^
-||leoadguard.duckdns.org^
 ||leochen-dns.ddns.net^
 ||leomarzwebsite.freemath.ch^
 ||les-vpn.com^
@@ -7938,7 +7929,6 @@
 ||lindung.pp.ua^
 ||linemath.aislantesnuevaera.com.ar^
 ||linen.freeddns.org^
-||linewize.broomleigh.org^
 ||linewize9w8didjdsowjsi.clocking.ro^
 ||linewizenet.easterndns.com^
 ||linewizesucks.myclarevision.com^
@@ -8908,7 +8898,6 @@
 ||nowhiteflags.xyz^
 ||noyourmean.xyz^
 ||noza1.easterndns.com^
-||nqh-dns.duckdns.org^
 ||nqma.net^
 ||nrt.core.access.zznet.fun^
 ||nrusimha.crabdance.com^
@@ -9153,7 +9142,6 @@
 ||os.env.pm^
 ||os4work.com^
 ||oscnl.site^
-||osefcorp.duckdns.org^
 ||ospylac.com^
 ||osqcsmm.shop^
 ||ot4axb6.online^
@@ -10234,7 +10222,6 @@
 ||resolve2.r9x.cc^
 ||resolve2.srv-pro.de^
 ||resolver-eu.haringstad.com^
-||resolver.arpa^
 ||resolver.as203038.net^
 ||resolver.dns.eban.eu.org^
 ||resolver.dnsprivacy.org.uk^
@@ -11567,7 +11554,6 @@
 ||the.url.is.true.ifuckedhellokitty.com^
 ||the2amgamerisagoodboyforajh.klinikkenoj.dk^
 ||the2amgamerisnotaspyongod.misem.or.id^
-||theadblocksg.duckdns.org^
 ||thebelaxenir.ostrovska.sk^
 ||thebestproxy.info^
 ||thebestvpn.com^
@@ -11885,7 +11871,6 @@
 ||tuffmango.edu.showmyhomes.com^
 ||tuffname.thepresenttraveller.com^
 ||tujenasnaszato.xyz^
-||tungdnsne.duckdns.org^
 ||tunnel.googlezip.net^
 ||tunnelbear.com^
 ||tunnelbear.s3.amazonaws.com^
@@ -11943,7 +11928,6 @@
 ||typeracer.gq^
 ||typhlophile.karrozzin.cloud-ip.cc^
 ||typingpractice.theantzfarm.space^
-||tysonsbackagain.capnorthshore.org^
 ||tytytyytytyt.gixiqpyp.top^
 ||u-proxy.com^
 ||u8sj3.com^
@@ -12537,7 +12521,6 @@
 ||vp.what.cloudns.nz^
 ||vpef4.cc^
 ||vpernet.com^
-||vpich.duckdns.org^
 ||vpn-account.com^
 ||vpn-api.proton.me^
 ||vpn-byen.dk^
@@ -12687,7 +12670,6 @@
 ||vpnprivacy.services^
 ||vpnpro.com^
 ||vpnproxy.online^
-||vpnproxy.org^
 ||vpnproxy.pw^
 ||vpnproxy.site^
 ||vpnproxymaster.app^
@@ -13064,7 +13046,6 @@
 ||wise-lion-563.biologyscholar.org^
 ||wise-wind-366.conwordable.com^
 ||wiseghostapp.com^
-||wisehomeguard.duckdns.org^
 ||wiselines.lebrija.org^
 ||wish.i.knew.webconstructions.co.uk^
 ||withdrawfrog.space^
