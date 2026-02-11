@@ -8401,6 +8401,7 @@
 ||muli.stusta.mhn.de^
 ||mullvad.net^
 ||multi.utilicell.com^
+||mupingbee.com^
 ||muppy.pnamae.com^
 ||muromachibaku.drciocan.ro^
 ||murt.xeno.csproject.org^
@@ -9286,6 +9287,7 @@
 ||pihole4.hoerli.net^
 ||pika.sovdat.si^
 ||pilb061.online^
+||pingbeehive.com^
 ||pingbi.xyz^
 ||pingmybee.net^
 ||pingproxy.com^
@@ -9416,6 +9418,7 @@
 ||polisitogel.webcam^
 ||polkmn.progressivecongressnews.org^
 ||polygoneutic.lesec.dedyn.io^
+||pongbeeu.com^
 ||ponghive.org^
 ||pooblet.co.za^
 ||poobungus.ydns.eu^
@@ -11491,6 +11494,7 @@
 ||thefamilypuls.com^
 ||thefreevpn.com^
 ||thehoney.net^
+||thehoneyponger.org^
 ||thelastempire.easterndns.com^
 ||thelastspartan.rinet.ai^
 ||themaxeni.lczipper.com^
@@ -11865,6 +11869,7 @@
 ||ubst.space^
 ||ubstv.click^
 ||ubstvpn.click^
+||ubtv.space^
 ||ubyis.top^
 ||uc.robby.blue^
 ||ud.data-express.com.ar^
@@ -12110,6 +12115,7 @@
 ||upon.polishmc.pl^
 ||uprock.com^
 ||uproxy.asia^
+||uproxy.casa^
 ||uproxy.club^
 ||uproxy.dev^
 ||uproxy.help^
@@ -12132,6 +12138,7 @@
 ||ur.hytec.org^
 ||ur.io^
 ||ur.network^
+||ur.xyz^
 ||uraniferous.luminiferous.abrdns.com^
 ||uranus.plonknet.com^
 ||urban-vpn.com^
@@ -12308,6 +12315,7 @@
 ||vds2380673.my-ihor.ru^
 ||vdska-pl.ydns.eu^
 ||vdsn-nl-2.azatmutq.com^
+||vectroproxy.com^
 ||veepn.com^
 ||veepn.org^
 ||velara.buzz.cdn.cloudflare.net^
@@ -12577,6 +12585,7 @@
 ||vpnoffice.co.cc^
 ||vpnoneclick.com^
 ||vpnonelove.ru^
+||vpnonline.com^
 ||vpnoverview.com^
 ||vpnpie.org^
 ||vpnplus.to^
