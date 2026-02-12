@@ -1460,7 +1460,6 @@
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
 ||anycast.uncensoreddns.dk^
-||anydesk.com^
 ||anyhow.bury.abrdns.com^
 ||anyip.io^
 ||anything.dontbreakthiswildcard.doge.motorcycles^
@@ -9041,7 +9040,6 @@
 ||opentunnel.net^
 ||openvpn-ssh.com^
 ||openvpn.cc^
-||openvpn.com^
 ||openvpnpptp.bese.info^
 ||openvpnpptpserver.bese.info^
 ||opmvaxr22pt1hdobulhnc2hd.online^
@@ -10116,9 +10114,6 @@
 ||rem2.easterndns.com^
 ||remballtriedthis.srvdns.de^
 ||reminiscence.clean.abrdns.com^
-||remotedesktop.com^
-||remotepc.com^
-||remoteutilities.com^
 ||remotevpn.net^
 ||remove.flight.abrdns.com^
 ||removehim.kozow.com^
@@ -10295,7 +10290,6 @@
 ||runnigga.run^
 ||running.marchd.ru^
 ||rushproxy.com^
-||rustdesk.com^
 ||rustynailspace.com^
 ||rvpn.ws^
 ||rwkdwpwsyv48.mikopono.nl^
@@ -10513,7 +10507,6 @@
 ||scrabble.zzdhk.com^
 ||scrapbooking-directory.com^
 ||scratchdevfourums.5a3bz.cn^
-||screenconnect.com^
 ||scur.tent.cloud-ip.cc^
 ||sd.galaxysoft.ro^
 ||sd3n0344di.execute-api.eu-west-3.amazonaws.com^
@@ -11399,7 +11392,6 @@
 ||teacher4biology.fit^
 ||teachersarecool.go25pedagogi.eu^
 ||teaching944.cspcorp.com^
-||teamviewer.com^
 ||tecdrive.site^
 ||tech.vcsa.alcrb.ru^
 ||tech.vocab.nucktech.com^
@@ -11585,7 +11577,6 @@
 ||tiger.nogridco.com^
 ||tigervpn.com^
 ||tigervpns.co.uk^
-||tightvnc.com^
 ||tigrons.ru^
 ||tikvpn.com^
 ||tikvpn.in^
