@@ -6525,7 +6525,6 @@
 ||guardianvpn.net^
 ||guardster.com^
 ||guavi.com^
-||guest.1337.cx^
 ||guestappearance.us^
 ||guhlic1d.hosteriafutaleufu.cl^
 ||guide.terms.gatpp.com^
@@ -7904,7 +7903,6 @@
 ||kopcm.ru^
 ||korannarrow.com^
 ||korzhov.dev^
-||kotaa.1337.cx^
 ||koxy.de^
 ||koyeb.app^
 ||kproxy.asia^
@@ -8007,7 +8005,6 @@
 ||kudns.kescher.at^
 ||kumq7thk3fjjwwzdzyuenblax.online^
 ||kurokage315.blueshadows.cl^
-||kutay1234.24-7.ro^
 ||kw.dictionary3000.college^
 ||kwas24izynek74.ddns.net^
 ||kwazydabest.vercel.app^
@@ -11009,7 +11006,6 @@
 ||schoolooks.com^
 ||schools.education.pricing.esgemsedu.mx^
 ||schools.tradekinginternational.com^
-||schoolschedulechecking.0x.no^
 ||schoolsoftexas.justlearning.net^
 ||schoolsprepared.org^
 ||schoolsucks.tcloud.my^
@@ -13904,7 +13900,6 @@
 ||ys4.de^
 ||yslxd.hosteriafutaleufu.cl^
 ||ysnclks.com^
-||yt.2hintranet.hu^
 ||ytcroxyproxy.com^
 ||ytmusicub.bonded-game.com^
 ||ytyt.kozow.com^
