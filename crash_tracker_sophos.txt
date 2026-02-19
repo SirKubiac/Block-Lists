@@ -5,7 +5,7 @@ firebase-settings.crashlytics.com
 app-measurement.com
 notify.bugsnag.com
 sessions.bugsnag.com
-o*.ingest.sentry.io
+ingest.sentry.io
 ingest.sentry.io
 sentry.io
 api.instabug.com
