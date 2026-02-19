@@ -3,8 +3,6 @@
 ||reports.crashlytics.com^
 ||firebase-settings.crashlytics.com^
 ||app-measurement.com^
-||firebaseinstallations.googleapis.com^
-||firebaseremoteconfig.googleapis.com^
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 ||o*.ingest.sentry.io^
@@ -15,3 +13,5 @@
 ||in.appcenter.ms^
 ||config.appcenter.ms^
 ||api.rollbar.com^
+# Needed for some apps to work ||firebaseinstallations.googleapis.com^ 
+# Needed for some apps to work ||firebaseremoteconfig.googleapis.com^
