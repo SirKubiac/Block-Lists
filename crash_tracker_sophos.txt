@@ -6,7 +6,6 @@ app-measurement.com
 notify.bugsnag.com
 sessions.bugsnag.com
 ingest.sentry.io
-ingest.sentry.io
 sentry.io
 api.instabug.com
 instabug.com
