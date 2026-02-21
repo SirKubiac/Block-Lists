@@ -168,7 +168,6 @@ ads.gcp.roku.com
 ads.heytapmobi.com
 ads.heytapmobile.com
 ads.lgtvcommon.com
-ads.mi.com
 ads.oppomobile.com
 ads.roku.com
 ads.staging.roku.com
@@ -779,8 +778,6 @@ events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 events-dre.op.dbankcloud.com
 events-dre.op.hicloud.com
-events-op-hicloud-com-drcn.appacc-region.dbankedge.net
-events-op-hicloud-com-drcn.appacc.dbankedge.net
 events.app-performance.music.amazon.dev
 events.miui.com
 ex-adreq-asia.vivoglobal.com
@@ -1353,6 +1350,7 @@ maws-aax-fe.amazon-adsystem.com
 maws-aax-us-east-rtb-adx.amazon-adsystem.com
 maws-aax-us-east-rtb.amazon-adsystem.com
 maws-aax-us-east-test4.amazon-adsystem.com
+maws-aax-us-east.amazon-adsystem.com
 maws-aax-us-pdx-rtb.amazon-adsystem.com
 mazu.sec.miui.com
 mcc.miui.com

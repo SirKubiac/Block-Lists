@@ -1955,6 +1955,7 @@
 ||barbecue-chicken-alertttt.flightbooker.co.za^
 ||barbecue-chicken-alerttttt.flightbooker.co.za^
 ||barbecue.echoparklake.com^
+||barintg.top^
 ||barnabech.fr^
 ||barton.lesec.dedyn.io^
 ||bas-ranmmm.nas64.de^
@@ -9747,7 +9748,6 @@
 ||mojiegw.com^
 ||mojiejc.com^
 ||mojiess.com^
-||mojiessr.co^
 ||molurb.com^
 ||mon113.com^
 ||mon213.com^
@@ -14501,7 +14501,6 @@
 ||vpnac.org^
 ||vpnacademy.com^
 ||vpnaccounts.com^
-||vpnagent.com^
 ||vpnanonym.info^
 ||vpnapp.info^
 ||vpnapplication.com^
