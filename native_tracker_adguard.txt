@@ -619,6 +619,14 @@
 ||conn3.coloros.com^
 ||conn4.coloros.com^
 ||conn5.coloros.com^
+||connect-dra.dbankcloud.cn^
+||connect-dra.map.dbankcloud.com^
+||connect-drcn.dbankcloud.cn^
+||connect-dre.dbankcloud.cn^
+||connect-dre.map.dbankcloud.com^
+||connect-drru.dbankcloud.cn^
+||connect-drru.hispace.dbankcloud.cn^
+||connect-drru.hispace.dbankcloud.ru^
 ||console.admin.xmpush.xiaomi.com^
 ||controller.india.xiaomi.com^
 ||cota-service-sg.allawnos.com^
@@ -1576,6 +1584,7 @@
 ||mon-hl.snssdk.com^
 ||mon-i18n.tiktokv.com^
 ||mon-phx.tiktokv.com^
+||mon-ru.tiktokv.com.blinkt.de^
 ||mon-ru.tiktokv.com^
 ||mon-sg.capcutapi.com^
 ||mon-sg.tiktokv.com^
@@ -1767,6 +1776,7 @@
 ||obus-dc-us.heytapmobile.com^
 ||obus-dc10-cn.heytapmobi.com^
 ||obus-dc121100-sg.heytapmobile.com^
+||obus-dc136101-cn.heytapmobi.com^
 ||obus-dc2-cn.heytapmobi.com^
 ||obus-dc2-in.heytapmobile.com^
 ||obus-dc2-sg.heytapmobile.com^
@@ -1783,6 +1793,8 @@
 ||obus-dctech-cn.heytapmobi.com^
 ||obus-dctech-in.heytapmobile.com^
 ||obus-dctech-sg.heytapmobile.com^
+||obus-dcyitai-cn.heytapmobi.com^
+||obus-dcyitai-in.heytapmobi.com^
 ||obus-jssdk-cn.heytapmobi.com^
 ||obus-jssdk-fr.heytapmobile.com^
 ||obus-jssdk-in.heytapmobile.com^
@@ -1813,7 +1825,9 @@
 ||ottl7-l2.pandora.xiaomi.com^
 ||p.sec.miui.com^
 ||p.www.xiaomi.com^
+||p16-ad-site-sign-sg.tiktokcdn.com^
 ||p16-ad.byteoversea.com^
+||p19-ad-site-sign-sg.tiktokcdn.com^
 ||pa-ad-lgsmartad-com.aws-prd.net^
 ||pa.lgsmartad.com^
 ||paa-reporting-advertising.amazon^
@@ -2004,6 +2018,7 @@
 ||ru-comort-stsdk.vivoglobal.com^
 ||ru-compnrt-stsdk.vivoglobal.com^
 ||ru-comprt-stsdk.vivoglobal.com^
+||ru-cota.vivoglobal.com^
 ||ru-err-up.vivoglobal.com^
 ||ru-exstsdk.vivoglobal.com^
 ||ru-feedback.xmpush.global.xiaomi.com^
@@ -2336,6 +2351,7 @@
 ||tnc100-my.tiktokv.com^
 ||tnc100-useast1a.tiktokv.com^
 ||tnc100-useast2a.tiktokv.com^
+||tnc16-alisg.byteoversea.com^
 ||tnc16-normal-ie.tiktokv.eu^
 ||tnc16-normal-no1a.tiktokv.eu^
 ||tnc16-normal-us-ttp.capcutapi.us^
@@ -2351,6 +2367,7 @@
 ||tnc16-platform-useast1a.tiktokv.com^
 ||tnc16-platform-useast2a.tiktokv.com^
 ||tnc16-platform-useast5.us.tiktokv.com^
+||tnc16-useast1a.byteoversea.com^
 ||tnc19-normal-ie.tiktokv.eu^
 ||tnc19-normal-no1a.tiktokv.eu^
 ||tnc19-normal-useast5.tiktokv.us^
