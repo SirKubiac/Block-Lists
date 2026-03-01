@@ -666,9 +666,11 @@
 ||datacollector-dra.dt.dbankcloud.cn^
 ||datacollector-drcn.dt.dbankcloud.cn^
 ||datacollector-dre.dt.dbankcloud.cn^
+||dc-dragate-cn.heytapmobi.com^
 ||dc-stat-in.heytapmobile.com^
 ||dc.di.atlas.samsung.com^
 ||dc.heytapmobile.com^
+||dcc-awareness-cn.heytapmobi.com^
 ||dcintl.push.heytapmobi.com^
 ||de-ad-lgsmartad-com.aws-prd.net^
 ||de-gdpr-err-up.vivoglobal.com^
