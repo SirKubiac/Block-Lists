@@ -904,7 +904,6 @@
 ||adb-wan.xaoimoon.fr^
 ||adb.aadityakushwaha.com^
 ||adb.aiec.vn^
-||adb.intienquan.io.vn^
 ||adb.timnichollsphotography.com^
 ||adblock.freeddns.org^
 ||adblock.indianets.net^
@@ -1024,14 +1023,12 @@
 ||adguard.dientutronghuong.com^
 ||adguard.discounthost.co.uk^
 ||adguard.diylab.in^
-||adguard.domorome.wf^
 ||adguard.doranpierst.com.tr^
 ||adguard.dsns.cloud^
 ||adguard.easez.net^
 ||adguard.ef67daisuki.club^
 ||adguard.eischmann.cz^
 ||adguard.ekhozie.dynu.net^
-||adguard.elashri.xyz^
 ||adguard.elrobit.com^
 ||adguard.ender.fr^
 ||adguard.eoghan-net.com^
@@ -1040,7 +1037,6 @@
 ||adguard.ext.devkon.org^
 ||adguard.eyadmojahed.ddnsgeek.com^
 ||adguard.fam-rodenburg.nl^
-||adguard.fatu.systems^
 ||adguard.frece.de^
 ||adguard.gambini.org^
 ||adguard.gattow.com^
@@ -1205,7 +1201,6 @@
 ||adguardhome.softcloud.pe^
 ||adguardhome.yavuztutcu.net^
 ||adguardnic.ddns.net^
-||adguardpi.duckdns.org^
 ||adh.51st.top^
 ||adh.blogcuahieu.com^
 ||adh.fastpacefixit.info^
@@ -2469,7 +2464,6 @@
 ||browser.pythonsden.net^
 ||browserling.com^
 ||browserstephen.webs.vc^
-||brrbrrpatapim.graphicon.ru^
 ||brsjk.cn^
 ||brunycraft.xyz.cdn.cloudflare.net^
 ||brunycraft.xyz^
@@ -2569,8 +2563,6 @@
 ||c.cicitt.ch^
 ||c.cpfrx.info^
 ||c.is-very.fun^
-||c00lkiddtech.hackquest.com^
-||c00lkiddtech.ut.greenaudio.ch^
 ||c1.msocportal.my.id^
 ||c48afdb0a50939a19a1eb477fa3da3be2aa67e1d.com^
 ||c5325786f0985dd8d1844a9df52874195ecd2887.com^
@@ -3278,12 +3270,10 @@
 ||coolgams.dk-condos.com^
 ||coolguy.uzhi.ru^
 ||coolkidd.chickenkiller.com^
-||coolmanbartx.justlearning.net^
 ||coolmathgames.xenor.ro^
 ||coolpro.bloguinsports.com^
 ||coolproxy.org^
 ||coolsitebroughttoyoubyant.cpub.ir^
-||coolstuff.jumpingcrab.com^
 ||coolsubdomain.strangersduo.com^
 ||cooluniverse-galaxy.zone.id^
 ||coonetworkjc.com^
@@ -3360,7 +3350,6 @@
 ||cristianocosta.me^
 ||croceate.mywire.org^
 ||crops.primeflk.ch^
-||croscanbesmart.hclub.ar^
 ||crossiantwork.sr3z.com^
 ||crossorigin.me^
 ||crosswall.cc^
@@ -3452,7 +3441,6 @@
 ||czkaite88.xyz^
 ||d.apemlegit.my.id^
 ||d.bod.lol^
-||d.dnns.fun^
 ||d.dns1.6brothersimports.com.cdn.cloudflare.net^
 ||d.gametechnet.com^
 ||d.hansj.cc^
@@ -3997,7 +3985,6 @@
 ||discord.tattoo.cdn.cloudflare.net^
 ||discord.tattoo^
 ||discordvpn.cloudsearch.workers.dev^
-||discountdiskz.com^
 ||discussion.tawktawk.info^
 ||disguise.arionskyclub.com^
 ||disinformer.mooo.com^
@@ -4454,7 +4441,6 @@
 ||dns.irk38.net^
 ||dns.irumatech.com^
 ||dns.is0mino.com^
-||dns.ishan.pw^
 ||dns.islandnet.com^
 ||dns.isp.dhoho.net^
 ||dns.it-pa.net^
@@ -4466,7 +4452,6 @@
 ||dns.itya.xyz^
 ||dns.jamessliu.com^
 ||dns.japan.joshcheng.host^
-||dns.jcdn.site^
 ||dns.jd.com^
 ||dns.jerryw.cn^
 ||dns.jhangy.us^
@@ -5395,7 +5380,6 @@
 ||doorigin.net^
 ||doorkey82.com^
 ||doorphone92.com^
-||doortable92.com^
 ||dopanda.net^
 ||doprivate.net^
 ||doproapp.com^
@@ -5816,7 +5800,6 @@
 ||emjay.cn^
 ||emmett.ydns.eu^
 ||emmmmm.me^
-||emnzda.com^
 ||employment.jobvn.com^
 ||en-proxy.com^
 ||enaevym08dequf033jdvbr.online^
@@ -5883,7 +5866,6 @@
 ||erwan8.net^
 ||erwancloud.info^
 ||erwanyunclash.com^
-||erwanyunssr.com^
 ||es-ma.foxyfy.net^
 ||es-proxy.com^
 ||esel.stusta.mhn.de^
@@ -5951,7 +5933,6 @@
 ||expressvpn.tools^
 ||expressvpn.works^
 ||expressvpn.xyz^
-||exrcvgbhn.itafricagroup.com^
 ||ext.troywell.org^
 ||externalmobiel.lekdijk.online^
 ||extra.mask.ad^
@@ -6124,7 +6105,6 @@
 ||fbaffa04.cc^
 ||fbaffa05.cc^
 ||fbaffa06.cc^
-||fbxzti.cn^
 ||fc01-ne6s3ngb.top^
 ||fc02-lsb1l5ig.top^
 ||fcba.cc^
@@ -6162,7 +6142,6 @@
 ||feitan.me^
 ||feitangw.com^
 ||feitanjc.com^
-||feituyunclash.com^
 ||feituyunjc.com^
 ||feiyulink.net^
 ||femboys.tierlistsforspotify.party.cdn.cloudflare.net^
@@ -6269,7 +6248,6 @@
 ||fimoshinckaya-federation.site^
 ||finalgo.app^
 ||finalgo.dev^
-||finallylol.installgentoo.com^
 ||finchvpn.com^
 ||find.registration.abrdns.com^
 ||finderkeep.pages.dev^
@@ -6596,7 +6574,6 @@
 ||fvgnhj5.easterndns.com^
 ||fvnvoeri.ipv64.net^
 ||fvpn.jarvishome.ru^
-||fvpyop.cn^
 ||fvtcxryf.ipv64.net^
 ||fwe.graphicon.ru^
 ||fweeeeeeeethegoat.graphicon.ru^
@@ -6758,7 +6735,6 @@
 ||getepic.com.student.xyz.fern.is.underrated.ngl.mooo.com^
 ||getepic.com.student.xyz.frogies.arcade.learnelamathsocialstudes.mooo.com^
 ||getepic.com.student.xyz.galaxys.tuff.ahh.mooo.com^
-||getepic.com.student.xyz.overcloaked.ls.tuff.nnango.ignorelist.com^
 ||getepic.com.student.xyz.pls.unbl0ck.aboutblank.mooo.com^
 ||getexpress-vpn.company^
 ||getflclash.org^
@@ -6844,7 +6820,6 @@
 ||glintyglinthaha.mills-family.us^
 ||glisten.complex.abrdns.com^
 ||glitch.zone^
-||glitched.ert.infotechnology.com^
 ||glitchvpn.app^
 ||globalchat1.com^
 ||globalchatinc.com^
@@ -6867,7 +6842,6 @@
 ||gmkayandisuck.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||gmodsandbox.com^
 ||gms.gmsgroup.app^
-||gmsmedia.pics^
 ||gn-math.is-annoying.cuz-of.the-soundboard.baumgardner.us^
 ||gn-z11.franscois.co.za^
 ||gngstopblockinmyshi.geetabasyal.com.np^
@@ -6977,7 +6951,6 @@
 ||gouziyunclash.com^
 ||gouziyunjc.com^
 ||gov.canadianlocomotivelogistics.ca^
-||gov.highways.info^
 ||gov.minds.healthplantender.com^
 ||gov.orion-stella.com^
 ||gov.ovieags.gob.mx^
@@ -7037,7 +7010,6 @@
 ||greenoptions.xyz^
 ||greenproxy.net^
 ||greenssh.com^
-||greenssh.org^
 ||greenvpn.host^
 ||greenvpn.rest^
 ||greenwichps.org^
@@ -7325,7 +7297,6 @@
 ||hi-youyou.com^
 ||hi.gyatt.mooo.com^
 ||hi.hollandweather.net^
-||hi.infotechnology.com^
 ||hi.mmmcccxxxiii.com^
 ||hi.smasesorias.cl^
 ||hi09zmzfte.online^
@@ -7990,7 +7961,6 @@
 ||innov8ivetech.com^
 ||innovationroom.space^
 ||innovativelearninghub.com^
-||inoainoa.fun^
 ||inpssh.online^
 ||insanity222.chickenkiller.com^
 ||instant-vpn.com^
@@ -8074,7 +8044,6 @@
 ||iprivatevpn.com^
 ||iprovpn.com^
 ||iprovpn.dev^
-||iproxy.lol^
 ||iproyal.com^
 ||iproyal.sjv.io^
 ||ipservers.xyz^
@@ -8133,7 +8102,6 @@
 ||iuewkgfbvakludg.swanndvr.net^
 ||iujvcjis7.easterndns.com^
 ||iukh.vandrekalenderen.dk^
-||iuproxy.com^
 ||iux3-s.cuiy4trg8fmosya2iip3ci.name^
 ||ivacy.com^
 ||ivacyvpn.com^
@@ -8156,7 +8124,6 @@
 ||ixl.com.de^
 ||ixl.com.papillon.cl^
 ||ixl.greenfieldhk.org^
-||ixl.is.justlearning.net^
 ||ixl.loginalternative.hospitaldelninodif.gob.mx^
 ||ixl.math.hsf.co.za^
 ||ixl.mza.com.ar^
@@ -8170,7 +8137,6 @@
 ||ixlmath-67.web.app^
 ||ixlmath.nembahadurraskoti.com.np^
 ||ixlmathhomework6thgrade.tedfullwood.com^
-||ixlschoology.justanothersite.net^
 ||ixltutor.neitherneitherbooks.com^
 ||ixqd3zy.online^
 ||iykyk.gierweb.nl^
@@ -8204,7 +8170,6 @@
 ||jalenhurtsformvp.minecraftr.us^
 ||jalenhurtsthegoat.thehomeserver.net^
 ||jalexx.freeboxos.fr^
-||jamesisbald.xyz^
 ||jamessou.jamesferrand.fr^
 ||janitor.registration.abrdns.com^
 ||january2026.smasesorias.cl^
@@ -8402,7 +8367,6 @@
 ||jsqcn.app^
 ||jsqsite.com^
 ||jssr.cc^
-||jtyjmkfm.xyz^
 ||jubitel.my^
 ||judua3rtinpst0s.xyz^
 ||juicewrld.feathertechno.com^
@@ -8992,7 +8956,6 @@
 ||lenz.bouncers4rent.com^
 ||leoadguard.duckdns.org^
 ||leochen-dns.ddns.net^
-||leomarzwebsite.freemath.ch^
 ||lerst-vpn.com^
 ||les-vpn.com^
 ||lesuo.top^
@@ -9296,7 +9259,6 @@
 ||ly-1.net^
 ||lyfesinks.com^
 ||lyndonwoohoo.taltonwalker.com^
-||lyndonyay.darquemusic.com^
 ||lynxvpn.com^
 ||lywsrqs3.xyz^
 ||lz3nwoz.online^
@@ -9414,7 +9376,6 @@
 ||math.internetbowser.com^
 ||math.islife.bostoncareercounselor.com^
 ||math.isreally.pro^
-||math.learningcenter.edu.dimitriecantemir.ro^
 ||math.midtech.cl^
 ||math.netlab.my.id^
 ||math.robmojka.ru^
@@ -9441,7 +9402,6 @@
 ||mathgamesarefun.duckdns.org^
 ||mathgeometryalgebralearning.twilightparadox.com^
 ||mathh.img.com.ar^
-||mathhelp.infotechnology.com^
 ||mathhelp.ugo.si^
 ||mathhelp123.pages.dev^
 ||mathhelp4858.searchgpy.com^
@@ -9569,7 +9529,6 @@
 ||merchvault.xyz^
 ||mesl.cloud^
 ||meslcloudclash.com^
-||message.hmail.us^
 ||message.registration.abrdns.com^
 ||metacubex.one^
 ||metal-masters.us^
@@ -9828,7 +9787,6 @@
 ||myjulain.ololow.com^
 ||mylo.h4ck.me^
 ||mylord.care^
-||mymathclass.doriswel.com^
 ||mynatureapp.net^
 ||mypdns.cloud^
 ||mypdns.org^
@@ -9966,7 +9924,6 @@
 ||nautilus-os.vercel.app^
 ||navigate.graphicon.ru^
 ||nawala.id^
-||nc.is-now-gay.online^
 ||ncdsb.netlify.app^
 ||ncloudgw.com^
 ||ncloudjc.com^
@@ -10275,7 +10232,6 @@
 ||noturmotherlol.worksheetsforteachers.org^
 ||notvpn.io^
 ||novaenglish.help4bali.org^
-||novahistory.ibernoticias.com^
 ||novastats.willemvisser.co.za^
 ||novatech.fun^
 ||nowayhome.halfwaythere.ca^
@@ -10367,7 +10323,6 @@
 ||nwdm.easterndns.com^
 ||nwea.veriler.com^
 ||nwps.fi^
-||nxmevip.justlearning.net^
 ||ny.pramanik.com^
 ||ny.teradns.org^
 ||nyacloudjc.com^
@@ -10728,7 +10683,6 @@
 ||peiqianjc.com^
 ||peiqianssr.com^
 ||pendrawer.com^
-||penguin-perfect.land.dragonfruit.su^
 ||peninsulaeducation.baselinux.net^
 ||penkey82.com^
 ||penrepair.us^
@@ -11699,7 +11653,6 @@
 ||redwave.lesec.dedyn.io^
 ||reenreen.easterndns.com^
 ||reflect4.me^
-||reflexedmentum.eminescusm.ro^
 ||refvpntype.com^
 ||regiopolis.cloud^
 ||register.zedzander.com^
@@ -12020,7 +11973,6 @@
 ||saturn-math.polezen.bg^
 ||saturnvpn.com^
 ||saudisdumb.lightingonline.co.za^
-||saugatproxm.justlearning.net^
 ||saulgoodman.mooo.com^
 ||save.compy.ca^
 ||savycrafter.com^
@@ -12069,7 +12021,6 @@
 ||schoology.help^
 ||schoologylearningedu.h-o-s-t.name^
 ||schoolooks.com^
-||schools.education.pricing.esgemsedu.mx^
 ||schools.tradekinginternational.com^
 ||schoolsoftexas.justlearning.net^
 ||schoolsprepared.org^
@@ -12305,7 +12256,6 @@
 ||sgd.559299366.xyz^
 ||sgghfz.ipv64.net^
 ||sgs02.just-a-web.com^
-||sgs03.just-a-web.com^
 ||sgwzoch.online^
 ||shadeyouvpn.com^
 ||shadow-3.freemyip.com^
@@ -12669,10 +12619,8 @@
 ||solace.mills-family.us^
 ||solarsie.com^
 ||soleilvpn-app.com^
-||solgorknh.justlearning.net^
 ||solidlogic.bostoncareercounselor.com^
 ||solidproxy.net^
-||solidreading.gkihalimun.org^
 ||solidwriting.itafricagroup.com^
 ||sols.co.in^
 ||soltsio.rude.li^
@@ -12955,7 +12903,6 @@
 ||studying.9x.at^
 ||studyingsocool.justlearning.net^
 ||studyingsofun.smathis.com^
-||studysheets.justlearning.net^
 ||studystuff.bostoncareercounselor.com^
 ||studysurf.com^
 ||stufy.englishpapers.online^
@@ -13030,7 +12977,6 @@
 ||superwasome.minecraftnoob.com^
 ||support.atamanco.eu^
 ||support.dingsheng-yule.com^
-||support.idx.lol^
 ||support.sghub.co.za.twilightparadox.com^
 ||support.synapseitech.com^
 ||support.warning.cx^
@@ -13387,7 +13333,6 @@
 ||tianxingwangluojc.com^
 ||tiar.app^
 ||tiarap.org^
-||ticketeditonv2.donvogler.com^
 ||tickets.blackbearshow.com^
 ||tickets.national-birdshow.com^
 ||tienpham.id.vn^
@@ -14197,7 +14142,6 @@
 ||vcsaxinter.bostoncareercounselor.com^
 ||vcsaxselenite.ms-itsllc.com^
 ||vcsefghfhreesgfdf.dfgrdcfhfgfds.bonded-game.com^
-||vcxsaprox.gkihalimun.org^
 ||vcxyui.destroyerkisscover.com.br^
 ||vd.i81.ru^
 ||vdkd6nz8qr.s3.amazonaws.com^
@@ -14300,7 +14244,6 @@
 ||vlspeed.xyz^
 ||vm.delfini.online^
 ||vm.mathfilm.dk^
-||vm3421302.firstbyte.club^
 ||vmi2604183.contaboserver.net^
 ||vn.dns.abpvn.com^
 ||vng.lol^
@@ -14658,7 +14601,6 @@
 ||wandayun.com^
 ||wandayunclash.com^
 ||wanjuwawa.cn^
-||wano.gscmec.com^
 ||wantaquddin.com^
 ||wanxianggw.com^
 ||wapak.wapak.fun^
@@ -14699,7 +14641,6 @@
 ||we-need-more.foxgateway.com^
 ||weaang.co^
 ||wearecharleykirk.china.is^
-||weareit.infotechnology.com^
 ||wearejustbored.knowhowit.com.au^
 ||wearerhebeat9e48373.knowhowit.com.au^
 ||wearily.qoeat.com^
@@ -14843,7 +14784,6 @@
 ||whoisping.com^
 ||why-is-my-popcorn-so-gorilla.easterndns.com^
 ||why.endis.cyou^
-||why.is.it.my.fault.de-a.org^
 ||whyarewearewhatarewearewhatarewe.dinprima.ro^
 ||whydidtheydoitrosin.olneybaptist.org^
 ||whyiswritingsobad.badgrade6741.greenfieldhk.org^
@@ -15009,7 +14949,6 @@
 ||www-nsc.moebh.me^
 ||www-p.reaper.mx^
 ||www-pa.linkall.uk^
-||www-plo.declan-reid.me^
 ||www-pro.kosite.net^
 ||www-pro.nolife.uk^
 ||www-proxy.facil.wtf^
@@ -15034,7 +14973,6 @@
 ||www.itrsa.env.lntxbox.com^
 ||www.itrsa.for-school.ololow.com^
 ||www.itrsa.home.next.youradbyus.com^
-||www.jointeam-c00lkid.today.k.vu^
 ||www.nogfdb.ipv64.net^
 ||www.p.theartieschaffer.com^
 ||www.platform.everfi.cf^
@@ -15936,7 +15874,6 @@
 ||yangfuinei.biz^
 ||yanggan.eu.org^
 ||yangjuanjc.com^
-||yanglini.justlearning.net^
 ||yangzhuchangclash.com^
 ||yangzhuchangjc.com^
 ||yaofan.cc^
@@ -16020,7 +15957,6 @@
 ||yolearn.org^
 ||yolofr.jpyfqgjn.icu^
 ||yoolandenmadeanother.chrismac.org^
-||yooo.installgentoo.com^
 ||youboost.app^
 ||youboost.click^
 ||youcanhide.net^
