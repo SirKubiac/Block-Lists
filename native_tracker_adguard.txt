@@ -942,7 +942,6 @@
 ||grs-dbankcloud-com-dre.region.dbankedge.cn^
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.cn^
-||grs.dbankcloud.com^
 ||grs.dbankcloud.eu^
 ||grs.hicloud.com^
 ||grs.hihonorcloud.com^
@@ -1100,6 +1099,7 @@
 ||in.tv.global.mi.com^
 ||india.miui.com^
 ||inf.miui.com^
+||infinitedata-pa.googleapis.com^
 ||insights.video.a2z.com^
 ||internalcheck.apple.com^
 ||intl.up.w.xk.miui.com^
