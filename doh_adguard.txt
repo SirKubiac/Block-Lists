@@ -1381,7 +1381,6 @@
 ||alarmstat.click^
 ||albertcoolters.server.warhawkenterprises.com^
 ||alearluvsruby.twilightparadox.com^
-||alexclauhslikeslittlekids.rinet.ai^
 ||alexj123.mooo.com^
 ||alflebear.cn^
 ||alfsf4.xyz^
@@ -1735,7 +1734,6 @@
 ||ashxtechlimited.blob.core.windows.net^
 ||asimplesanirb.rotorootie.net^
 ||asjhdbjahwbjdvahgwvdbvasgvdjlwda.woodcraftgallery.com.np^
-||asjhhbjhxjhbx.shrpnt.com^
 ||ask.teaching.za.com^
 ||askdasjas.online^
 ||aslanvpn.com^
@@ -2174,7 +2172,6 @@
 ||bestyouxi.net^
 ||bestyouyou.net^
 ||bestyunfan.com^
-||beta.thegodfatheriam.shop^
 ||betherethe.sametimetomorrow.net^
 ||betternet-backend.herokuapp.com^
 ||betternet.co^
@@ -2329,7 +2326,6 @@
 ||bogbot.shop^
 ||boi9osyg1uwtyafn.com^
 ||boiii.iltec.cl^
-||boiiii.relaxingco.cl^
 ||boiiituff.handle.ar^
 ||bold-energy-129.biologyscholar.org^
 ||bolehvpn.net^
@@ -2579,7 +2575,6 @@
 ||cachezone.net^
 ||cactusdb.net^
 ||cactusvpn.com^
-||caddy.rkn.icu^
 ||cai-yun.com^
 ||caidenhashuzz.global.ssl.fastly.net^
 ||caisseforsmithfieldschools.org^
@@ -2861,7 +2856,6 @@
 ||chickenalert.camdvr.org^
 ||chickenrunclash.com^
 ||chickenrunjc.com^
-||chickenstar-is-so-niche.sidney.ar^
 ||chiickenn.hvac-sale.ru^
 ||child-noads.joindns4.eu^
 ||child.joindns4.eu^
@@ -3259,7 +3253,6 @@
 ||cool67.allisons.org^
 ||coolblackboard.pages.dev^
 ||coolboy1231.portfolio.jobvn.com^
-||cooldude123.sociedadelcubo.com^
 ||coolgams.dk-condos.com^
 ||coolguy.uzhi.ru^
 ||coolkidd.chickenkiller.com^
@@ -4826,7 +4819,6 @@
 ||dns.thiz.top^
 ||dns.thore.cloud^
 ||dns.timboeh.me^
-||dns.timkevin.us^
 ||dns.tipsy.coffee^
 ||dns.titov.cz^
 ||dns.tkhome.nl^
@@ -5262,7 +5254,6 @@
 ||doh.sb^
 ||doh.seby.io^
 ||doh.sidnlabs.nl^
-||doh.srv00.com^
 ||doh.suche.org^
 ||doh.sunoaki.net^
 ||doh.sww.net.id^
@@ -5511,7 +5502,6 @@
 ||drkcloud.ddns.net^
 ||drn4o8legymxe.cloudfront.net^
 ||droidvpn.com^
-||drpepperisbetter.ramonmedina.net^
 ||drs.rustsword.com^
 ||ds.appl.pk^
 ||dsl-app.s3.us-east-2.amazonaws.com^
@@ -5656,7 +5646,6 @@
 ||edpuzzle.jake.eu^
 ||edpuzzle.space^
 ||edpxzc8w5jqk.online^
-||edtrgyuihjokpjih5d4s.relaxingco.cl^
 ||edu-english.asolafirma.com.ar^
 ||edu.123goal.xyz^
 ||edu.activesearch.org.au^
@@ -5843,7 +5832,6 @@
 ||equatorial.deltacompy.com.br^
 ||eqwnmhg.chickenkiller.com^
 ||er.marieblazek.com^
-||erdtfuyguhij.relaxingco.cl^
 ||error404becausepar1scantlose.run.place^
 ||errwan65237.biz^
 ||errwan65878.biz^
@@ -7723,7 +7711,6 @@
 ||hy5o5ua8gklpqjbqzjaaje8yy.online^
 ||hydra.plan9-ns1.com^
 ||hydra.screenclip.net^
-||hydranetworkontop.sinuabi.ee^
 ||hydroxide.wtf^
 ||hykdwzgw.online^
 ||hyperbea.my^
@@ -7802,7 +7789,6 @@
 ||ieatwaffles.xyz^
 ||iei---trumpet.rinet.ai^
 ||ieplcloud.net^
-||if-you-block-this.youre-gay.southforkfd.com^
 ||ifhp.infotechnology.com^
 ||ifudontlikepoptartsugay.twilightparadox.com^
 ||ifurlookingatthisurblah.knowhowit.com.au^
@@ -8466,7 +8452,6 @@
 ||kaomojiz.mom^
 ||karaseee.f5.si^
 ||karkerkarmates.chickenkiller.com^
-||karvneti.servernux.com^
 ||katakanachart.com^
 ||katathermometer.lesec.dedyn.io^
 ||katherine-dns.newcore.cl^
@@ -9237,7 +9222,6 @@
 ||lxaulvhnadvu.online^
 ||ly-1.net^
 ||lyfesinks.com^
-||lyndonwoohoo.taltonwalker.com^
 ||lynxvpn.com^
 ||lywsrqs3.xyz^
 ||lz3nwoz.online^
@@ -9357,7 +9341,6 @@
 ||math.isreally.pro^
 ||math.midtech.cl^
 ||math.netlab.my.id^
-||math.robmojka.ru^
 ||math.sheets.eminescusm.ro^
 ||math.thanatos.com^
 ||math.theworkpc.com^
@@ -9470,7 +9453,6 @@
 ||media.logic.postie.org^
 ||media.music.orienta.com.br^
 ||media.network^
-||media.streamfusion.online^
 ||mediahint.com^
 ||mediavpn.com^
 ||meeeow.ignorelist.com^
@@ -10044,10 +10026,8 @@
 ||nirbytesluminal.riseelevetors.com^
 ||nirbytesovercloaked.ho-danone.id^
 ||nirbytesp.developer.li^
-||nirbytesproxyxhshdow.servernux.com^
 ||nirbytesvapor.riseelevetors.com^
 ||nirbytesvoid.riseelevetors.com^
-||nirbytesxshadow.servernux.com^
 ||nirdogepx.developer.li^
 ||nirfern.ho-danone.id^
 ||nirgalaxy.ho-danone.id^
@@ -11004,7 +10984,6 @@
 ||projectorpoint.website^
 ||projects.blueshadows.cl^
 ||projects.wanhuiarchitect.com^
-||proman.tbits.io^
 ||prompt.flight.abrdns.com^
 ||pronounce.desarrollos-lowcost.com^
 ||proportiongrass.org^
@@ -11538,7 +11517,6 @@
 ||ranqigaibiao.com^
 ||rapidbio.dazzos.com^
 ||rapidcalc.hotelconsuladoinn.com^
-||rapidcalc.rpvf.com^
 ||rapidcdn.click^
 ||rapidcdn.xyz^
 ||rapidprivacy.com^
@@ -11781,7 +11759,6 @@
 ||rogofollower.cynic.gq^
 ||rolypoly.strangled.net^
 ||romania.privacy-dns.pw^
-||romirely.tech^
 ||ronald.run^
 ||ronaldvkrueger.ddns.net^
 ||roodel.com^
@@ -11967,7 +11944,6 @@
 ||school.learning.coding.easy.ixl.rinet.ai^
 ||school.metropolitanstaffingsolutions.com^
 ||school.screenclip.net^
-||school.stjameskilolo.org^
 ||schoolcar1.camdvr.org^
 ||schoolcomminicate.com^
 ||schoolcool.ddnsfree.com^
@@ -11998,7 +11974,6 @@
 ||schoolwebsite.zapto.org^
 ||schoolwork67.chickenkiller.com^
 ||schoool.ignorelist.com^
-||schooxy.com^
 ||sci.add.countyohio.info^
 ||sci.enceislife.bostoncareercounselor.com^
 ||sci.grid.patlacroix.com^
@@ -13140,7 +13115,6 @@
 ||temperxnepro.dsn-hkpr.ca^
 ||temproxy.com^
 ||tempshf.world.cdn.cloudflare.net^
-||tempshf.world^
 ||tengyunjichang.com^
 ||tenta.com^
 ||tenta.io^
@@ -13232,10 +13206,8 @@
 ||theproxy.club^
 ||theproxy.dev^
 ||theproxy.fun^
-||theproxy.help^
 ||theproxy.how^
 ||theproxy.ink^
-||theproxy.lol^
 ||theproxy.page^
 ||theproxy.red^
 ||theproxy.vip^
@@ -13478,7 +13450,6 @@
 ||travel.bsfa.info^
 ||travel.taniadomena.eu^
 ||travelaround.hotelconsuladoinn.com^
-||travelingagent.thepresenttraveller.com^
 ||traveltheworld.thepresenttraveller.com^
 ||travelvpn.net^
 ||travis90x.ddns.net^
@@ -13498,7 +13469,6 @@
 ||trigg.bamastuff.com^
 ||triggg.bamastuff.com^
 ||trigola.finxstudio.fi^
-||trigpractice.staglin.hr^
 ||trilightzone.org^
 ||trinitypreschoolmp.org^
 ||tripham.marieblazek.com^
@@ -13857,7 +13827,6 @@
 ||universityproxy.net^
 ||unix.sr3z.com^
 ||unixfox.duckdns.org^
-||unknowcoders.root.sx^
 ||unknownn.easterndns.com^
 ||unknownproxy.com^
 ||unlimitedvpn.net^
@@ -14722,7 +14691,6 @@
 ||whaksdfj.wjklsfd.top7.mx^
 ||what-is-interstellar-all-i-know-is-linewize.easterndns.com^
 ||what.kinemasot.cl^
-||what.the.aw.root.sx^
 ||what0.odontosorriso.com^
 ||whatcaniplay.com^
 ||whatever.securly.com.v4v6.me.ostrovsky.sk^
