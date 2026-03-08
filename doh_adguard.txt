@@ -230,6 +230,7 @@
 ||159.195.59.55.traefik.me^
 ||1606341993.rsc.cdn77.org^
 ||1624147767.rsc.cdn77.org^
+||16yd.com^
 ||1703947877.rsc.cdn77.org^
 ||1725292880.rsc.cdn77.org^
 ||1734609591.rsc.cdn77.org^
@@ -10816,7 +10817,6 @@
 ||piano.goal.the-black-hole.co.uk^
 ||piano.login.mastergolfworld.hk^
 ||piano.think.substruction.net^
-||piaproxy.com^
 ||piaproxy.net^
 ||piaservers.net^
 ||picklesecurity.xyz^
