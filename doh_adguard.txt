@@ -713,6 +713,7 @@
 ||abcde.sigma.chickenkiller.com^
 ||abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com^
 ||abcmathforkids.jumpingcrab.com^
+||abcproxy.com^
 ||abel.waringer-atg.de^
 ||aberdeenmiddle34lol.chickenkiller.com^
 ||abhub1134.truckstore.ch^
@@ -1681,6 +1682,7 @@
 ||apworld.navigogroup.cl^
 ||aq.iaalai.cn^
 ||aqpov.xyz^
+||aqua.bastaff.ru^
 ||aqua.is.my.waifu.cz^
 ||arab.is.goated.teamradicus.com^
 ||arain.neighborhoodcloud.com^
@@ -2179,6 +2181,7 @@
 ||bestveee.com^
 ||bestvideoproxy.com^
 ||bestvpn.org^
+||bestvpnonline.online^
 ||bestvpnprovider.info^
 ||bestvpnrating.com^
 ||bestvpnserver.com^
@@ -2356,6 +2359,7 @@
 ||boda-vip.net^
 ||boda12306.com^
 ||bodbox.easterndns.com^
+||bodvpn.com^
 ||bog-bot.cfd^
 ||bogbot.shop^
 ||boi9osyg1uwtyafn.com^
@@ -2887,6 +2891,7 @@
 ||chemistry.props.org^
 ||chemistrypracticelab.cencopro.cl^
 ||chemistrytheoandalgebra.justlearning.net^
+||cherryclash.com^
 ||cherryjc.com^
 ||chester.run^
 ||chetoes.info.north-kazakhstan.su.cdn.cloudflare.net^
@@ -3316,6 +3321,7 @@
 ||cordcloudjc.com^
 ||core-vpn.norton.com^
 ||core.atom.sv-italia.it^
+||core.goal.challengepursuit.com^
 ||core.mind.corega.ro^
 ||corecloak.com^
 ||coreenglish.emili.com^
@@ -4224,6 +4230,7 @@
 ||dns.brono.cloud^
 ||dns.burgas.pro^
 ||dns.busold.ws^
+||dns.butterfly87.sbs^
 ||dns.c0ntroller.de^
 ||dns.cahlen.com^
 ||dns.caliph.dev^
@@ -7167,6 +7174,7 @@
 ||ha.o51r15.com^
 ||hack-in-sms.renaceracs.xyz^
 ||hacked-sites.graphicon.org^
+||hackedsites.bastaff.ru^
 ||hacker-from-sms.renaceracs.xyz^
 ||hackkcah.com^
 ||hackkcah.xyz^
@@ -9675,7 +9683,6 @@
 ||mistasinresolver.ru^
 ||mitceclash.com^
 ||mitcejc.com^
-||mitmproxy.org^
 ||mixing.run^
 ||mixturestab.com^
 ||mizban-r.site^
@@ -9839,6 +9846,7 @@
 ||mydayyournight.palomadi.ar^
 ||mydayyournightok.plusaxon.com.ar^
 ||mydevpn.eu^
+||mydns.bielperes.me^
 ||mydns.ddns.me^
 ||mydns.phatna.net^
 ||mydogdied.vercel.app^
@@ -10611,6 +10619,7 @@
 ||owa.pvmedia.ru^
 ||owenforzono.entergod.com^
 ||owenforzonoiseeyou.entergod.com^
+||owens-engineering-info.aperture.cl^
 ||owlhouduan.com^
 ||owlishly.pedrinhoracing.com.br^
 ||owlvpn.net^
@@ -11105,6 +11114,7 @@
 ||projects.wanhuiarchitect.com^
 ||prompt.flight.abrdns.com^
 ||pronounce.desarrollos-lowcost.com^
+||proof.major.archanet.org^
 ||proportiongrass.org^
 ||prostovpn.org^
 ||prostudyhabits.co^
@@ -11872,6 +11882,7 @@
 ||rock.fern.graphicon.ru^
 ||rock1314.com^
 ||rocketnews.site^
+||rockfordarmy.anallyforced.com^
 ||rockstars.netphoenix.ru^
 ||rockwell.website^
 ||rockwhisper.com^
@@ -12076,6 +12087,7 @@
 ||schooleducation.camdvr.org^
 ||schooleducation.twilightparadox.com^
 ||schoolisamazing.chickenkiller.com^
+||schooliscool.bastaff.ru^
 ||schoollearnfun.avatube.ru^
 ||schoolmath.foryourviewingpleasure.com^
 ||schoolmath.hop.sh^
@@ -12098,6 +12110,7 @@
 ||schooltechreadong.mywire.org^
 ||schoolwebproxy.com^
 ||schoolwebsite.zapto.org^
+||schoolwork.broomleigh.org^
 ||schoolwork67.chickenkiller.com^
 ||schoool.ignorelist.com^
 ||sci.add.countyohio.info^
@@ -12712,6 +12725,7 @@
 ||soundwaveearbuds.com^
 ||sourceproxy.com^
 ||south.clean.abrdns.com^
+||southpo.lo.aar.apolinarski.pl^
 ||sp.marieblazek.com^
 ||space.bestprogramsforkids.com^
 ||space.info.north-kazakhstan.su.cdn.cloudflare.net^
@@ -14325,6 +14339,7 @@
 ||vocab.clever.jaytex.org^
 ||vocab.mass.liquidateart.com^
 ||vocab.media.georgas.org^
+||vocab.real.anynall.com^
 ||vocaloid.pro.cdn.cloudflare.net^
 ||vocaloid.pro^
 ||vofasts.xyz^
@@ -14713,6 +14728,7 @@
 ||wdycenter.com^
 ||wdyserver.com^
 ||we-are.ksf.qzz.io^
+||we-hate-school.bastaff.ru^
 ||we-make.org^
 ||we-need-more.foxgateway.com^
 ||weaang.co^
