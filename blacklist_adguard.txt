@@ -1,2 +1,5 @@
-||infinitedata-pa.googleapis.com^
-||geller-pa.googleapis.com^
+||clienttracing-pa.googleapis.com^
+||feedback-pa.googleapis.com^
+||feedback-pa.clients6.google.com^
+||crashlyticsreports-pa.googleapis.com^
+||google-analytics.l.google.com^
