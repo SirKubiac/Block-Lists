@@ -5,3 +5,5 @@
 ||google-analytics.l.google.com^
 ||infinitedata-pa.googleapis.com^
 ||geller-pa.googleapis.com^
+||i-fallback.instagram.com^
+||test-gateway.instagram.com^
