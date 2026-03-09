@@ -36,4 +36,3 @@ c.msn.com
 ads.msn.com
 bat.bing.com
 action.signals.microsoft.com
-wdcp.microsoft.com
