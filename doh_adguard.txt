@@ -723,6 +723,7 @@
 ||about.baltimorefellowship.org^
 ||about.blog.steveharrop.co.uk^
 ||about.infotechnology.com^
+||about.izenimplant.ro^
 ||about.odoobooks.com^
 ||abpvn.org^
 ||abrakadabra.pro^
@@ -919,6 +920,7 @@
 ||ad.visbran.fr^
 ||adamkazwire.global.ssl.fastly.net^
 ||adampowell.pro^
+||adamz2eso.l5.ca^
 ||adb-home.xaoimoon.fr^
 ||adb-wan.xaoimoon.fr^
 ||adb.aadityakushwaha.com^
@@ -2828,6 +2830,7 @@
 ||cease.touchofpink.ca^
 ||cedarbranches.com^
 ||cekqqnfwoziyl.online^
+||cells.school.jaaax.com^
 ||celo.net^
 ||censor-check.com^
 ||censortracker.github.io^
@@ -3086,6 +3089,7 @@
 ||clashyi.com^
 ||clashzf.com^
 ||clashzz.com^
+||class.bio.prettybirdserver.com^
 ||class.desmos.live.cdn.cloudflare.net^
 ||class.desmos.live^
 ||class.guitarhaven.com^
@@ -4678,6 +4682,7 @@
 ||dns.litong.dev^
 ||dns.lmir.info^
 ||dns.lobbygod.com^
+||dns.lsho.top^
 ||dns.luismm2311.com^
 ||dns.lululu.dev^
 ||dns.luma-medien.com^
@@ -5195,6 +5200,7 @@
 ||dnsnl.alekberg.net^
 ||dnsotls.lab.nic.cl^
 ||dnspod.com^
+||dnsprivacy.org.uk^
 ||dnsresolver02.ddns.net^
 ||dnssec.dns.enginyring.com^
 ||dnssecure.aluwela.se^
@@ -5240,6 +5246,7 @@
 ||doclash.net^
 ||docomet.com^
 ||docs-ayucloud.com^
+||docs.google.l5.ca^
 ||docyberghost.com^
 ||dodaxiang.com^
 ||dodengta.com^
@@ -6542,6 +6549,7 @@
 ||for-privacy.net^
 ||for-veto.ru^
 ||for.3cm.us^
+||for.my.subscribers.gg.schools.l5.ca^
 ||foreground.work^
 ||forest-01.com^
 ||forest-cn.com^
@@ -8212,6 +8220,7 @@
 ||innov8ivetech.com^
 ||innovationroom.space^
 ||innovativelearninghub.com^
+||inoainoa.fun^
 ||inpssh.online^
 ||insanity222.chickenkiller.com^
 ||installvpn.com^
@@ -8346,6 +8355,7 @@
 ||itlikehell.ru^
 ||itopvpn.com^
 ||itranslator.info^
+||itrsa.nevuer.com^
 ||its-giving.qwyns-up.in-here.yo.baumgardner.us^
 ||itscauseiamblack.tvjumbleanswers.com^
 ||itself.cc^
@@ -8359,6 +8369,7 @@
 ||ivacyvpn.com^
 ||ivica-vulas.from.hr^
 ||ivnkn.xyz^
+||ivpn.info^
 ||ivpn.net^
 ||iwalwpdblp.online^
 ||iwantproxy.com^
@@ -8434,6 +8445,7 @@
 ||jashwin.is.wierd.spacejamhd.com^
 ||jasper.crabdance.com^
 ||javascriptisfuntoeat.com.fluxus.org^
+||jaxpulse.com^
 ||jaydensbusishere.simranupadhyaya.com.np^
 ||jazz-band-goated.malam.or.id^
 ||jcbb.cc^
@@ -9011,6 +9023,7 @@
 ||kuailianqjs.shop^
 ||kuailianvp.com.cn^
 ||kuailianvpn.cn^
+||kuailianvpn.org^
 ||kuailianvpn123.com^
 ||kuailianvsvpn.com^
 ||kuailianvv.com^
@@ -9321,6 +9334,7 @@
 ||libredns.gr^
 ||lickingheights.crabdance.com^
 ||liedn.cc^
+||lifeisa.live^
 ||lifeline.barabesta.is^
 ||light.registration.abrdns.com^
 ||lightalgebra.pro-house.cl^
@@ -9449,6 +9463,7 @@
 ||login.cmnjl.com^
 ||login.gov.chrsmck.com^
 ||login.greenfieldhk.org^
+||login.howto.notredamearena.com^
 ||login.i-ready.com.a.noviolencia.ar^
 ||login.ilsatimisoara.ro^
 ||login.oaklandscioly.org^
@@ -9672,6 +9687,7 @@
 ||math.islife.bostoncareercounselor.com^
 ||math.isreally.pro^
 ||math.midtech.cl^
+||math.nass.my^
 ||math.netlab.my.id^
 ||math.sheets.eminescusm.ro^
 ||math.thanatos.com^
@@ -9799,6 +9815,7 @@
 ||megaproxylist.net^
 ||megaus.asistdoc.ar^
 ||megumin.is.my.waifu.cz^
+||mehide.asia^
 ||mehide.org^
 ||mehmetgayalo.southern.com.my^
 ||meigsv7.joe.dj^
@@ -9840,6 +9857,7 @@
 ||metrovpn.xyz^
 ||metteolovesitinthebut.jumpingcrab.com^
 ||mexi.lol.cdn.cloudflare.net^
+||mexi.lol^
 ||mexi.rest.cdn.cloudflare.net^
 ||mexi.rest^
 ||mfimail.eu^
@@ -10522,6 +10540,7 @@
 ||norvixa.ru^
 ||not-masons-games.work.gd^
 ||not-nasa.pages.dev^
+||not-that-lazy-tho.luanngo.ca^
 ||notdominospizzeria.fluxus.org^
 ||note.worldlinkaccessories.com^
 ||notebait.ddnsfree.com^
@@ -11236,6 +11255,7 @@
 ||pointtoserver.com^
 ||pojkldfsdn.sdjkfnm.saahee.cn^
 ||pokc.top^
+||pokercloudclash.com^
 ||polargrizzly.com^
 ||polaris.cx^
 ||polessclash.com^
@@ -11502,6 +11522,7 @@
 ||proxy3.startpage.com^
 ||proxy4free.com^
 ||proxy4free.me^
+||proxy4freedom.com^
 ||proxy5.net^
 ||proxy62.com^
 ||proxyadult.org^
@@ -11554,6 +11575,7 @@
 ||proxyium.org^
 ||proxyiumi.com^
 ||proxyjet.io^
+||proxylib.com^
 ||proxylift.com^
 ||proxylister.com^
 ||proxylistpro.com^
@@ -11795,6 +11817,7 @@
 ||quensiro.ru^
 ||query.hdns.io^
 ||query.mobyds.com^
+||quesosrammerhaha.l5.ca^
 ||question.murcianosdedinamita.es^
 ||question.sdao.me^
 ||quic.lol^
@@ -12013,6 +12036,7 @@
 ||rebirthsanctuarychurch.home.kg^
 ||recap.arts.sumyk.com.br^
 ||recap.grade.kredytlinia.pl^
+||recap.utopia.menorahscrazyblog.com^
 ||recentviruses.screenclip.net^
 ||recharger.link^
 ||recmata.com^
@@ -13289,6 +13313,7 @@
 ||studies.mooo.com^
 ||studioai.freeddns.org^
 ||studiolearngeo.estudioferrer.com^
+||study-math.nevuer.com^
 ||study-resources-trust.camdvr.org^
 ||study.7s.com.tr^
 ||study.9x.at^
