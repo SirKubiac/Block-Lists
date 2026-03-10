@@ -918,6 +918,7 @@
 ||ad.tzockt.beer^
 ||ad.viet.date^
 ||ad.visbran.fr^
+||adam.loves.gandhi.spacejamhd.com^
 ||adamkazwire.global.ssl.fastly.net^
 ||adampowell.pro^
 ||adamz2eso.l5.ca^
@@ -4550,6 +4551,7 @@
 ||dns.hoian.one^
 ||dns.home.beckett.io^
 ||dns.home.daniil.it^
+||dns.homenet.saschagaspar.net^
 ||dns.hoody.com^
 ||dns.hopkinton.online^
 ||dns.hopsken.com^
@@ -7994,7 +7996,6 @@
 ||hxlm.io^
 ||hxlm.org^
 ||hxtvk7y8j.online^
-||hy5o5ua8gklpqjbqzjaaje8yy.online^
 ||hydra.plan9-ns1.com^
 ||hydra.screenclip.net^
 ||hydroxide.wtf^
@@ -9690,6 +9691,7 @@
 ||math.nass.my^
 ||math.netlab.my.id^
 ||math.sheets.eminescusm.ro^
+||math.tests.szk-obihiro.com^
 ||math.thanatos.com^
 ||math.theworkpc.com^
 ||math.vincenzodimaro.it.cdn.cloudflare.net^
@@ -11061,6 +11063,7 @@
 ||petezahgames.com^
 ||petezahgames.iceiy.com^
 ||petezahmybeloved.shela.nu^
+||petezahpizza.omega.social-networking.me^
 ||petezahv4-github-io-2rx.pages.dev^
 ||petezahv4-github-io.pages.dev^
 ||petinom.online^
@@ -12016,6 +12019,7 @@
 ||rdns.faelix.net^
 ||rdns2.chancetheitguy.com^
 ||read.alumn.btc.one.pl^
+||read.coach.ratnikov.com^
 ||read.lbry.ru^
 ||read.registration.abrdns.com^
 ||reading.dinprima.ro^
@@ -12261,6 +12265,7 @@
 ||rumpelsepp.org^
 ||run-away.run.place^
 ||rungame20.com^
+||runnerpromotion.org^
 ||runnervamp.net^
 ||runnigga.run.cdn.cloudflare.net^
 ||runnigga.run^
@@ -12317,6 +12322,7 @@
 ||safeguardianvpn.com^
 ||safehousetech.com^
 ||safehousevpn.com^
+||safenetbrowser.com^
 ||safersurfing.net^
 ||safervpn.com^
 ||safeservedns.com^
@@ -14057,7 +14063,6 @@
 ||tulanek.my^
 ||tungdnsne.duckdns.org^
 ||tunnel.googlezip.net^
-||tunnel4.com^
 ||tunnelbear.com^
 ||tunnelbear.s3.amazonaws.com^
 ||tunxray.site^
@@ -14967,6 +14972,7 @@
 ||vpnshazam.com^
 ||vpnshieldapp.com^
 ||vpnside.com^
+||vpnsites.com^
 ||vpnstunnel.com^
 ||vpnsuper.app^
 ||vpnsuper.com^
