@@ -13,4 +13,4 @@
 ||settings-win.data.microsoft.com^
 ||settings.data.microsoft.com^
 ||fp.msedge.net^
-||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
