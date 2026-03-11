@@ -5068,6 +5068,7 @@
 ||dns.xydustc.me^
 ||dns.xyz.ddnss.eu^
 ||dns.y2f.xyz^
+||dns.yameenassotally.com^
 ||dns.yandex.net^
 ||dns.yandex.ru^
 ||dns.yatima.tv^
@@ -6209,6 +6210,8 @@
 ||famous.screenclip.net^
 ||famousin.screenclip.net^
 ||fanal.lesec.dedyn.io^
+||fancy.v6.army^
+||fancy1.v6.army^
 ||fancynetwor.com^
 ||fangzhou.date^
 ||fanqiejc.com^
@@ -11062,6 +11065,7 @@
 ||petezahbare.adidasnmdcitysock.com^
 ||petezahgames.com^
 ||petezahgames.iceiy.com^
+||petezahismyuncle.crui.web1337.net^
 ||petezahmybeloved.shela.nu^
 ||petezahpizza.omega.social-networking.me^
 ||petezahv4-github-io-2rx.pages.dev^
@@ -13278,6 +13282,7 @@
 ||stellarwriting.tovamiasto.com^
 ||stemforlife.activesearch.org.au^
 ||stemm-learning-studymath.puellamagi.com^
+||stemprivate4.webs.vc^
 ||stemspaceclub.com^
 ||sterlingharris.com^
 ||sticks.run^
@@ -13975,8 +13980,10 @@
 ||travel.taniadomena.eu^
 ||travelaround.hotelconsuladoinn.com^
 ||traveltheworld.thepresenttraveller.com^
+||travelvpn.info^
 ||travelvpn.net^
 ||travis90x.ddns.net^
+||treatmentarrow.org^
 ||tree.152.53.136.204.nip.io^
 ||tree.greenfieldhk.org^
 ||trees.app^
@@ -14028,6 +14035,7 @@
 ||trust.zone^
 ||trustedproxies.com^
 ||truta.org^
+||truthskip.org^
 ||trutri.org^
 ||truvexia.ru^
 ||truvium.xyz^
@@ -14488,6 +14496,7 @@
 ||usxui.13142233.xyz^
 ||ut0pia-web.easterndns.com^
 ||utale.snowdin.wiki.gd^
+||utauloid.space^
 ||uto2.my.to^
 ||utopia.halfwaythere.ca^
 ||utopia.ub.phuri.cc^
@@ -14532,6 +14541,7 @@
 ||v2ny.de^
 ||v2ny.mom^
 ||v2ny.net^
+||v2ny.one^
 ||v2ny.org^
 ||v2ny.pro^
 ||v2ny.top^
@@ -14654,6 +14664,7 @@
 ||veronap.republican^
 ||verrrrrrrrrrrrrrrrrrrdows.easterndns.com^
 ||verrrrrrrrrrrrrrrrrrrrrshadow-2.easterndns.com^
+||versavpn.com^
 ||veryeducationaltrust.lat^
 ||verynormalsite.wendyandnick.net^
 ||vestino.ru^
@@ -14808,6 +14819,7 @@
 ||vpn.egorrko.ru^
 ||vpn.erhvict.ru^
 ||vpn.express^
+||vpn.fail^
 ||vpn.g-s-a.me^
 ||vpn.geshido.ru^
 ||vpn.gmalov.ru^
@@ -14915,6 +14927,7 @@
 ||vpnland.com^
 ||vpnlaunch.com^
 ||vpnliebao.com^
+||vpnline.info^
 ||vpnlite.net^
 ||vpnly.com^
 ||vpnmailvista.co.cc^
@@ -14976,6 +14989,7 @@
 ||vpnstunnel.com^
 ||vpnsuper.app^
 ||vpnsuper.com^
+||vpnsurfguard.com^
 ||vpnto.bhadrikais.my.id^
 ||vpntoggle.com^
 ||vpntraffic.com^
@@ -16499,6 +16513,7 @@
 ||yourinternetproxy.info^
 ||yourname.chosen-domain.tld.chickenkiller.com^
 ||yourname.chosen-domain.tld.crabdance.com^
+||yourvpn.info^
 ||yousifcantleakthis.bostoncareercounselor.com^
 ||youtu0.com^
 ||youtu1.xyz^
