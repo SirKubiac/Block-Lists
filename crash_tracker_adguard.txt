@@ -13,5 +13,3 @@
 ||in.appcenter.ms^
 ||config.appcenter.ms^
 ||api.rollbar.com^
-# Needed for some apps to work ||firebaseinstallations.googleapis.com^ 
-# Needed for some apps to work ||firebaseremoteconfig.googleapis.com^
