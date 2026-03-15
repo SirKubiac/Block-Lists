@@ -1834,6 +1834,8 @@ ostorage-ocloud-sg.allawnos.com
 ota.cdn.pandora.xiaomi.com
 ota.ptqy.gitv.tv
 ottl7-l2.pandora.xiaomi.com
+oversea-nebula-in.heytapmobi.com
+oversea-nebula-sg.heytapmobi.com
 p.sec.miui.com
 p.www.xiaomi.com
 p16-ad.byteoversea.com
