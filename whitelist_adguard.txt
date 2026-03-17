@@ -15,3 +15,4 @@
 ||fp.msedge.net^
 ||grs.dbankcloud.eu^
 ||grs.dbankcloud.com^
+||inputsuggestions.msdxcdn.microsoft.com^
