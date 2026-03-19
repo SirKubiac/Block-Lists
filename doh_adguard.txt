@@ -1815,8 +1815,6 @@
 ||auronsvr.site^
 ||auronvpn.com^
 ||auronvpn.site^
-||auroramo.zanity.net^
-||auroramo1.zanity.net^
 ||auroraurweird.0x.no^
 ||austinisd.net.cdn.cloudflare.net^
 ||austinisd.net^
@@ -10622,7 +10620,6 @@
 ||offshoreview.xyz^
 ||ofonetclash.com^
 ||ogonvpn.xyz^
-||oh.zjhmz.cn^
 ||ohapil.eu^
 ||ohgodplease.help^
 ||ohvc.aluminiosnelugo.pt^
@@ -12451,7 +12448,6 @@
 ||secureguardpro.com^
 ||securehole.com^
 ||securely.abbotsfordhallforhire.org.au^
-||securely.com.xn--d1aqf.org^
 ||securenet.mhsystems.net^
 ||securesafea.openmouth.com.ar^
 ||securesurfvpn.all.co.tz^
@@ -12471,7 +12467,6 @@
 ||securly.com.frostcatcher.com^
 ||securly.com.jedimasters.net^
 ||securly.com.pegle.com^
-||securly.com.xn--d1aqf.org^
 ||securly.mom^
 ||securly.zoho.to^
 ||securlysettings.activesearch.org.au^
@@ -14476,7 +14471,6 @@
 ||vd.i81.ru^
 ||vdkd6nz8qr.s3.amazonaws.com^
 ||vds2380673.my-ihor.ru^
-||vdska-pl.ydns.eu^
 ||vdsn-nl-2.azatmutq.com^
 ||vectroproxy.com^
 ||veepn.com^
@@ -15397,7 +15391,6 @@
 ||xbsj5632.website^
 ||xbsjssr.online^
 ||xc.hkieca.com^
-||xcinmdm5r0yvvcutn5xgms.online^
 ||xciouveksjkdfsdf.ekcjxvlesdfes.rossco.uk^
 ||xcomplus.com^
 ||xcomvpn-7000b-default-rtdb.firebaseio.com^
@@ -15474,7 +15467,6 @@
 ||xipcloudgw.com^
 ||xiphias.volution.cloud-ip.cc^
 ||xite.cc^
-||xite.mobi^
 ||xite.ws^
 ||xitenow.com^
 ||xitesite.com^
@@ -16175,7 +16167,6 @@
 ||xnyun11.cc^
 ||xocjckekrn.vets.co.il^
 ||xolvento.ru^
-||xomadns.com^
 ||xomverta.ru^
 ||xonlrnrujxbx.com^
 ||xorbiadns.com^
@@ -16220,7 +16211,6 @@
 ||y05qwm.cn^
 ||y2fast.com^
 ||y3suyx0cg2lewi2dmn.advaitghaisas.in^
-||y4vkjoj41kg.online^
 ||y9iiz61k4yu67jfgcx.boxathome.net^
 ||y9ze2o.csb.app^
 ||yacd.haishan.me^
@@ -16299,7 +16289,6 @@
 ||yifenssr.com^
 ||yihuacenter.com^
 ||yin.flyzhouyc.win^
-||yin2zqcdtzoj5.online^
 ||yinghuamaojc.com^
 ||yingtaocloud.com^
 ||yingtaoyunjc.com^
@@ -16605,7 +16594,6 @@
 ||zjavr.cn^
 ||zkcfi3szz.online^
 ||zkit.above.gay^
-||zksa8tcw0xcokir32vgq.online^
 ||zlhp6jksk5.execute-api.eu-west-3.amazonaws.com^
 ||zonevpn.com^
 ||zontero.ru^
