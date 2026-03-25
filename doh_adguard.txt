@@ -12993,6 +12993,10 @@
 ||sradg.eastus.cloudapp.azure.com^
 ||sradg2.eastus.cloudapp.azure.com^
 ||srfshrk.net^
+||srv01.dns64.de^
+||srv02.dns64.de^
+||srv03.dns64.de^
+||srv04.dns64.de^
 ||srv5.jiripocta.cz^
 ||ss-cdn.com^
 ||ss.0001.xyz^
