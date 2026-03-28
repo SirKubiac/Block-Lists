@@ -6483,6 +6483,7 @@
 ||flag.flight.abrdns.com^
 ||flame-vpn.com^
 ||flamecore.ir^
+||flarevpn.digital^
 ||flashcarder.net^
 ||flashisthebestlinkdropper.tovamiasto.com^
 ||flashpull.com^
