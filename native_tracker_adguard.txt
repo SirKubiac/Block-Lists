@@ -414,6 +414,7 @@
 ||atfe.amazon-adsystem.com^
 ||atue.amazon-adsystem.com^
 ||au-ad-lgsmartad-com.aws-prd.net^
+||au-vcode-od.vivoglobal.com^
 ||au.ff.avast.sec.miui.com^
 ||au.lgsmartad.com^
 ||auth.api.gitv.tv^
@@ -1295,6 +1296,7 @@
 ||log32-normal-sg.capcutapi.com^
 ||log32-normal-useast1a.tiktokv.com^
 ||log32-normal-useast2a.tiktokv.com^
+||log32-normal-useastred.tiktokv.eu^
 ||log32-normal-zr.tiktokv.com^
 ||log32-normal.capcutapi.com^
 ||log32-normal.tiktokv.com^
@@ -1839,6 +1841,9 @@
 ||p.sec.miui.com^
 ||p.www.xiaomi.com^
 ||p16-ad.byteoversea.com^
+||p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net^
+||p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net^
+||p16-tiktok-ads-sg.tiktokcdn.com^
 ||pa-ad-lgsmartad-com.aws-prd.net^
 ||pa.lgsmartad.com^
 ||paa-reporting-advertising.amazon^
