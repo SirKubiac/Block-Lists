@@ -2466,6 +2466,7 @@
 ||bravedns.com^
 ||bravetrait.com^
 ||brazilproxy.com^
+||brd-sdk-app-packages.s3.amazonaws.com^
 ||breakwall.net^
 ||brexhack.litecsys.com^
 ||brextyn.malam.or.id^
@@ -3480,7 +3481,6 @@
 ||cunybr.com^
 ||curd.io^
 ||curly.orienta.com.br^
-||curser.dev^
 ||customudp.site^
 ||customurlmadebywesd.bnene.com^
 ||cv-unfiltered.xyz^
@@ -4393,6 +4393,7 @@
 ||dns.csa-rz.de^
 ||dns.csaonline.de^
 ||dns.csswg.org^
+||dns.curser.dev^
 ||dns.cwlys.com^
 ||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
@@ -4716,7 +4717,6 @@
 ||dns.marcbond.uk^
 ||dns.marschi.de^
 ||dns.mateo.ovh^
-||dns.mathewakhil.online^
 ||dns.matthias-prost.com^
 ||dns.maybe.icu^
 ||dns.mayr.ws^
@@ -4763,7 +4763,6 @@
 ||dns.musikantit.fi^
 ||dns.muxinghe.cn^
 ||dns.mymachinepanda.online^
-||dns.mytest.cc^
 ||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
@@ -4819,6 +4818,7 @@
 ||dns.ostfriese.org^
 ||dns.otezz.net^
 ||dns.ourvau.lt^
+||dns.ovpn.bond^
 ||dns.p3k.sk^
 ||dns.p55k.com^
 ||dns.pacificmonster.com^
@@ -4910,7 +4910,6 @@
 ||dns.schlagheck.berlin^
 ||dns.schmidt-zoarn.de^
 ||dns.scott-smith.us^
-||dns.scott.ovh^
 ||dns.sct-pro.com^
 ||dns.scuola.org^
 ||dns.seaotter.cc^
@@ -9073,6 +9072,7 @@
 ||kylespringiseeyou.thehomeserver.net^
 ||kyotocatholicchurch.myogaya.jp^
 ||kz-pav-w-p-1.nashkan.net^
+||l-cdn.com^
 ||l-gayte.net^
 ||l.global.ssl.fastly.net^
 ||l4bor.com^
@@ -11474,6 +11474,7 @@
 ||proxy-search.com^
 ||proxy-seller.com^
 ||proxy-site.net^
+||proxy-sosavpn.ru^
 ||proxy-store.com^
 ||proxy-tools.com^
 ||proxy-works.com^
@@ -11606,6 +11607,7 @@
 ||proxyserver.rocks^
 ||proxyserverlist24.top^
 ||proxyshade.com^
+||proxyshare.app^
 ||proxyshare.com^
 ||proxysheep.com^
 ||proxysite.cc^
@@ -12517,7 +12519,6 @@
 ||sdiybt.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||sdkconfig.tlivedns.com^
 ||sdmvipaff.cc^
-||sdns22.gkonuralp.com^
 ||sdtfghjbnm.152-53-136-204.plesk.page^
 ||sdvizhkov.ru^
 ||se3v5tjfff3aet.me^
@@ -13282,6 +13283,8 @@
 ||stopcensoring.me^
 ||stopwatchforteachers.mooo.com^
 ||storefront.ink^
+||storj.io^
+||storjshare.io^
 ||stormproxies.com^
 ||stranged.org.chickenkiller.com^
 ||strangerandomdomain1.space^
@@ -13569,6 +13572,7 @@
 ||taoqituclash.com^
 ||taoqitujichang.com^
 ||taoqitussr.com^
+||tardigrade.io^
 ||tartanbahn.eu.org^
 ||task.edu.hueteinterpreting.com^
 ||task.major.assholetenants.com^
@@ -15466,6 +15470,7 @@
 ||www-proxy.konstl01.xyz^
 ||www-proxy.ladifsoftware.com^
 ||www-proxy.lovekeli.uk^
+||www-proxy.midoghanam.site^
 ||www-proxy.migastep.com^
 ||www-proxy.p2pear.asia^
 ||www-proxy.pyxelworld.com^
