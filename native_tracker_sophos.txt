@@ -493,6 +493,7 @@ browserfiles.heytapmobile.com
 bs-ad-lgsmartad-com.aws-prd.net
 bs.lgsmartad.com
 bsf.sc.heytapmobile.com
+bsp-di-in.heytapmobile.com
 bsp.sasdc.pandora.xiaomi.com
 bss.pandora.xiaomi.com
 bugreport.pt.xiaomi.com
