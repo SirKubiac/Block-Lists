@@ -4482,6 +4482,7 @@
 ||dns-telkominfra.disacloud.com^
 ||dns-three.lins.co.tt^
 ||dns-tls.bitwiseshift.net^
+||dns-tunnel-check.googlezip.net^
 ||dns-uk.puregeni.us^
 ||dns-unfiltered.adguard.com^
 ||dns-us.ibmcloud.top^
@@ -4753,6 +4754,7 @@
 ||dns.farakaft.ir^
 ||dns.farshidhakimy.de^
 ||dns.farshmc.ru^
+||dns.faze.dev^
 ||dns.fc.idv.tw^
 ||dns.fdue.de^
 ||dns.fehlsprache.de^
@@ -4792,6 +4794,7 @@
 ||dns.giriprabhat.com^
 ||dns.glampool.cloud^
 ||dns.glf.wtf^
+||dns.glorydns.com^
 ||dns.glsoft.ai^
 ||dns.gnb09.id^
 ||dns.goertz.digital^
@@ -5802,6 +5805,7 @@
 ||door.plasmadancer.ru^
 ||doorcar92.com^
 ||doorigin.net^
+||doorkey82.com^
 ||doorphone92.com^
 ||dopanda.net^
 ||doprivate.net^
@@ -5955,6 +5959,7 @@
 ||droidvpn.com^
 ||drovanel.ru^
 ||droxyproxy.com^
+||droyd.top^
 ||drs.rustsword.com^
 ||drtmsxnj.com^
 ||ds.appl.pk^
@@ -6950,6 +6955,7 @@
 ||free-vpn.en.softonic.com^
 ||free-vpn.mom^
 ||free-vpn.pro^
+||free-vpn.xyz^
 ||free-vpnapp.com^
 ||free-vpnplanet-ru.net^
 ||free-vpnplanet.net^
@@ -7054,6 +7060,7 @@
 ||freevpnsoftware.net^
 ||freewebproxy.eu^
 ||freexite.com^
+||freeyouproxytube.com^
 ||freeyoutube.net^
 ||frefe.vandrekalenderen.dk^
 ||freloop.com^
@@ -7448,6 +7455,7 @@
 ||gmkayandisuck.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||gmodsandbox.com^
 ||gms.gmsgroup.app^
+||gmsmedia.pics^
 ||gn-math.is-annoying.cuz-of.the-soundboard.baumgardner.us^
 ||gn-z11.franscois.co.za^
 ||gngstopblockinmyshi.geetabasyal.com.np^
@@ -8645,6 +8653,7 @@
 ||ijsutpoopedmyseldf.aerodev.cc^
 ||ijustmysocks.com^
 ||ijustwanttstowork.dsylexia.jdymqic.shop^
+||ikarosalpha.xyz^
 ||ikeepgooning.serverpit.com^
 ||ikhebdorst.nl^
 ||ikilledmydog.vercel.app^
@@ -13380,6 +13389,7 @@
 ||safeweb.name^
 ||safeworldpay.com^
 ||safing.io^
+||sagamihara.dynv6.net^
 ||sage.area.modeemi.net^
 ||sagrantapp.com^
 ||sahi.uk^
@@ -13569,6 +13579,7 @@
 ||sdiybt.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||sdkconfig.tlivedns.com^
 ||sdmvipaff.cc^
+||sdns22.gkonuralp.com^
 ||sdtfghjbnm.152-53-136-204.plesk.page^
 ||sdusxwln.cc^
 ||sdvizhkov.ru^
@@ -14036,6 +14047,7 @@
 ||skyvpn.me^
 ||skyvpn.net^
 ||slammpstudysfr.cxhzegpg.shop^
+||slayer2wild.dynv6.net^
 ||slayerseducation.dinprima.ro^
 ||sleds.manutec.dinprima.ro^
 ||sleep-studies.marqenhotels.com^
@@ -16798,6 +16810,7 @@
 ||www-vpn.52oupa.com^
 ||www-web.sshub.win^
 ||www-web.veranon.io^
+||www-webprxsvc.drewcotech.com^
 ||www-www.linguafuse.com^
 ||www-yt.nikooo.ir^
 ||www-yy.in6.to^

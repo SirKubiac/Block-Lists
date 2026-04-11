@@ -1125,7 +1125,6 @@
 ||iq-ad-lgsmartad-com.aws-prd.net^
 ||iq.lgsmartad.com^
 ||ir-ad-lgsmartad-com.aws-prd.net^
-||ir-ae.amazon-adsystem.com^
 ||ir-br.amazon-adsystem.com^
 ||ir-ca.amazon-adsystem.com^
 ||ir-cn.amazon-adsystem.com^
