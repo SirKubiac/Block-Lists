@@ -2490,6 +2490,7 @@
 ||boiiituff.handle.ar^
 ||bojdumlx.cc^
 ||bold-energy-129.biologyscholar.org^
+||bold-river-186.sz.games^
 ||bolehvpn.net^
 ||bolt-backup.binarybrains.today^
 ||bolt-private.dmain.sevecom.com^
@@ -2585,6 +2586,7 @@
 ||brhbjinjshvylb.online^
 ||bridgeschoolboulder.org^
 ||bridgethewisejc.com^
+||bright-bear-630.shuttle.lol^
 ||bright-eagle-189.discovergeographics.com^
 ||bright-mind-274.conwordable.com^
 ||bright-vpn.help^
@@ -5223,6 +5225,7 @@
 ||dns.spirio.fr^
 ||dns.srijan.site^
 ||dns.srinivasrao.co.in^
+||dns.sshub.win^
 ||dns.sstomp.nl^
 ||dns.startupstack.tech^
 ||dns.stevenz.net^
@@ -6100,6 +6103,7 @@
 ||edgar.tobkar.net^
 ||edge-intl.ygjs.org^
 ||edge-invite.com^
+||edge-v6x.v6.rocks^
 ||edge-x.cloud^
 ||edgeaccelerator.space^
 ||edgeaccelerator.website^
@@ -6356,9 +6360,12 @@
 ||etkarta.easterndns.com^
 ||ettego.com^
 ||eu-browse.startpage.com^
+||eu-proxy.startpage.com^
+||eu1-browse.startpage.com^
 ||eu1.dns.lavate.ch^
 ||eu2-browse.startpage.com^
 ||eu3-browse.startpage.com^
+||eu4-browse.startpage.com^
 ||eudnrn.churchmissionary.team^
 ||europe-west.avastdns.com^
 ||europe-west3-topvpn-873d5.cloudfunctions.net^
@@ -9495,6 +9502,7 @@
 ||kind-rain-691.biologyscholar.org^
 ||kind-soul-873.guesstheanimal.org^
 ||kind-sun-637.guesstheanimal.org^
+||kind-wolf-912.shuttle.lol^
 ||kingdomhearts.me^
 ||kingsurfproxy.com^
 ||kingyt6761.cc^
@@ -9800,6 +9808,7 @@
 ||laptopdns.dr3ff1c13nt.com^
 ||laqaodot.cc^
 ||laramieriverlodge.com^
+||large-dark-576.sz.games^
 ||large-sun-614.conwordable.com^
 ||largero.com^
 ||largestudyguide.com^
@@ -12533,18 +12542,22 @@
 ||proxy.searchfiles.de^
 ||proxy.sh^
 ||proxy.srs.su^
+||proxy.startpage.com^
 ||proxy.sx^
 ||proxy.vpner.com^
 ||proxy.wynd.network^
 ||proxy.yt^
 ||proxy0101.com^
 ||proxy1.startpage.com^
+||proxy2.startpage.com^
 ||proxy2u.net^
 ||proxy3.startpage.com^
+||proxy4.startpage.com^
 ||proxy4free.com^
 ||proxy4free.me^
 ||proxy4freedom.com^
 ||proxy5.net^
+||proxy5.startpage.com^
 ||proxy62.com^
 ||proxyadult.org^
 ||proxyapi.pot8o.dev^
@@ -13381,7 +13394,11 @@
 ||s1.s2.shahramv1.site^
 ||s1.srch.top^
 ||s1.yushuncompany.com^
+||s14-eu5.startpage.com^
 ||s14rdltz61tflufej500.online^
+||s15-us2.startpage.com^
+||s16-us2.startpage.com^
+||s17-us2.startpage.com^
 ||s1yuubk7t.online^
 ||s2.d3mik.ru^
 ||s3-oregon-1.s3-us-west-2.amazonaws.com^
@@ -13391,6 +13408,7 @@
 ||s4m.store^
 ||s4m.tech^
 ||s4m.xyz^
+||s5-us3.startpage.com^
 ||s57.top^
 ||s8.amazonaws.com.catbox.co^
 ||s8.amazonaws.jdymqic.shop^
@@ -14168,6 +14186,7 @@
 ||solace.elmvp.cl^
 ||solace.mills-family.us^
 ||solarsie.com^
+||solaxy.live^
 ||soleilvpn-app.com^
 ||solgorknh.justlearning.net^
 ||solidlogic.bostoncareercounselor.com^
@@ -14293,6 +14312,7 @@
 ||ssh-free.com^
 ||ssh-storage.ru^
 ||ssh-udp.me^
+||sshagan.net^
 ||sshd.me^
 ||sshdropbear.net^
 ||sshgofast.com^
@@ -14355,6 +14375,7 @@
 ||starlink9527.xyz^
 ||starnetclash.com^
 ||starruby.us^
+||starrynight.site^
 ||starscourage.autonomoconsultores.cl^
 ||starssh.com^
 ||starstar.cloud^
@@ -14878,6 +14899,7 @@
 ||theproxies.net^
 ||theproxy.dev^
 ||theproxy.ink^
+||theproxy.lol^
 ||theproxy.red^
 ||theproxy.vip^
 ||theproxy.work^
@@ -15253,6 +15275,7 @@
 ||tulanek.my^
 ||tungdnsne.duckdns.org^
 ||tunnel.googlezip.net^
+||tunnel4.com^
 ||tunnelbear.com^
 ||tunnelbear.s3.amazonaws.com^
 ||tunnelbearvpn.mom^
@@ -15290,6 +15313,7 @@
 ||twinwherehaveyoubeen.netlify.app^
 ||twtevsyz.com^
 ||twujw67676767.mooo.com^
+||tx.teradns.org^
 ||txqq.pro^
 ||tyagain.vercel.app^
 ||tycoonisthebest.freeddns.uk^
@@ -15372,6 +15396,7 @@
 ||ujlhjhklhlfigjh.dtgxfjkiokl.searchegpt.com^
 ||ujrmdtrq.cc^
 ||ujsrxts.com^
+||uk.teradns.org^
 ||uku.im^
 ||ukumlmrst0igs.online^
 ||ukvpns.blogspot.ru^
@@ -15388,6 +15413,7 @@
 ||ultrafastvpn.net^
 ||ultrafun.net^
 ||ultramatheducation.raspberryip.com^
+||ultraproxy.biz^
 ||ultrasurf.es^
 ||ultrasurf.us^
 ||ultrasurfing.com^
@@ -15504,6 +15530,7 @@
 ||unblockit.pro^
 ||unblockit.rsvp^
 ||unblockit.uno^
+||unblockitnow.com^
 ||unblockmate.com^
 ||unblockme.us^
 ||unblockmyweb.com^
@@ -15512,6 +15539,7 @@
 ||unblockprox.com^
 ||unblockproxy.me^
 ||unblockproxy.win^
+||unblocks.net^
 ||unblocksite.biz^
 ||unblocksite.fun^
 ||unblocksite.id^
@@ -15581,6 +15609,7 @@
 ||unsightly.calamarrradio.org^
 ||unstable.ignorelist.com^
 ||unsubscribed.ignorelist.com^
+||untraceable.us^
 ||untracer.com^
 ||uofjneeu.cc^
 ||uoltqswr.com^
@@ -15599,6 +15628,7 @@
 ||uproxy.io^
 ||uproxy.online^
 ||uproxy.top^
+||uproxy.vip^
 ||uproxy.xyz^
 ||uproxy2.biz^
 ||uproxy2.com^
@@ -15628,6 +15658,7 @@
 ||urnejesnejfndh.knowhowit.com.au^
 ||urology.wiki^
 ||us-ash-w-f-1.nashkan.net^
+||us-browse.startpage.com^
 ||us-central1-anku-e1b04.cloudfunctions.net^
 ||us-central1-prod-global-7vpn.cloudfunctions.net^
 ||us-central1-sky-cloud-6227a.cloudfunctions.net^
@@ -15647,6 +15678,7 @@
 ||us-nyc-w-f-1.nashkan.net^
 ||us-nyc-w-p-1.nashkan.net^
 ||us-proxy.org^
+||us-proxy.startpage.com^
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
 ||us-sj.foxyfy.net^
@@ -15659,6 +15691,7 @@
 ||us.novali.date^
 ||us.rslvr.eu^
 ||us.sc92.cn^
+||us1-browse.startpage.com^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
 ||us2-browse.startpage.com^
@@ -15666,6 +15699,7 @@
 ||us44nas.top^
 ||usa-proxy.org^
 ||usableprivacy.net^
+||usafastproxy.info^
 ||usaip.eu^
 ||usaip.net^
 ||usascholars.org^
@@ -15677,6 +15711,7 @@
 ||use-portal.com^
 ||use.bostoncareercounselor.com^
 ||use.edu.iownyour.org^
+||use.star.is^
 ||useast1.vps.night-x.com^
 ||user.bostoncareercounselor.com^
 ||userload.co^
@@ -15980,6 +16015,7 @@
 ||voidd.network^
 ||voidnettty.thanatos.com^
 ||voidnetwork.space.cdn.cloudflare.net^
+||voidnetwork.space^
 ||voidnrtowkr93urridudi.geetabasyal.com.np^
 ||voidtickets.xyz^
 ||voidvoidyesyes.ignorelist.com^
@@ -16087,6 +16123,7 @@
 ||vpn.swisscows.com^
 ||vpn.technicule.info^
 ||vpn.turbofast.io^
+||vpn.vosjes.cloud^
 ||vpn.zotus.ru^
 ||vpn0.mom^
 ||vpn0109.voodonline.fr^
@@ -16097,6 +16134,7 @@
 ||vpn131.com^
 ||vpn2.net^
 ||vpn2025.help^
+||vpn24.io^
 ||vpn247.net^
 ||vpn2ww.com^
 ||vpn365.app^
@@ -16172,6 +16210,7 @@
 ||vpnfi.help^
 ||vpnfly.mom^
 ||vpnfree.info^
+||vpngame.com^
 ||vpngame.help^
 ||vpngate.homes^
 ||vpngate.jp^
@@ -16466,6 +16505,7 @@
 ||wapak.wapak.fun^
 ||warawarexeza34216547.easterndns.com^
 ||warning.blackguy.warning.cx^
+||warninglog.com^
 ||warp-vpn.lol^
 ||warpproxy.com^
 ||wary-fan.surge.sh^
@@ -16539,6 +16579,7 @@
 ||webedg.net^
 ||webevade.com^
 ||webfusiones.com^
+||webjax.ir^
 ||weblockapp.com^
 ||weboproxy.com^
 ||webpro.xyz^
@@ -16554,6 +16595,7 @@
 ||webproxy.to^
 ||webproxy.uk.com^
 ||webproxy.us.com^
+||webproxy.us^
 ||webproxyusa.com^
 ||webrtc5.gvideo.co^
 ||webserverrtp.goip.de^
@@ -16653,6 +16695,7 @@
 ||whyarewearewhatarewearewhatarewe.dinprima.ro^
 ||whydidtheydoitrosin.olneybaptist.org^
 ||whyiswritingsobad.badgrade6741.greenfieldhk.org^
+||whyproxy.com^
 ||whywastherealinkforluminalcalledbigdih.mahesh-khanal.com.np^
 ||wicrypt.com^
 ||wide-eagle-601.guesstheanimal.org^
@@ -16682,6 +16725,7 @@
 ||wikipedia-s.easterndns.com^
 ||wikivpn.org^
 ||wiksa.com^
+||wild-moon-986.sz.games^
 ||wildcard.instructure.site^
 ||wildcard.khsonthespot.com^
 ||wildcard.oaklandscioly.org^
@@ -16828,6 +16872,7 @@
 ||www-admin.mehtionthebeat.com^
 ||www-crizzler.stilxvr.com^
 ||www-croxy.ghgi.site^
+||www-g.ggtbg.art^
 ||www-learn.wafflenetwork.net^
 ||www-letsvpn-app.com^
 ||www-letsvpn.com^
@@ -17369,6 +17414,8 @@
 ||xn--i8sz42af0t3gm.com^
 ||xn--i8sz42aukrmna.com^
 ||xn--imm-qr6el54e.com^
+||xn--infiniport-cn3r594m.com^
+||xn--ios-x03f946a09d.com^
 ||xn--justmysocks-pr1t577n.com^
 ||xn--justmysocks-yh8u864d2q7c.com^
 ||xn--kbt314a76igqcrwn.com^
