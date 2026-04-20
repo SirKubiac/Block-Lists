@@ -2,7 +2,6 @@
 ||0.6gpaactivities.pce-cihazlari.com.tr^
 ||0.6gpaactivities.pulsaudio.ro^
 ||000000555.xyz^
-||001.smallnode.net^
 ||003153.xyz^
 ||01100010011011000110111101100011011010110110110101100101.zone.id^
 ||02akgaayi2fi3xkdi13s0jtxj.online^
@@ -2284,7 +2283,6 @@
 ||bifenggangssr.com^
 ||big.tent.cloud-ip.cc^
 ||bigairportgw.com^
-||bigantfarm.thejeremybecker.com^
 ||bigbang.pics.cdn.cloudflare.net^
 ||bigbang.pics^
 ||bigbugpoppearblack.super-modding.quest^
@@ -2781,7 +2779,6 @@
 ||canva.onnemaa.ee^
 ||canvas-math-tools.firebaseapp.com^
 ||canvas-math-tools.web.app^
-||canvas-signup-rn.shela.nu^
 ||canvas.2028.cl^
 ||canvas.com.primeflk.ch^
 ||canvas.homeonthewater.com^
@@ -5066,7 +5063,6 @@
 ||dns.qrtz.club^
 ||dns.quanhd.net^
 ||dns.quickline.ch^
-||dns.quickso.cn^
 ||dns.quiet.rocks^
 ||dns.ramansarda.com^
 ||dns.ramsky.my.id^
@@ -6035,7 +6031,6 @@
 ||edgex-102.xyz^
 ||edgex.trafficmanager.net^
 ||edgy-dns.com^
-||edison.smartinnovation.md^
 ||editor.codingwizard.website^
 ||editor.primeent.in^
 ||editorialescelistina.click^
@@ -6317,7 +6312,6 @@
 ||ewrthyyhjterrxftyuhujtdr-6-udthvb-6-beta.vercel.app^
 ||example.myclarevision.com^
 ||excavationdash.space^
-||excel.theme.ryansilvester.com^
 ||excelatreading.essexregional.org^
 ||excelkin.online^
 ||excitement.registration.abrdns.com^
@@ -7412,7 +7406,6 @@
 ||goguardian-is-ass.oneuniversity.info^
 ||goguardian-is-not-my-guardian.easterndns.com^
 ||goguardian-vs-iboss.com.crabdance.com^
-||goguardianlearning.shela.nu^
 ||goguardianyouaremakingmemad.staglin.hr^
 ||gogurdianw9e7disjw3iehei.thepresenttraveller.com^
 ||gohahaclash.com^
@@ -8115,7 +8108,6 @@
 ||historyforcoolkidz.wanhuiarchitect.com^
 ||historyforus.smelly.cc^
 ||historyhikequest.club^
-||historyofutopia.orekhov.space^
 ||hisuper.net^
 ||hit-proxy.com^
 ||hit-vpn.com^
@@ -8791,7 +8783,6 @@
 ||iq4nrowd.online^
 ||iqbbhmzh.com^
 ||iqia.org^
-||iqtest.shela.nu^
 ||irckyb7t9a.com^
 ||ire.danielfreyr.com^
 ||ireallyloveschool.hobbygame.dev^
@@ -11526,7 +11517,6 @@
 ||ohgodplease.help^
 ||ohubhsvf.com^
 ||ohvc.aluminiosnelugo.pt^
-||ohzavie2.xyz^
 ||oijkmuiojk.yhujnmok.dingsheng-yule.com^
 ||oipoi.e-cycletechnologies.org^
 ||oixaqgnk.com^
@@ -11581,7 +11571,6 @@
 ||onion.lt^
 ||onion.lu^
 ||onion.ly^
-||onion.nu^
 ||onion.rip^
 ||onion.sh^
 ||onion.to^
@@ -11726,7 +11715,6 @@
 ||ozerix.ru^
 ||p-kuailian.com.cn^
 ||p-kuailian.com^
-||p-nation.testing4fun.xyz^
 ||p2p-app-bot.com^
 ||p8kvxbddeutb.online^
 ||p8s937bfmenshm4qqtb78u.ddnsfree.com^
@@ -11745,7 +11733,6 @@
 ||pafcaw.com^
 ||pagecloud.space^
 ||paimist.com^
-||painee2a.xyz^
 ||paku.f5.si^
 ||pakupaku.bounceme.net^
 ||paladinvpn.com^
@@ -11840,7 +11827,6 @@
 ||pbyesgzh.cc^
 ||pc-kuailian.cn^
 ||pc-kuailian.net^
-||pc-lets.com^
 ||pc-letsvpn.com^
 ||pc-streaming.com^
 ||pcb7767.easterndns.com^
@@ -12363,7 +12349,6 @@
 ||proxtrot.com^
 ||proxtube.com^
 ||proxy-123.com^
-||proxy-2014.com^
 ||proxy-best.com^
 ||proxy-bypass.com^
 ||proxy-cheap.com^
@@ -12794,7 +12779,6 @@
 ||quotivatehub.com^
 ||qusr.jumpingcrab.com^
 ||qustano.xyz^
-||quwpuslemw.online^
 ||qv2ray.org^
 ||qvkyjkus.cc^
 ||qwclash.com^
@@ -12865,7 +12849,6 @@
 ||raininglondon.com^
 ||rainshadow.help^
 ||raiseyouryayaya.katan.ro^
-||raj.pw^
 ||rajgdpqu.com^
 ||raldrix.ru^
 ||raltrix.ru^
@@ -13523,7 +13506,6 @@
 ||sebby.math.games.infotechnology.com^
 ||sec-tunnel.com^
 ||sec.iamninja.ru^
-||secondbackupdomain.com^
 ||secretbrowser.net^
 ||secrethifixie.com^
 ||secretproxy.org^
@@ -13825,6 +13807,7 @@
 ||shihui992.com^
 ||shijieyunxz.com^
 ||shinano.anime.com.my^
+||shitblocker.com^
 ||shoolikedimnatoqourus.aiq-test.ru^
 ||shop-books-school.vercel.app^
 ||shop.aeroantenna.com^
@@ -14573,7 +14556,6 @@
 ||tagvpnglobal.com^
 ||tagweb.vip^
 ||tagxx.vip^
-||taicha5.online^
 ||tailnet.ru^
 ||tailscale.com^
 ||taishan.pro^
@@ -14990,7 +14972,6 @@
 ||totorocloud.info^
 ||totorocloud.net^
 ||totorocloud.org^
-||touch-vpn.net^
 ||touching.diddy.men^
 ||touchvpn.net^
 ||touhou.tel^
@@ -15184,7 +15165,6 @@
 ||type-v7.instadownloader.site^
 ||type-v8.instadownloader.site^
 ||type-v9.instadownloader.site^
-||type.shela.nu^
 ||typeanything.gmsgroup.app^
 ||typeracer.gq^
 ||typhlophile.karrozzin.cloud-ip.cc^
@@ -15452,7 +15432,6 @@
 ||unmoor.com^
 ||uno.chippytime.com^
 ||unp.im^
-||unplatonicallydiybt.theantzfarm.space^
 ||unraid.dedyn.io^
 ||unrestrictedsurf.com^
 ||unrestricter.com^
