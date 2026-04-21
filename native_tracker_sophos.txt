@@ -2372,6 +2372,7 @@ sms-ads-in.heytapmobile.com
 sms-ads-ru.heytapmobile.com
 sn-ad-lgsmartad-com.aws-prd.net
 sn.lgsmartad.com
+sponsored-ads-fe.amazon-adsystem.com
 sq-tungsten-ts-eu.amazon-adsystem.com
 sq-tungsten-ts-fe.amazon-adsystem.com
 sq-tungsten-ts.amazon-adsystem.com
