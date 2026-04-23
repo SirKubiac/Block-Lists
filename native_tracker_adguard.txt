@@ -929,6 +929,7 @@
 ||fj-ad-lgsmartad-com.aws-prd.net^
 ||flash.sec.intl.miui.com^
 ||flash.sec.miui.com^
+||flirfvysba2opz0zmzqs5iuiad.apple.com^
 ||flow.sec.miui.com^
 ||fls-cn.amazon-adsystem.com^
 ||fls-cn.amazon.cn^
@@ -2373,6 +2374,7 @@
 ||sn-ad-lgsmartad-com.aws-prd.net^
 ||sn.lgsmartad.com^
 ||sponsored-ads-fe.amazon-adsystem.com^
+||sponsored-ads-na.amazon-adsystem.com^
 ||sq-tungsten-ts-eu.amazon-adsystem.com^
 ||sq-tungsten-ts-fe.amazon-adsystem.com^
 ||sq-tungsten-ts.amazon-adsystem.com^
