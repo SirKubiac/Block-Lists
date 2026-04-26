@@ -2459,6 +2459,7 @@
 ||bio.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||bio.know.samyagan.com^
 ||bio.learn.mouse-hole.com^
+||biolabshop.cc^
 ||biolicious.online^
 ||biology.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||biology.ndr.cl^
@@ -12732,6 +12733,7 @@
 ||personalvpn.com^
 ||personaly.click^
 ||pervilo.ru^
+||pesoalbay.live^
 ||petenirbyte.lczipper.com^
 ||petervpn.com^
 ||petezah.pages.dev^

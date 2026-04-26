@@ -2373,6 +2373,7 @@ sms-ads-in.heytapmobile.com
 sms-ads-ru.heytapmobile.com
 sn-ad-lgsmartad-com.aws-prd.net
 sn.lgsmartad.com
+sonar.prime-video.amazon.dev
 sponsored-ads-fe.amazon-adsystem.com
 sponsored-ads-na.amazon-adsystem.com
 sq-tungsten-ts-eu.amazon-adsystem.com
