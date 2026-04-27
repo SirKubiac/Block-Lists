@@ -2693,6 +2693,7 @@
 ||bright-vpn.help^
 ||bright4good.eco^
 ||brightcoding.hotelconsuladoinn.com^
+||brightdata-app-production-app-bucket.s3.us-east-1.amazonaws.com^
 ||brightdata.com^
 ||brightfuture.bostoncareercounselor.com^
 ||brightfuture.ltu.one.pl^
