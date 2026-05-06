@@ -1165,7 +1165,6 @@ il.lgsmartad.com
 image.box.xiaomi.com
 image.cdn.mvideo.xiaomi.com
 image.cdn.pandora.xiaomi.com
-images.chbusiness.samsung.com
 images.frbusiness.samsung.com
 images.it.business.samsung.com
 images.partnersupport.samsung.com
