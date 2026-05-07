@@ -162,6 +162,8 @@ ads-frontier.tiktok.com
 ads-ie.tiktokw.eu
 ads-service.tiktok.com
 ads-setu-proxy-eu.amazon.com
+ads-setu-proxy-fe.amazon.com
+ads-setu-proxy.amazon.com
 ads-sg.tiktok.com
 ads-ttp2.tiktokw.eu
 ads-ttp2.us.tiktok.com
@@ -169,6 +171,7 @@ ads-us-east-1.delivery.roku.com
 ads-us-east-2.delivery.roku.com
 ads-us-west-2.delivery.roku.com
 ads-useast2a.tiktok.com
+ads.amazon.com
 ads.beta.roku.com
 ads.cloud.huawei.com
 ads.gcp.roku.com
