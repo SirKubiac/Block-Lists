@@ -160,6 +160,7 @@ ads-drcn.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
 ads-frontier.tiktok.com
 ads-ie.tiktokw.eu
+ads-ru.tiktok.com
 ads-service.tiktok.com
 ads-setu-proxy-eu.amazon.com
 ads-setu-proxy-fe.amazon.com
@@ -273,6 +274,7 @@ analytics-exp-ru.tiktok.com
 analytics-exp-sg.tiktok.com
 analytics-exp-ttp2.tiktokw.eu
 analytics-exp.us.tiktok.com
+analytics-exp16-normal-useastred.tiktokw.eu
 analytics-i18n.tiktok.com
 analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
