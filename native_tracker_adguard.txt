@@ -188,6 +188,7 @@
 ||ads.tiktok.tv^
 ||ads.us.tiktok.com^
 ||ads16-normal-useastred.tiktokw.eu^
+||adsbdfsiad-704007db1.heytapmobi.com^
 ||adservices.roku.com^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.oppomobile.com^
