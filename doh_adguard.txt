@@ -189,6 +189,7 @@
 ||15.204.247.166.sslip.io^
 ||15.204.247.166.traefik.me^
 ||1510105283.rsc.cdn77.org^
+||15151istrash.space^
 ||152-53-170-32.backname.io^
 ||152-53-170-32.nip.io^
 ||152-53-170-32.plesk.page^
@@ -702,6 +703,7 @@
 ||ababi-nimma.cf^
 ||abc123.welltypers.it.com^
 ||abcde.sigma.chickenkiller.com^
+||abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com^
 ||abcmathforkids.jumpingcrab.com^
 ||abcproxy.com^
 ||abel.waringer-atg.de^
@@ -3305,6 +3307,7 @@
 ||clever-error-logging-in.web.app^
 ||clever-math.v119.com^
 ||clever-vpn.net^
+||clever.com.mooo.com^
 ||clever.com.saintsparky.org^
 ||clever.com.santi.craftleds.com^
 ||clever.comm.meridianoshop.com.br^
@@ -5596,6 +5599,7 @@
 ||doggygo.xyz^
 ||dogitapp.net^
 ||dogouji.com^
+||dogpog.xyz^
 ||dogreenapp.com^
 ||dogta5.com^
 ||dogvpn.me^
@@ -5702,6 +5706,7 @@
 ||doh.max.net.id^
 ||doh.mcasviper.de^
 ||doh.meetz.pw^
+||doh.micronets.in^
 ||doh.mmmalia.com^
 ||doh.mochou.site^
 ||doh.moorecloud.id^
@@ -6111,6 +6116,7 @@
 ||easychiji.com^
 ||easychinaapp.com^
 ||easyclash.com^
+||easycoding.manutec.co^
 ||easycomet.com^
 ||easycyberpunk.com^
 ||easydaishu.com^
@@ -6575,6 +6581,7 @@
 ||ewkimppj.com^
 ||ewon.biz^
 ||ewrthyyhjterrxftyuhujtdr-6-udthvb-6-beta.vercel.app^
+||example.myclarevision.com^
 ||excavationdash.space^
 ||excelatreading.essexregional.org^
 ||excelkin.online^
@@ -7365,6 +7372,7 @@
 ||freedomun.netlify.app^
 ||freeeuroproxy.com^
 ||freehiddenvpn.gq^
+||freelearn.myclarevision.com^
 ||freelux.world^
 ||freememan.canalcoruna.es^
 ||freemicvpn.com^
@@ -7848,6 +7856,7 @@
 ||gofundme.allisons.org^
 ||gog.xena.wtf^
 ||goga7777777.bissnes.org^
+||gogardiansucks.myclarevision.com^
 ||gogaurdian.eminescusm.ro^
 ||gogocloud.cyou^
 ||gogogolets.com^
@@ -8940,6 +8949,7 @@
 ||i.dns-over-https.tk^
 ||i.friggin.farted.net^
 ||i.hate.fink.baumgardner.us^
+||i.myclarevision.com^
 ||i2p-projekt.de^
 ||i2pd.xyz^
 ||i4frgxs0s5.execute-api.us-east-1.amazonaws.com^
@@ -9783,6 +9793,7 @@
 ||kecawnb.cn^
 ||keenbio.artmuseum.org^
 ||keenenglish.hotelconsuladoinn.com^
+||keenliterature.manutec.co^
 ||keenlogic.banglaraloprotidin.com^
 ||keenow.com^
 ||keenscience.startechcomputacion.com^
@@ -10389,6 +10400,7 @@
 ||learn.infotechnology.com^
 ||learn.kugya.com^
 ||learn.logic.metaure.com^
+||learn.myclarevision.com^
 ||learn.neweconomics.net.nz^
 ||learn.piano.workoutlawyers.com^
 ||learn.readymindit.com^
@@ -10657,6 +10669,7 @@
 ||linen.freeddns.org^
 ||linewize9w8didjdsowjsi.clocking.ro^
 ||linewizenet.easterndns.com^
+||linewizesucks.myclarevision.com^
 ||linghun999.com^
 ||linguistics.discovergeographics.com^
 ||link-five.ibewlocalzero.com^
@@ -10688,6 +10701,7 @@
 ||lite.kje.us^
 ||litebrowser.net^
 ||literacyadventures.com^
+||literally.info^
 ||litevpn.app^
 ||litevpn.top^
 ||littlepiggies571s.tvjumbleanswers.com^
@@ -10732,6 +10746,7 @@
 ||lo.h2tmt.cn^
 ||load.registration.abrdns.com^
 ||loadlow.me^
+||loan.paymdm.xyz^
 ||lobravo.ru^
 ||locabrowser.com^
 ||localto.net^
@@ -10789,6 +10804,7 @@
 ||loungef2x.github.io^
 ||loungef2x.global.ssl.fastly.net^
 ||loungef2x.web.app^
+||lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com^
 ||lousiana-history-careers-ixl-geoly-education.spacetechnology.net^
 ||loverecoveryfun.gustoswebsite.com^
 ||loxch.com^
@@ -10841,6 +10857,7 @@
 ||lunqaro.ru^
 ||luppa.loan^
 ||luqkhccn.com^
+||lurk.info^
 ||lusefage.korunovacneslavnosti.sk^
 ||luxembourg.privacy-dns.pw^
 ||luxerno.xyz^
@@ -10924,6 +10941,7 @@
 ||maqgie.xyz^
 ||maradns.org^
 ||marjifx.club^
+||marko1oko.online^
 ||marnovx.xyz^
 ||maroon.momentos.com.ar^
 ||marslink.cc^
@@ -11159,6 +11177,7 @@
 ||midsyland.0x.no^
 ||mifengjsd.com^
 ||mifengxz.com^
+||migz.store^
 ||mihomo-party.org^
 ||mijoregner.de^
 ||mikatos.de^
@@ -11230,6 +11249,10 @@
 ||mobtrix.lol^
 ||moc.ecnadbarc.crabdance.com^
 ||moc.scinortele-ytilauq.quality-electronics.com^
+||mochiser1.com^
+||mochiss.xyz^
+||mochiss2.xyz^
+||mochiss3.xyz^
 ||mockblock.com^
 ||moct.cloud^
 ||mod.nogridco.com^
@@ -11423,6 +11446,7 @@
 ||mqkqwy1z.baylib.top.cdn.cloudflare.net^
 ||mqmpjgii.online^
 ||mrakfhre.com^
+||mramato2.myclarevision.com^
 ||mrbuwfks.com^
 ||mrcrossmathhelp.oresumodaopera.com.br^
 ||mrdomthebomb.chikiyan.cl^
@@ -12514,6 +12538,7 @@
 ||papervpn.top^
 ||papi.fusionsai.net^
 ||par-vino.ru^
+||paradise-human.shop^
 ||paranoia.mydns.network^
 ||parsa.dpdns.org^
 ||partmo5.xyz^
@@ -12581,6 +12606,7 @@
 ||penphone92.com^
 ||penrepair.us^
 ||peoplesproxy.com^
+||pepetio.xyz^
 ||perceivethesis.com^
 ||perceptrons.xyz^
 ||perdona.my.twilightparadox.com^
@@ -12678,6 +12704,7 @@
 ||pipster.org^
 ||pipster.ru^
 ||pipstervpn.help^
+||piraproxy.org^
 ||piratebayproxy.co^
 ||piro.live^
 ||pirzjdlz.com^
@@ -12947,6 +12974,7 @@
 ||prep.ela.okoloko.one.pl^
 ||prep.skills.stabbed.me^
 ||presidentalhistory.wiki^
+||prettycoolmath.com^
 ||prevent.run^
 ||prflux.xyz^
 ||prgoorzz.cc^
@@ -12991,6 +13019,7 @@
 ||pro-tower.com^
 ||pro.shecan.ir^
 ||pro0oxy.blogspot.com^
+||proalgebra.manutec.co^
 ||proariel.dns-dynamic.net^
 ||prodigy-learning.v119.com^
 ||prodigy-math4.blindatech.cl^
@@ -13144,6 +13173,7 @@
 ||proxybrowser.app^
 ||proxybrowser.co^
 ||proxybrowser.github.io^
+||proxybrowser.info^
 ||proxybrowser.org^
 ||proxybrowser.xyz^
 ||proxybrowsing.com^
@@ -13578,6 +13608,7 @@
 ||ram.kunar.baby^
 ||ramadaramada.surfnet.ca^
 ||ramen.vandrekalenderen.dk^
+||rameo.myclarevision.com^
 ||ramivo.ru^
 ||ramjam.pythontheproto.com^
 ||ramm-ume-pro.swanndvr.net^
@@ -13641,6 +13672,7 @@
 ||rbzbihej.cc^
 ||rc-1140.martingrubinger.at^
 ||rc-1140.probac.cl^
+||rc-1207.myclarevision.com^
 ||rcpc2.duckdns.org^
 ||rcsm.ir^
 ||rctproxy-shadow10.easterndns.com^
@@ -14341,6 +14373,7 @@
 ||sevengain.com^
 ||sevenlaks.mooo.com^
 ||sevenlaks.omprakashyadav.com.np^
+||sewage.myclarevision.com^
 ||sf-helper.com^
 ||sf.cefsk.ca^
 ||sfa2kddffd9nlvf3vjg7a.online^
@@ -16229,6 +16262,7 @@
 ||use-portal.com^
 ||use.bostoncareercounselor.com^
 ||use.edu.iownyour.org^
+||use.manutec.be^
 ||use.star.is^
 ||useast1.vps.night-x.com^
 ||user.bostoncareercounselor.com^
@@ -16388,6 +16422,7 @@
 ||vapor.my.cdn.cloudflare.net^
 ||vapor.onl^
 ||vapor.techno.pics^
+||vaporgithub.pages.dev^
 ||vaporized.help^
 ||vaporon.top.cdn.cloudflare.net^
 ||vaporon.top^
