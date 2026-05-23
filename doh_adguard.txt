@@ -5505,6 +5505,7 @@
 ||doh.xfinity.com^
 ||doh.xorlet.ru^
 ||doh.xyz^
+||doh.zephyrus.id^
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
 ||doh003.280blocker.net^
@@ -15727,6 +15728,7 @@
 ||villi.shurakenas.ru^
 ||vilor.site^
 ||vimstera.xyz^
+||vinny-stinks-like-dudu.com^
 ||vipdownloadmena.xyz^
 ||vipfive.xyz^
 ||vipfour.xyz^
