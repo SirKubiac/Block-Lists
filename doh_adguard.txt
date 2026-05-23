@@ -16693,7 +16693,6 @@
 ||www-vpn.52oupa.com^
 ||www-web.sshub.win^
 ||www-web.veranon.io^
-||www-webprxsvc.drewcotech.com^
 ||www-yt.nikooo.ir^
 ||www-yy.in6.to^
 ||www.3.theartieschaffer.com^
