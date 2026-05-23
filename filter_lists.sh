@@ -22,7 +22,6 @@ ads_tracker_url_adguard=(
     "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt"
     "https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt"
     "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"
-    ""
 )
 
 # URL for AMP blocklist
