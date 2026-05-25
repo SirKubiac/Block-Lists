@@ -185,7 +185,6 @@ ads.tiktok.in
 ads.tiktok.tv
 ads.us.tiktok.com
 ads16-normal-useastred.tiktokw.eu
-adsbdfsiad-704007db1.heytapmobi.com
 adservices.roku.com
 adsfs-sdkconfig.heytapimage.com
 adsfs.oppomobile.com
@@ -425,6 +424,7 @@ at.lgsmartad.com
 atfe.amazon-adsystem.com
 atue.amazon-adsystem.com
 au-ad-lgsmartad-com.aws-prd.net
+au-vcode-od.vivoglobal.com
 au.ff.avast.sec.miui.com
 au.lgsmartad.com
 auth.api.gitv.tv
@@ -556,6 +556,7 @@ chong.sec.miui.com
 ci-ad-lgsmartad-com.aws-prd.net
 ci.lgsmartad.com
 cl-ad-lgsmartad-com.aws-prd.net
+cl-vcode-od.vivoglobal.com
 cl.lgsmartad.com
 classify-app-eu.allawnos.com
 classify-app-in.allawnos.com
@@ -1271,10 +1272,12 @@ kz-onrt-stsdk.vivoglobal.com
 kz-ort-stsdk.vivoglobal.com
 kz-pnrt-stsdk.vivoglobal.com
 kz-prt-stsdk.vivoglobal.com
+kz-romsp-unifyconfig.vivoglobal.com
 kz-st-exappupgrade.vivoglobal.com
 kz-st-sl.vivoglobal.com
 kz-st-sysupgrade.vivoglobal.com
 kz-stsdk.vivoglobal.com
+kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
 kz.lgsmartad.com
@@ -2287,11 +2290,13 @@ sau-server-eu.allawnos.com
 sau-server-in.allawnos.com
 sau-server-sg.allawnos.com
 sau-server-us.allawnos.com
+sca-cota.vivoglobal.com
 sca-domaincfg.vivoglobal.com
 sca-err-up.vivoglobal.com
 sca-onrt-stsdk.vivoglobal.com
 sca-ort-stsdk.vivoglobal.com
 sca-p.vivoglobal.com
+sca-pnrt-stsdk.vivoglobal.com
 sca-romsp-unifyconfig.vivoglobal.com
 sca-st-sl.vivoglobal.com
 sca-stsdk.vivoglobal.com
