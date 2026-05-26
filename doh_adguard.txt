@@ -13795,7 +13795,6 @@
 ||sitenable.com^
 ||sitenable.in^
 ||sitenable.org^
-||sitescrack.host^
 ||sitespeedtest.net^
 ||sitesunblocked.com^
 ||siteunblock.org^
@@ -14821,6 +14820,9 @@
 ||towervpn.com^
 ||town.charlestonwvhotel.com^
 ||toxicology.biologyscholar.org^
+||tproxy.ink^
+||tproxy.mom^
+||tproxyru.live^
 ||tpymainx01.ru^
 ||tq8izzzrqtktkdoarptl3u.online^
 ||tqqzrbjd.com^
@@ -16588,6 +16590,7 @@
 ||www-reflect4.buachi.work^
 ||www-rf4.forestberrypi.com^
 ||www-server.freewebsproxy.com^
+||www-testus.spiderprx.com^
 ||www-theweb.deersserverhosting.com^
 ||www-vpn.52oupa.com^
 ||www-web.sshub.win^
