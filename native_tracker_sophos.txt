@@ -558,6 +558,7 @@ chong.sec.miui.com
 ci-ad-lgsmartad-com.aws-prd.net
 ci.lgsmartad.com
 cl-ad-lgsmartad-com.aws-prd.net
+cl-vcode-od.vivoglobal.com
 cl.lgsmartad.com
 classify-app-eu.allawnos.com
 classify-app-in.allawnos.com
@@ -1298,6 +1299,7 @@ lk-ad-lgsmartad-com.aws-prd.net
 lk.lgsmartad.com
 location-i18n.tiktokv.com
 location-sg.tiktokv.com
+location-ttp2.tiktokv.eu
 location-ttp2.us.tiktokv.com
 location-v6-i18n.tiktokv.com
 location-v6-ru.tiktokv.com

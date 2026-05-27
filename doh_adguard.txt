@@ -5333,6 +5333,7 @@
 ||doh-03.spectrum.com^
 ||doh-2.seby.io^
 ||doh-ca.naftalie.net^
+||doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||doh-lb-atl.dnsflex.com^
 ||doh-lb-br.dnsflex.com^
@@ -5480,6 +5481,7 @@
 ||doh.us.moe.tips^
 ||doh.valscosmos.com^
 ||doh.viatech.com.tw^
+||doh.vpsdns.co.za^
 ||doh.webnmail.de^
 ||doh.wewitro.net^
 ||doh.xcom.pro^
