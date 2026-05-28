@@ -854,6 +854,7 @@
 ||ehg-samsungusa.hitbox.com^
 ||eic-ngfts.lge.com.edgekey.net^
 ||eic-ngfts.lge.com^
+||eic-qt2-ngfts.lge.com^
 ||emq.xmpush.xiaomi.com^
 ||epoch-id.cdo.heytapmobi.com^
 ||err-up.vivoglobal.com^
