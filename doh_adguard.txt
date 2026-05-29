@@ -5462,6 +5462,7 @@
 ||doh.sa-sa.eu^
 ||doh.sb^
 ||doh.seby.io^
+||doh.serverhost.no^
 ||doh.sidnlabs.nl^
 ||doh.sublime9.xyz^
 ||doh.suche.org^
@@ -16555,7 +16556,6 @@
 ||www-admin.mehtionthebeat.com^
 ||www-crizzler.stilxvr.com^
 ||www-croxy.ghgi.site^
-||www-g.ggtbg.art^
 ||www-kuaifan.cn^
 ||www-learn.wafflenetwork.net^
 ||www-letsvpn-app.com^
