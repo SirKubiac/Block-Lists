@@ -166,12 +166,14 @@
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-setu-proxy-fe.amazon.com^
 ||ads-setu-proxy.amazon.com^
+||ads-sg.business-tiktok.com^
 ||ads-sg.tiktok.com^
 ||ads-ttp2.tiktokw.eu^
 ||ads-ttp2.us.tiktok.com^
 ||ads-us-east-1.delivery.roku.com^
 ||ads-us-east-2.delivery.roku.com^
 ||ads-us-west-2.delivery.roku.com^
+||ads-va.business-tiktok.com^
 ||ads.amazon.com^
 ||ads.beta.roku.com^
 ||ads.cloud.huawei.com^

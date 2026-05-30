@@ -6128,6 +6128,7 @@
 ||electronic.easycharge-batteries.com^
 ||elephantvpn.com^
 ||eleven.observer^
+||elevenproxy.pro^
 ||elgatobypasses.org^
 ||eliatofani.ovh^
 ||elite-s3-bucket.s3.amazonaws.com^
@@ -11151,6 +11152,7 @@
 ||netq.me^
 ||netscop.net^
 ||netsky.club^
+||nettunnel.online^
 ||netvora.space^
 ||netvpn.app^
 ||netvpn.us^
