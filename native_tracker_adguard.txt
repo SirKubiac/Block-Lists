@@ -2638,6 +2638,7 @@
 ||upgrade.pandora.xiaomi.com^
 ||upu.samsungelectronics.com^
 ||ureca.samsungapps.com^
+||url4077.ads-service.tiktok.com^
 ||us-ad-lgsmartad-com.aws-prd.net^
 ||us.lgsmartad.com^
 ||userdata.dev.sr.roku.com^
