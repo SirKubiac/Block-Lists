@@ -8,7 +8,6 @@
 ||a.market.xiaomi.com^
 ||a.union.mi.com^
 ||a.union.xiaomi.com^
-||a0.app.xiaomi.com^
 ||aan.amazon.co.jp^
 ||aan.amazon.co.uk^
 ||aan.amazon.com^
@@ -353,9 +352,12 @@
 ||api.us-west-2.aiv-delivery.net^
 ||api.vip.miui.com^
 ||api.xmpush.global.xiaomi.com^
+||api.xmpush.xiaomi.com^
 ||apkrep.ff.avast.sec.miui.com^
 ||app.greengurad.sec.miui.com^
+||app.migc.xiaomi.com^
 ||app.miui.com^
+||app.xiaomi.com^
 ||appconf-ocs-eu.heytapdl.com^
 ||appconf-ocs-in.heytapdl.com^
 ||appconf-ocs-sgp.heytapdl.com^
@@ -523,7 +525,6 @@
 ||bz.lgsmartad.com^
 ||c.amazon-adsystem.com^
 ||c3-bgp.pandora.xiaomi.com^
-||c3.api.xmpush.xiaomi.com^
 ||c3mini.pandora.xiaomi.com^
 ||ca-ad-lgsmartad-com.aws-prd.net^
 ||ca.lgsmartad.com^
@@ -771,7 +772,6 @@
 ||da-cdn.amazon-adsystem.com^
 ||data.game.xiaomi.com^
 ||data.hicloud.com^
-||data.mistat.xiaomi.com^
 ||data.sec.intl.miui.com^
 ||data.sec.miui.com^
 ||databeacon.apple.com^
@@ -980,7 +980,6 @@
 ||fr-register.xmpush.global.xiaomi.com^
 ||fr.feedback.xmpush.global.xiaomi.com^
 ||fr.lgsmartad.com^
-||fr.resolver.msg.global.xiaomi.net^
 ||frontier-i18n.tiktokv.com^
 ||frontier-my2.tiktokv.com^
 ||frontier-ru.tiktokv.com.edgekey.net^
@@ -1118,7 +1117,6 @@
 ||i-sg01a.ocloud.heytapmobi.com^
 ||i-th.browser.heytapmobile.com^
 ||i-vn.browser.heytapmobile.com^
-||i.api.xmpush.xiaomi.com^
 ||i.snssdk.com^
 ||i.xiaomi.com^
 ||iad-apple.com.akadns.net^
@@ -1296,7 +1294,6 @@
 ||lbs-samsung.swypeconnect.com^
 ||lc.lgsmartad.com^
 ||lg-bgp-misc.pandora.xiaomi.com^
-||lg.api.xmpush.xiaomi.com^
 ||lgads.tv^
 ||li-ad-lgsmartad-com.aws-prd.net^
 ||live-video-log16-normal-alisg.tiktokv.com^
@@ -1679,6 +1676,7 @@
 ||mistat.rus.xiaomi.com.ksyna.net^
 ||mistat.rus.xiaomi.com^
 ||mistat.xiaomi.com.download.ks-cdn.com^
+||mistat.xiaomi.com^
 ||miui-l7-data-other-c3.pt.miui.com^
 ||miui-l7-data-other.pt.miui.com^
 ||miui.net^
@@ -1696,7 +1694,6 @@
 ||moa-upload-online.coloros.com^
 ||moa-upload-sg.allawnos.com^
 ||moai-dev-samsung.com^
-||mob.api.xmpush.xiaomi.com^
 ||mob.pandora.xiaomi.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||mon-boot.capcutapi.com^
@@ -2071,6 +2068,7 @@
 ||report.n.xiaomi.com^
 ||resolver.gslb.mi-idc.com^
 ||resolver.mi.xiaomi.com^
+||resolver.msg.global.xiaomi.net^
 ||rnd-cbgpas01.huawei.com^
 ||ro-ad-lgsmartad-com.aws-prd.net^
 ||ro-up.vivoglobal.com^
@@ -2436,7 +2434,6 @@
 ||sticker-service-in.allawnos.com^
 ||stocks-analytics-events.apple.com^
 ||stocks-analytics-events.news.apple-dns.net^
-||storeconfig.mistat.xiaomi.com^
 ||storedl1.nearme.com.cn^
 ||storedl3f.nearme.com.cn^
 ||storedl4f.nearme.com.cn^
@@ -2453,7 +2450,6 @@
 ||sys.intl.xiaomi.com^
 ||sys.tv.india.xiaomi.com^
 ||sz-ad-lgsmartad-com.aws-prd.net^
-||t.app.xiaomi.com^
 ||t1.market.xiaomi.com^
 ||t15.market.xiaomi.com^
 ||t17.market.xiaomi.com^
@@ -2589,7 +2585,6 @@
 ||tsearch.snssdk.com^
 ||tt-ad-lgsmartad-com.aws-prd.net^
 ||tt.lgsmartad.com^
-||tv.app.migc.xiaomi.com^
 ||tvboss.pandora.xiaomi.com^
 ||tvepg.pandora.xiaomi.com^
 ||tw-ad-lgsmartad-com.aws-prd.net^
@@ -2691,7 +2686,6 @@
 ||video.market.xiaomi.com^
 ||vip-api.xmpush.global.xiaomi.com^
 ||vip-api.xmpush.xiaomi.com^
-||vip.api.xmpush.xiaomi.com^
 ||vn-ad-lgsmartad-com.aws-prd.net^
 ||vn.lgsmartad.com^
 ||vq-eu-west-1.amazon-adsystem.com^
