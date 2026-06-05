@@ -1005,7 +1005,6 @@
 ||adguard.itclogic.cloud^
 ||adguard.jaydub.cloud^
 ||adguard.jfchenier.ca^
-||adguard.jfpii.com^
 ||adguard.johanliebert.top^
 ||adguard.johnnypatras.org^
 ||adguard.k-likhachev.ru^
@@ -1179,7 +1178,6 @@
 ||aduhai.caksono.com^
 ||adultproxy.men^
 ||advanced.name^
-||advancedchemistry.knr.cl^
 ||advanceddataanalysiscenter.com^
 ||adventurously.vitrinanorte.cl^
 ||ae-agh1.dns.cryptroute.net^
@@ -1265,7 +1263,6 @@
 ||ai-yuni.top^
 ||aibuddytech.com^
 ||aicx99.shop^
-||aidenwang.jumpingcrab.com^
 ||aiiaguli.info^
 ||ailivechatweb.com^
 ||ailogogenerator.top^
@@ -1369,7 +1366,6 @@
 ||allain.com.br^
 ||allcowswilldefinitelygo.mooo.com^
 ||alleesph.online^
-||allenhasa.fuzzypickle.ca^
 ||allenxmadelinelmao.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||allgeovpn.top^
 ||allinkstous.com^
@@ -1722,7 +1718,6 @@
 ||atlantic.dyn1.de^
 ||atlasvpn.net^
 ||atmyhouse.bangerade.us^
-||atom.area.freemath.ch^
 ||atom.world.digitalhemi.com^
 ||atomapi.com^
 ||atomicspike.art^
@@ -2423,7 +2418,6 @@
 ||bog-bot.cfd^
 ||bogbot.shop^
 ||boi9osyg1uwtyafn.com^
-||boiii.iltec.cl^
 ||bojdumlx.cc^
 ||bold-energy-129.biologyscholar.org^
 ||bold-river-186.sz.games^
@@ -2437,7 +2431,6 @@
 ||boltisback.panel-laboralcj.gob.mx^
 ||boltrena.ru^
 ||boltrix.ru^
-||bolts.itafricagroup.com^
 ||boltunblocker.com^
 ||boltvpn.org^
 ||bonketa.xyz^
@@ -2937,7 +2930,6 @@
 ||chaoyue.shop^
 ||chapelhill.mywire.org^
 ||chapternap.org^
-||charliekirky.jefferykirk.com^
 ||chart.books.fivepals.com^
 ||chart.craft.mylogisoft.com^
 ||chart.train.topone.cl^
@@ -3053,7 +3045,6 @@
 ||class.bio.prettybirdserver.com^
 ||class.desmos.live.cdn.cloudflare.net^
 ||class.desmos.live^
-||class.guitarhaven.com^
 ||class.skill.theo.mx^
 ||classes.ipv64.net^
 ||classes.psychology48.com^
@@ -3073,7 +3064,6 @@
 ||classroomip.online^
 ||classtime.canalspa.cl^
 ||cld.996969.xyz^
-||clean.hadan-dns.de^
 ||cleanbrowsing.org^
 ||clearvpn.co.uk^
 ||clearvpn.com^
@@ -3202,7 +3192,6 @@
 ||cold.registration.abrdns.com^
 ||cole.madethislink.lol.chickenkiller.com^
 ||coleiscool.greenfieldhk.org^
-||colleageapplicaeastion.com.ignorelist.com^
 ||collectnow.org^
 ||college-pathway.rakunan-h.ed.jp.24x7.hk^
 ||college-pathway.rakunan-h.ed.jp.n0p.at^
@@ -3258,7 +3247,6 @@
 ||contentboost.website^
 ||contentrush.fun^
 ||contentrush.space^
-||contextclues.guitarhaven.com^
 ||cookshowroom.org^
 ||cool-proxy.net^
 ||cool.creatyc.com^
@@ -5158,7 +5146,6 @@
 ||dns2.vinc.me^
 ||dns2.ytpom.ru^
 ||dns3.digitalcourage.de^
-||dns3.hu10us22.win^
 ||dns3.wistarip.com^
 ||dns35.allone.dpdns.org^
 ||dns4.bortus.io^
@@ -5676,7 +5663,6 @@
 ||drive.google.com.csdue.it^
 ||drive.google.com.drciocan.ro^
 ||drive.google.com.exid.me^
-||drive.google.com.hs.vc^
 ||drive.google.com.pacl.us^
 ||drive.google.com.rapide.fi^
 ||drive.google.com.wesp.fi^
@@ -6643,7 +6629,6 @@
 ||fern2.allisons.org^
 ||fern3.allisons.org^
 ||fern4.allisons.org^
-||fernbrowse.goip.de^
 ||fernbyjonas.allysports.com.ar^
 ||fernfr.sentinet.co.za^
 ||ferniiiiiiiii1.rainbowcreative.web.id^
@@ -6656,7 +6641,6 @@
 ||fernontop.marchd.ru^
 ||fernontopboisssssss.marchd.ru^
 ||fernontopmadebycarteryes.marchd.ru^
-||fernplantbiology.goip.de^
 ||fernrecatquestionmark.shop^
 ||ferns.and.leaves.spacejamhd.com^
 ||ferny.pxi-fusion.com.cdn.cloudflare.net^
@@ -6724,8 +6708,6 @@
 ||fineproxy.org^
 ||finevpn.org^
 ||finishinstal.com^
-||finney.juk.fi^
-||finobe2.pw^
 ||finquest.work^
 ||firecracker.clean.abrdns.com^
 ||fireprox.net^
@@ -7157,7 +7139,6 @@
 ||gatcha.org^
 ||gate.blackboxdynamics.io^
 ||gatern.info^
-||gatesrev.ir^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gavinnovercloaked.railway.web.id^
@@ -7301,7 +7282,6 @@
 ||gfwoff.org^
 ||gfwvip.com^
 ||gfwvpn.com^
-||ggfresh.itafricagroup.com^
 ||gghdsxde.cc^
 ||ggsd.easterndns.com^
 ||ggyamrcb.com^
@@ -7440,7 +7420,6 @@
 ||google-public-dns-b.google.com^
 ||google-search-s.easterndns.com^
 ||google.blinklab.com^
-||google.jaygraz.net^
 ||google.unicoridor.ru^
 ||google.webrathea.org^
 ||googlecloud365.blog^
@@ -7733,7 +7712,6 @@
 ||hdmnm.link^
 ||hdns.ksyun.com^
 ||hdnsadguardhome.me^
-||hds-coding.hobbygame.dev^
 ||hdyun.cc^
 ||hdyun.icu^
 ||headinsist.space^
@@ -7762,7 +7740,6 @@
 ||hello-pro.net^
 ||hello-rocket.com^
 ||hello.info.north-kazakhstan.su.cdn.cloudflare.net^
-||hello1.jake.eu^
 ||hello12345.qvd.com.br^
 ||hello254.n0p.at^
 ||helloaha.net^
@@ -7777,7 +7754,6 @@
 ||help-with-homework.org^
 ||help.billigerhost.com^
 ||help.brynlewis.com^
-||help.gayler.uk^
 ||help.vantagestrategy.com.au^
 ||helpdesk.sentinet.co.za^
 ||helphideme.com^
@@ -8044,7 +8020,6 @@
 ||hilvhu.com^
 ||himananndakedo.easterndns.com^
 ||himariokart.com^
-||himedns.com^
 ||himeko297.asuscomm.com^
 ||himfswgj.com^
 ||himik.chickenkiller.com^
@@ -8071,7 +8046,6 @@
 ||hismanual.ru^
 ||hisongshu.com^
 ||historianrecords.chickenkiller.com^
-||history-notes.infoudec.org^
 ||history-of-the-king-of-pop.moldeo.org^
 ||history.e1-racecar.com^
 ||history.eminescusm.ro^
@@ -8199,7 +8173,6 @@
 ||home.enjoymylife.net^
 ||home.fc.idv.tw^
 ||home.fendya.com^
-||home.firetiresinc.com^
 ||home.jobytan.com^
 ||home.luther.io^
 ||home.marcrnt.de^
@@ -8235,8 +8208,6 @@
 ||homeworkhelp.cc^
 ||homeworkhelp.click^
 ||homeworkhelper.uk^
-||homeworkhelper6741.jumpingcrab.com^
-||homhdptf.com^
 ||homita.id.vn^
 ||honeygain.com^
 ||honeygain.me^
@@ -8437,7 +8408,6 @@
 ||iajee.com^
 ||ialcce2018.org^
 ||iamgpingtocrashoutifidontgetimagepermstodayigottayap.okcomputersolutions.ca^
-||iamnotcute.guitarhaven.com^
 ||iamthebestlinksupplier.sentinet.co.za^
 ||ianmwxbj.com^
 ||iantem.io^
@@ -8471,14 +8441,11 @@
 ||idenitrust.com^
 ||ididabig.poo.li^
 ||iditinahuipidorasidagga.net^
-||idk.komanda.cl^
 ||idk.lol-fr.bostoncareercounselor.com^
 ||idkkilo.accesscam.org^
-||idkwhattoputhere.panel-laboralcj.gob.mx^
 ||idkww98reoei.hotelconsuladoinn.com^
 ||idleforest.com^
 ||idmavgyx.cc^
-||idnifrkn.online^
 ||idofjvj.easterndns.com^
 ||idolproxy.com^
 ||idontlikecookiesbrowniesarebettterngl.vlad.md^
@@ -8511,7 +8478,6 @@
 ||ijsiadksada.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||ijsutpoopedmyseldf.aerodev.cc^
 ||ijustmysocks.com^
-||ijustwanttstowork.dsylexia.jdymqic.shop^
 ||ikarosalpha.xyz^
 ||ikeepgooning.serverpit.com^
 ||ikhebdorst.nl^
@@ -8716,7 +8682,6 @@
 ||iproyal.com^
 ||iproyal.sjv.io^
 ||ipsec-vpn.help^
-||ipservers.xyz^
 ||ipsharkk.com^
 ||ipunblock.com^
 ||ipunblocker.com^
@@ -8827,7 +8792,6 @@
 ||ixlmathhomework6thgrade.tedfullwood.com^
 ||ixltutor.neitherneitherbooks.com^
 ||ixpjclmh.com^
-||ixqd3zy.online^
 ||ixumequs.com^
 ||iykyk.gierweb.nl^
 ||j-d5l.pages.dev^
@@ -8878,9 +8842,7 @@
 ||jcbb.cc^
 ||jcbm-mc.uk.cdn.cloudflare.net^
 ||jcbm-mc.uk^
-||jcdns.fun^
 ||jdb.iot64.de^
-||jdsaaz7dplvp.online^
 ||jeanndunn.rdocart.com^
 ||jeffreyepstien.allisons.org^
 ||jego.club^
@@ -8900,7 +8862,6 @@
 ||jfcat.net^
 ||jfdog.net^
 ||jfeoks.duckdns.org^
-||jhgotchu.joe.dj^
 ||jhsdeuqk.com^
 ||jhyrbbzo.com^
 ||jialeconvertv.xyz^
@@ -8929,7 +8890,6 @@
 ||jike4187.icu^
 ||jike496e.icu^
 ||jike77.net^
-||jikecloud.info^
 ||jikeyunbest.net^
 ||jilianclou.com^
 ||jiliancloud.net^
@@ -8982,7 +8942,6 @@
 ||jnhhjytt.com^
 ||jnprd.com^
 ||jnxhylc.cn^
-||jnzerpgy.com^
 ||job.registration.abrdns.com^
 ||jobfinder.bostoncareercounselor.com^
 ||jobfinder.noamank.com^
@@ -9022,10 +8981,8 @@
 ||jooy.cc^
 ||jopidf.ipv64.net^
 ||jordanburrow.com^
-||jordansgotmathwork.gleeze.com^
 ||jordansmathwork-v6-9aqvg.kinsta.page^
 ||jordansmathwork.org^
-||jordansmathworkis.life^
 ||jorvito.ru^
 ||josephfamily.org^
 ||joshberg.org^
@@ -9153,10 +9110,8 @@
 ||k-vpn.vercel.app^
 ||k.theartieschaffer.com^
 ||k03.dedyn.io^
-||k0vj2kau.online^
 ||k12biography.com^
 ||k12biology.com^
-||k12kxploit.homaxcorp.com^
 ||k2vpn.io^
 ||k3dns.com^
 ||k3n.pw^
@@ -9268,7 +9223,6 @@
 ||khanacadamyregistry67.tovamiasto.com^
 ||khanacademy.mom.cdn.cloudflare.net^
 ||khanacademy.mom^
-||khanacademy.online^
 ||khanhow-to-do-math.itafricagroup.com^
 ||khn5magu.online^
 ||khome.site^
@@ -9814,8 +9768,6 @@
 ||learnaboutbillclinton.scrapitsoftware.com^
 ||learnaboutcareers.academiaderock.ro^
 ||learnaboutfish.infotechnology.com^
-||learnadvancedcalculus.knr.cl^
-||learnadvancedchemistry.knr.cl^
 ||learnatschool.study^
 ||learnbiologyquiz.win^
 ||learnbla.org^
@@ -10324,7 +10276,6 @@
 ||masterssh.com^
 ||masthisis.ir^
 ||mat.hislife.bostoncareercounselor.com^
-||matematicasfacilygratis.ignorelist.com^
 ||math-reseach.lbry.ru^
 ||math.allorica.xyz^
 ||math.area.myjamesonline.net^
@@ -10366,7 +10317,6 @@
 ||mathis.life.bostoncareercounselor.com^
 ||mathisawesome.lol^
 ||mathiscool.eemotors.uk^
-||mathisgreat.jumpingcrab.com^
 ||mathisinteresting.itafricagroup.com^
 ||mathisl.ife.bostoncareercounselor.com^
 ||mathisli.fe.bostoncareercounselor.com^
@@ -10387,7 +10337,6 @@
 ||mathprofession.buzz.cdn.cloudflare.net^
 ||mathquizzer.net^
 ||mathrules.dev^
-||mathstudy.iltec.cl^
 ||mathstudyhub.o.zoho.to^
 ||mathstudyhub.twilightparadox.com^
 ||mathstudysplunger.twilightparadox.com^
@@ -10587,7 +10536,6 @@
 ||mochiss3.xyz^
 ||mockblock.com^
 ||moct.cloud^
-||models.guitarhaven.com^
 ||moderninspo.icu^
 ||modvix.org^
 ||moeu01.com^
@@ -10842,7 +10790,6 @@
 ||myapps.classlink.pastrypowered.com^
 ||myapps.classlink.suredoc.net^
 ||myapps.classlink.trelease.net^
-||myapps.instructure.com.galitec.es^
 ||myatris.sbs^
 ||mycbi9cskt.online^
 ||mycelium.site^
@@ -11144,8 +11091,6 @@
 ||nicko99.duckdns.org^
 ||nicktruehome.ddns.net^
 ||nicsezcheckfbi.gov^
-||night.goip.de^
-||nihaou.jumpingcrab.com^
 ||nikamurs.duckdns.org^
 ||nikonikoproxy.casacam.net^
 ||nikonikoproxy.giize.com^
@@ -11371,7 +11316,6 @@
 ||ns1.dotls.org^
 ||ns1.fdn.fr^
 ||ns1.flodns.net^
-||ns1.hadan-dns.de^
 ||ns1.hjk.kr^
 ||ns1.hjk.me^
 ||ns1.i-evolve.net^
@@ -11381,7 +11325,6 @@
 ||ns1.sc-lezhi.com^
 ||ns2.4netguides.org^
 ||ns2.flodns.net^
-||ns2.hadan-dns.de^
 ||ns2.hjk.kr^
 ||ns2.hjk.me^
 ||ns2.level3.net^
@@ -11491,7 +11434,6 @@
 ||office.heimtec.com^
 ||office.pramanik.org^
 ||official-vpn.info^
-||officialcepheusx.fluxus.org^
 ||officialvpn.help^
 ||offshoreview.xyz^
 ||ogonvpn.xyz^
@@ -12064,7 +12006,6 @@
 ||plmoknijbuhvyg.psicologicemos.com^
 ||plov.loan^
 ||plppay.com^
-||plshspublicproxy.grabeco.com^
 ||plskillmeiworksohard.iiiii.info^
 ||plugnearn.com^
 ||pluhbruh.mctwisted.pro^
@@ -13175,7 +13116,6 @@
 ||s4m.xyz^
 ||s5-us3.startpage.com^
 ||s57.top^
-||s8.amazonaws.jdymqic.shop^
 ||s8ks.us^
 ||sabeendns.duckdns.org^
 ||sabzipolobamahi.nl^
@@ -13323,7 +13263,6 @@
 ||scien.ceislife.bostoncareercounselor.com^
 ||scienc.eislife.bostoncareercounselor.com^
 ||science-making.swanndvr.net^
-||science.goip.de^
 ||science.islife.bostoncareercounselor.com^
 ||science.mathforkids.buzz.cdn.cloudflare.net^
 ||science.mathforkids.buzz^
@@ -13427,7 +13366,6 @@
 ||securitykiss.com^
 ||securley.patelmortgage.com^
 ||securly-is-confusing.wechchile.cl^
-||securly-sucks.i-creativelearner.com^
 ||securly.bsr.me^
 ||securly.com.fern.chickenkiller.com^
 ||securly.com.frostcatcher.com^
@@ -13669,7 +13607,6 @@
 ||silvervalethegoat.graphicon.ru^
 ||simiqbwa.com^
 ||simple-education.xyz^
-||simplecalculus.knr.cl^
 ||simpleeasy.net^
 ||simplevpn.info^
 ||simplevpn.net^
@@ -13808,7 +13745,6 @@
 ||snetwork.space^
 ||snipermixer.com^
 ||snookerwood.org^
-||snoopy.iltec.cl^
 ||snowproxy.com^
 ||snuvtek.xyz^
 ||so.kaiak.top^
@@ -14131,7 +14067,6 @@
 ||suazwlmz.com^
 ||sub.vseesa.chinapoem.org^
 ||subclsnet.com^
-||subdomained.ignorelist.com^
 ||submit.formengineer.org^
 ||subscrbersktech.infotechnology.com^
 ||subscribe-vcsa.greenfieldhk.org^
@@ -14443,7 +14378,6 @@
 ||thanos.pleumkungz.com^
 ||thanostheoldgrapeguy.lbry.ru^
 ||thatsrightlmyperfectvictory.infotechnology.com^
-||thatstuff.iltec.cl^
 ||thatswhattheywantyoutothink.bostoncareercounselor.com^
 ||the-cloak.com^
 ||the.simplecharity.com^
@@ -14633,7 +14567,6 @@
 ||tolveno.ru^
 ||tommattinglyda.site^
 ||tonvpn.com^
-||too-lazy-to-go-to-the-registry.ignorelist.com^
 ||toocoolforschool.donhoo.com^
 ||toofuntoostudy-math-study.gavin.twilightparadox.com^
 ||toolara.net^
@@ -15066,7 +14999,6 @@
 ||unblockedwarez.com^
 ||unblockedxerr.lczipper.com^
 ||unblocker.cc^
-||unblocker.chesse.ip-ddns.com^
 ||unblocker.net^
 ||unblocker.netlify.app^
 ||unblocker.us^
@@ -15154,7 +15086,6 @@
 ||unrestrictor.net^
 ||unsavory.bury.abrdns.com^
 ||unsightly.calamarrradio.org^
-||unsubscribed.ignorelist.com^
 ||untraceable.us^
 ||untracer.com^
 ||uofjneeu.cc^
@@ -16066,8 +15997,6 @@
 ||w--e.giize.com^
 ||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^
 ||wadsworthyouthbasketball.org^
-||waguri.berryfamily.id.au^
-||waguri.jalcorn.net^
 ||waguri.lastarria.cl^
 ||waguri.lifescienceventurelab.com^
 ||waguri.megacorpwar.com^
