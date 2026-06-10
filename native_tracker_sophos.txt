@@ -161,6 +161,8 @@ ads-drru.cloud.huawei.ru
 ads-drru.platform.hihonorcloud.com
 ads-frontier.tiktok.com
 ads-ie.tiktokw.eu
+ads-marketing-vivofs.vivo.com.cn
+ads-marketing-vivofs.vivo.com.cn.ctdns.cn
 ads-ru.tiktok.com
 ads-setu-proxy-eu.amazon.com
 ads-setu-proxy-fe.amazon.com
@@ -188,6 +190,7 @@ ads.tiktok.in
 ads.tiktok.tv
 ads.us.tiktok.com
 ads16-normal-useastred.tiktokw.eu
+adsdk.vivo.com.cn
 adservices.roku.com
 adsfs-sdkconfig.heytapimage.com
 adsfs.oppomobile.com
@@ -230,6 +233,7 @@ adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 adx-dra-op-hicloud-com-dra.appacc.dbankedge.cn
 adx-dra-op-hicloud-com-dra.edge.dbankedge.cn
+adx-dra-op-hicloud-com-dra.region.dbankedge.cn
 adx-dra.op.dbankcloud.com
 adx-dra.op.hicloud.com
 adx-drcn.op.dbankcloud.cn
@@ -351,7 +355,6 @@ api.setting.intl.miui.com
 api.sms.intl.miui.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
-api.vip.miui.com
 api.xmpush.global.xiaomi.com
 api.xmpush.xiaomi.com
 apkrep.ff.avast.sec.miui.com
@@ -687,6 +690,7 @@ cname-in-bom01-nginxpool03.vivoglobal.com
 cname-in-ctdbonrt-stsdk.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
 co-ad-lgsmartad-com.aws-prd.net
+co-domaincfg.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
 co-romsp-unifyconfig.vivoglobal.com
 co-st-sl.vivoglobal.com
@@ -2298,6 +2302,7 @@ sca-err-up.vivoglobal.com
 sca-onrt-stsdk.vivoglobal.com
 sca-ort-stsdk.vivoglobal.com
 sca-p.vivoglobal.com
+sca-pnrt-stsdk.vivoglobal.com
 sca-romsp-unifyconfig.vivoglobal.com
 sca-st-sl.vivoglobal.com
 sca-stsdk.vivoglobal.com
@@ -2322,6 +2327,7 @@ sec-cdn.static.intl.xiaomi.net
 sec-cdn.static.xiaomi.net
 sec.resource.xiaomi.net
 secure.report.iss.xiaomi.com
+securemetrics-cn.v.aaplimg.com
 securemetrics.apple.com
 securemetrics.apple.com.cn
 securemetrics.v.aaplimg.com
@@ -2407,6 +2413,7 @@ srv.greenguard.sec.miui.com
 srv.sec.miui.com
 ssp.xiaomi.com
 sspapi-prd.samsungrs.com
+st-ads-jssdk.vivo.com.cn
 st.amazon-adsystem.com
 staging-analyze.pt.xiaomi.com
 staging.api.zhuti.n.xiaomi.com
