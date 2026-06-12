@@ -117,9 +117,14 @@
 ||ad-instantpage-ru.tiktokv.com^
 ||ad-instantpage-sg.tiktokv.com.edgekey.net^
 ||ad-instantpage-sg.tiktokv.com^
+||ad-instantpage-ttp2.tiktokv.eu.edgesuite.net^
+||ad-instantpage-ttp2.tiktokv.eu.ttdns3.com^
 ||ad-instantpage-ttp2.tiktokv.eu^
+||ad-instantpage-ttp2.tiktokv.us.edgesuite.net^
 ||ad-instantpage-ttp2.tiktokv.us^
 ||ad-instantpage-va.tiktokv.com^
+||ad-instantpage.tiktokv.us.edgesuite.net^
+||ad-instantpage.tiktokv.us.ttdns4.com^
 ||ad-instantpage.tiktokv.us^
 ||ad.cdn.pandora.xiaomi.com^
 ||ad.eu.xiaomi.com^
@@ -142,6 +147,7 @@
 ||adeng-looker-dev-1001.bdp.roku.com^
 ||adeng-looker-dev-1003.bdp.roku.com^
 ||adi-airflow.bdp.roku.com^
+||adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net^
 ||adinstantpage16-normal-useastred.tiktokv.eu^
 ||adlog.vivo.com.cn^
 ||adlog.vivo.com^
