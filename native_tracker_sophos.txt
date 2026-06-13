@@ -51,6 +51,7 @@ aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
 aax-us-east-1-ott.amazon-adsystem.amazon.com
+aax-us-east-dtb-mobile-events.amazon-adsystem.com
 aax-us-east-dtb-mobile.amazon-adsystem.com
 aax-us-east-dtb.amazon-adsystem.com
 aax-us-east-ott.amazon-adsystem.com
@@ -68,7 +69,6 @@ aax-us-ott.amazon-adsystem.amazon.com
 aax-us-pdx-rtb-adx.amazon-adsystem.com
 aax-us-pdx-rtb.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
-aax-us-west-2-ott.amazon-adsystem.amazon.com
 aax-us-west-dtb-mobile-events.amazon-adsystem.com
 aax-us-west-dtb-mobile.amazon-adsystem.com
 aax-us-west-ott-events.amazon-adsystem.com
@@ -135,12 +135,14 @@ ad.intl.xiaomi.com.ksyna.net
 ad.lgsmartad.com
 ad.mi.com
 ad.prod.rpay.int.roku.com
+ad.qa.ap.int.roku.com
 ad.quickapp.hybrid.xiaomi.com
 ad.rus.xiaomi.com
 ad.staging.rpay.int.roku.com
 ad.tiktok.tv
 ad.tiktokv.com
 ad.tiktokv.us
+ad.usw2.qa.ap.int.roku.com
 ad.xiaomi.com
 adeng-identity-prod3.bdp.roku.com
 adeng-looker-bi-oneview-prod-1001.bdp.roku.com
@@ -169,7 +171,6 @@ ads-frontier.tiktok.com
 ads-ie.tiktokw.eu
 ads-marketing-vivofs.vivo.com.cn
 ads-marketing-vivofs.vivo.com.cn.ctdns.cn
-ads-ru.tiktok.com
 ads-setu-proxy-eu.amazon.com
 ads-setu-proxy-fe.amazon.com
 ads-setu-proxy.amazon.com
@@ -722,6 +723,7 @@ cname-asia-comonrt-stsdk.vivoglobal.com
 cname-asia-st-exappupgrade.vivoglobal.com
 cname-asia-stsdk09.vivoglobal.com
 cname-asia02-stsdk.vivoglobal.com
+cname-de-stsdk.vivoglobal.com
 cname-in-apport-stsdk.vivoglobal.com
 cname-in-bom01-nginxpool03.vivoglobal.com
 cname-in-ctdbonrt-stsdk.vivoglobal.com
@@ -899,6 +901,7 @@ ehg-samsungusa.hitbox.com
 eic-ngfts.lge.com
 eic-ngfts.lge.com.edgekey.net
 eic-qt2-ngfts.lge.com
+eic-qt2-ngfts.lge.com.edgekey.net
 emq.xmpush.xiaomi.com
 epoch-id.cdo.heytapmobi.com
 err-up.vivoglobal.com
@@ -907,7 +910,6 @@ es-ad-lgsmartad-com.aws-prd.net
 es.lgsmartad.com
 et-ad-lgsmartad-com.aws-prd.net
 et.lgsmartad.com
-eu-album-api.vivoglobal.com
 eu-cota.vivoglobal.com
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
@@ -966,6 +968,7 @@ featureinfo-service-sg.allawnos.com
 federatedanalytics.amazon.com
 feedback.miui.com
 feedbackws.fe.apple-dns.cn
+feedbackws.fe.apple-dns.net
 feedbackws.fe2.apple-dns.net
 feedbackws.icloud.com
 feedbackws.icloud.com.cn
@@ -1220,7 +1223,6 @@ in-apponrt-stsdk.vivoglobal.com
 in-apport-stsdk.vivoglobal.com
 in-apppnrt-stsdk.vivoglobal.com
 in-appprt-stsdk.vivoglobal.com
-in-cfg-stsdk.vivoglobal.com
 in-cota.vivoglobal.com
 in-ctdbonrt-stsdk.vivoglobal.com
 in-ctdbort-stsdk.vivoglobal.com
@@ -2334,19 +2336,6 @@ sau-server-eu.allawnos.com
 sau-server-in.allawnos.com
 sau-server-sg.allawnos.com
 sau-server-us.allawnos.com
-sca-domaincfg.vivoglobal.com
-sca-err-up.vivoglobal.com
-sca-onrt-stsdk.vivoglobal.com
-sca-ort-stsdk.vivoglobal.com
-sca-p.vivoglobal.com
-sca-pnrt-stsdk.vivoglobal.com
-sca-romsp-unifyconfig.vivoglobal.com
-sca-st-sl.vivoglobal.com
-sca-stsdk.vivoglobal.com
-sca-timesync.vivoglobal.com
-sca-vcode-api.vivoglobal.com
-sca-vcode-od.vivoglobal.com
-sca-vcode-or.vivoglobal.com
 sca.samsung.com
 sd-ad-lgsmartad-com.aws-prd.net
 sd.lgsmartad.com
@@ -2576,7 +2565,6 @@ tr-ad-lgsmartad-com.aws-prd.net
 tr-album-api.vivoglobal.com
 tr-cota.vivoglobal.com
 tr-domaincfg.vivoglobal.com
-tr-err-up.vivoglobal.com
 tr-gdpr-vgc-datacenter.vivoglobal.com
 tr-onrt-stsdk.vivoglobal.com
 tr-ort-stsdk.vivoglobal.com
@@ -2670,8 +2658,9 @@ update.avlyun.sec.miui.com
 upgrade.pandora.xiaomi.com
 upu.samsungelectronics.com
 ureca.samsungapps.com
-url4077.ads-service.tiktok.com
+ureca.samsungapps.com.ad.mexnet.de
 us-ad-lgsmartad-com.aws-prd.net
+us-report.gras.samsungdm.com
 us.lgsmartad.com
 userdata.dev.sr.roku.com
 userdata.sr.roku.com
@@ -2768,7 +2757,6 @@ xlog16-normal-useast8.us.tiktokv.com
 xlog16-platform-useast5.us.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
-xn--ex-adreq-asa-c5b.vivoglobal.com
 xn-ex-adreq-asa-c5b.vivoglobal.com
 xp-cdn-lb.itunes-apple.com.akadns.net
 xp-cdn.apple.com
