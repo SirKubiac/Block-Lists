@@ -12,3 +12,4 @@ instabug.com
 in.appcenter.ms
 config.appcenter.ms
 api.rollbar.com
+firebaseinstallations.googleapis.com
