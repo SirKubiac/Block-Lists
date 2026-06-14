@@ -10242,6 +10242,7 @@
 ||look.xshentx.org^
 ||lookat.serviciosit.com.ar^
 ||lookingglass.site^
+||looquae8.xyz^
 ||looseforbid.com^
 ||lopana.com^
 ||lor-vino.ru^
@@ -10340,10 +10341,12 @@
 ||madebyguh.hosteriafutaleufu.cl^
 ||madebynathan.zeptoinitiative.org^
 ||madebynathan1.zeptoinitiative.org^
+||madeinchile.io^
 ||madeinchina1987.zapto.org^
 ||madonna.run^
 ||magiccloak.net^
 ||maherhost.uk^
+||maichongvpn.com^
 ||maifot.com^
 ||mail.data.haus^
 ||mail.hilton-groups.com^
@@ -10394,6 +10397,7 @@
 ||marslink.vip^
 ||maselivolovesscience.crabdance.com^
 ||masgl.store^
+||mask-api.fe.apple-dns.net^
 ||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
 ||mask.icloud.com^
@@ -10433,6 +10437,11 @@
 ||math.vincenzodimaro.it.cdn.cloudflare.net^
 ||math.vincenzodimaro.it^
 ||math.westkis.com^
+||math1.tcloud.my^
+||math2.tcloud.my^
+||math3.tcloud.my^
+||math4.tcloud.my^
+||math5.tcloud.my^
 ||mathcenter.space^
 ||mathchallenges.jumpingcrab.com^
 ||mathcraftinghub.com^
@@ -10470,6 +10479,7 @@
 ||mathnotes.qr-code.co.za^
 ||mathpoop.com^
 ||mathprofession.buzz.cdn.cloudflare.net^
+||mathprofession.buzz^
 ||mathquizzer.net^
 ||mathrules.dev^
 ||mathstudyhub.o.zoho.to^
@@ -10510,6 +10520,7 @@
 ||mcugqrpn.cc^
 ||mcwy.org^
 ||mcwy.pro^
+||mdpa.org.tw^
 ||mdqnoxcz.com^
 ||mdss.best^
 ||mdss.cloud^
@@ -10639,6 +10650,7 @@
 ||miseryrecord.com^
 ||missionjesus.net^
 ||mistasinresolver.ru^
+||mixing.run^
 ||mixturestab.com^
 ||mizban-r.site^
 ||mjiwzmck.com^
@@ -11019,6 +11031,7 @@
 ||n.3363.net^
 ||n.5201344.xyz^
 ||n.schoology.lat^
+||n0.eu^
 ||n5.lsasss.com^
 ||n6j3iyl.online^
 ||n8nmegapixar.online^
@@ -11037,6 +11050,7 @@
 ||naiyun.info^
 ||naizi.vip^
 ||najiakeji.top^
+||name-meaning.us^
 ||nana.ddx.v2.ramos90.ca^
 ||nana.ddx.v2.rinet.ai^
 ||nana.ddx.v2.swift.cl^
@@ -11076,6 +11090,7 @@
 ||nashvpn.app^
 ||nashvpn.biz^
 ||nashvpn.io^
+||nashvpn.mom^
 ||nashvpn.net^
 ||nashvpn.top^
 ||nasubi314.mrco.giize.com^
@@ -11117,6 +11132,7 @@
 ||nelsonleung.org^
 ||nemuinemui-nemui.easterndns.com^
 ||neodon-vpn.com^
+||neon.lifepixeled.com^
 ||neonos.me^
 ||nerbix.xyz^
 ||neru.cc^
@@ -11578,6 +11594,7 @@
 ||okyuovkg.com^
 ||oldmillschool.org^
 ||oleg.loan^
+||olegofriend.ru^
 ||olipa.ru^
 ||olivaro.ru^
 ||olukjhgfhjgn.weqrtfgesd.smasesorias.cl^
@@ -11609,6 +11626,7 @@
 ||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^
 ||onevpn.com^
 ||onion.am^
+||onion.ca^
 ||onion.cab^
 ||onion.casa^
 ||onion.city^
@@ -11634,6 +11652,7 @@
 ||onlinevpn.app^
 ||onlyforschool123.smarter-homes.com^
 ||onlyrabbit02.sbs^
+||onthe.ksf.qzz.io^
 ||onweb.info^
 ||onyc-smallpp.global.ssl.fastly.net^
 ||onyx7.com^
@@ -11845,6 +11864,7 @@
 ||paradise-human.shop^
 ||paranoia.mydns.network^
 ||parsa.dpdns.org^
+||parsazr.ir^
 ||partmo5.xyz^
 ||parvino.ru^
 ||pasdfn.com^
@@ -13323,6 +13343,7 @@
 ||school-ilove.vercel.app^
 ||school-websites.us^
 ||school.bostoncareercounselor.com^
+||school.dovereducation.org^
 ||school.edu.radix-site.com^
 ||school.fqcomics.cl^
 ||school.frii.site^
@@ -16030,6 +16051,7 @@
 ||vtbimdkh.com^
 ||vthiawvu.com^
 ||vthrnrwrbtq2n1xpjt5d.online^
+||vuivn.site^
 ||vul-trio.ru^
 ||vultrio.ru^
 ||vundekra.com^
