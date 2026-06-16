@@ -15314,6 +15314,7 @@
 ||us1.cambrianscientific.com^
 ||us1.dns.lavate.ch^
 ||us2-browse.startpage.com^
+||us3-browse.startpage.com^
 ||us4-ubg.global.ssl.fastly.net^
 ||us44nas.top^
 ||usa-proxy.org^
@@ -16146,6 +16147,7 @@
 ||w--e.giize.com^
 ||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^
 ||wadsworthyouthbasketball.org^
+||waguri.answer168.com^
 ||waguri.nappod.com^
 ||waitfree.us^
 ||waiwangjiasu.net^
@@ -16159,6 +16161,7 @@
 ||waltswifty.easterndns.com^
 ||wanam.ddns.net^
 ||wanchengvpn.com^
+||wanchengwangluo.com^
 ||wandana.franklinfamily.au^
 ||wandayun.com^
 ||wanjuwawa.cn^
@@ -16175,6 +16178,7 @@
 ||wassup-guys-sms.renaceracs.xyz^
 ||watch-dexter.or-you-now.donciccio.net^
 ||watch.national-birdshow.com^
+||water.rabbitforge.xyz^
 ||wave.blackonstuff.com^
 ||wave.clean.abrdns.com^
 ||wavemesh.cyou^
@@ -16187,9 +16191,11 @@
 ||wbcadd4mkdq.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||wbzby2a2k9.com^
 ||wcomes.com^
+||wdefrgthjyu.evils.in^
 ||wdg5as2.online^
 ||wdycenter.com^
 ||wdyserver.com^
+||we-are.ksf.qzz.io^
 ||we-hate-school.bastaff.ru^
 ||we-make.org^
 ||weaang.co^
@@ -16204,6 +16210,7 @@
 ||web-kuailian.com^
 ||web-kuailian.net^
 ||web-letsvpn.org^
+||web-proxy.org^
 ||web-proxy.site^
 ||web-rated.ie^
 ||web.artweb.website.cdn.cloudflare.net^
@@ -16230,6 +16237,7 @@
 ||webpro.xyz^
 ||webproxy.911proxy.com^
 ||webproxy.club^
+||webproxy.com.de^
 ||webproxy.com^
 ||webproxy.ich-war-hier.de^
 ||webproxy.lumiproxy.com^
@@ -16265,6 +16273,7 @@
 ||wedding-present.us^
 ||wedgdh.wefds.sharptutor.net^
 ||wegohub.com^
+||wehateschool.tcloud.my^
 ||weirdoweb.xyz^
 ||weiykeji.cn^
 ||weklfjdas.asdklfj.bonded-game.com^
@@ -16272,7 +16281,9 @@
 ||welcome.primeent.in^
 ||welcomeagent.lol^
 ||wellpoint.com^
+||welovehistory.tcloud.my^
 ||welovemath.hornburst.com^
+||welovemath.tcloud.my^
 ||welovemath123.duckdns.org^
 ||welovemath89.barabesta.is^
 ||weloveplayernation.bfcontrol.com.mx^
@@ -16284,6 +16295,7 @@
 ||weontoplmsbauchi.online^
 ||weproxy.me^
 ||werevpn.help^
+||werwer.tcloud.my^
 ||westmgreen.com^
 ||wevpn.com^
 ||wevz3b.xyz^
@@ -16324,6 +16336,7 @@
 ||whitehatvpn.com^
 ||whitevpn.help^
 ||whitewhalejiasu.com^
+||who.made.the.domain.bro.niggersbigballs.xyz^
 ||whodagoat.ignorelist.com^
 ||whoer.net^
 ||whoisit.co^
@@ -16380,6 +16393,7 @@
 ||windler.co.uk^
 ||windowcar92.com^
 ||windowphone92.com^
+||windowtable92.com^
 ||windscribe.com^
 ||windscribe.net^
 ||winnie.cloud^
@@ -16400,8 +16414,10 @@
 ||wiselines.lebrija.org^
 ||wish.i.knew.webconstructions.co.uk^
 ||wisyynem.cc^
+||withcanlite.bling.org^
 ||withdrawfrog.space^
 ||withoutdns.com^
+||withstory.net^
 ||witopia.net^
 ||wivpn.help^
 ||wizardgain.com^
@@ -16448,6 +16464,7 @@
 ||workkidney.com^
 ||workproxy.net^
 ||workstation.lhost.dev^
+||workstudyplay.com^
 ||worktechsk.infotechnology.com^
 ||workwithsktechh.infotechnology.com^
 ||workwithsktechh.jumpingcrab.com^
@@ -16498,6 +16515,7 @@
 ||www-666.020202.best^
 ||www-8.shaammy.ir^
 ||www-admin.mehtionthebeat.com^
+||www-bruh.xenon.lol^
 ||www-crizzler.stilxvr.com^
 ||www-croxy.ghgi.site^
 ||www-kuaifan.cn^
@@ -16560,6 +16578,7 @@
 ||www.securly.com.bookpropofplace.com^
 ||www.securly.com.dnscream.com^
 ||www.securly.com.dnsear.com^
+||www.securly.com.dynamosolutions.com.ar^
 ||www.securly.com.installgentoo.com^
 ||www.securly.com.jackietian.com^
 ||www.securly.com.laangles.com^
@@ -16667,6 +16686,7 @@
 ||xiaojikp.cc^
 ||xiaolanniaovpn.com^
 ||xiaoniukeji.cc^
+||xiaoniuyun.cc^
 ||xiaoxie.pro^
 ||xiaoxinhui.cn^
 ||xiaoxuanfeng.info^
@@ -16689,6 +16709,7 @@
 ||xixi.ph^
 ||xixicats.pw^
 ||xjpdns.354688.xyz^
+||xjumper.com^
 ||xka2gd.xyz^
 ||xkariak.asuscomm.com^
 ||xkboxvpn.com^
@@ -16724,12 +16745,14 @@
 ||xn--cdwm5qvpn.com^
 ||xn--cesw6hd3s99f.com^
 ||xn--chqymv5tdjrxz7b.com^
+||xn--ckqw5h8zdv4r4or7t0b0ke.com^
 ||xn--com-p18d07pm2ig92a.com^
 ||xn--com-p18d52m15kg92a.com^
 ||xn--durhre-yxa.de^
 ||xn--ehqx35aimmzwv.com^
 ||xn--emovpn-u40k507h.com^
 ||xn--fetx50be7pf6w.com^
+||xn--fhq389femyc1d.com^
 ||xn--fiq626gzzgkv2a.com^
 ||xn--fiq88fk0f9x4a.com^
 ||xn--fiqs8s9rjgsr.com^
@@ -16738,7 +16761,9 @@
 ||xn--kbtz2zn3ab56c.com^
 ||xn--mes358aby2apfg.com^
 ||xn--mest5a943ag8x.com^
+||xn--mesz5hn9e3rh.com^
 ||xn--nexitally-459pk42i.com^
+||xn--nos809b.com^
 ||xn--prome-h02iv96g.com^
 ||xn--rss276g.net^
 ||xn--rss276g.xyz^
@@ -16771,6 +16796,7 @@
 ||xn--vpn-zf0f845cm13b.com^
 ||xn--xnun88j.net^
 ||xn--yfrp36ea9901a.com^
+||xn--yfrp5enpj81a6w4d.com^
 ||xn--yfrw1g0upg04amnn.com^
 ||xn--yfrw1glt6awpb6x3e.xyz^
 ||xn--yrs494l.com^
@@ -16780,6 +16806,7 @@
 ||xngkupy.com^
 ||xolvento.ru^
 ||xomverta.ru^
+||xonlrnrujxbx.com^
 ||xorbiadns.com^
 ||xorniva.ru^
 ||xortbv.cc^
@@ -16849,6 +16876,7 @@
 ||yandhi.herokuapp.com^
 ||yangfan73.net^
 ||yangfanhome.com^
+||yangfanhome.net^
 ||yangfanyun.homes^
 ||yangfanyun.net^
 ||yangfanyunbest.net^
@@ -16857,6 +16885,7 @@
 ||yangfuinei.biz^
 ||yanggan.eu.org^
 ||yaofan.cc^
+||yaoyaolingxianclash.com^
 ||yapend.com^
 ||yapwxciu.com^
 ||yarak.luminiferous.abrdns.com^
@@ -16886,6 +16915,7 @@
 ||yep.top^
 ||yepfast.cc^
 ||yeqavten.com^
+||yeralin.net^
 ||yes-taro.ru^
 ||yes.vets.co.il^
 ||yescool.upcg.xyz^
@@ -16954,6 +16984,7 @@
 ||youtubefreeproxy.net^
 ||youtubemitainaa.easterndns.com^
 ||youtubeunblocked.live^
+||youtubez.com^
 ||youtulink3.top^
 ||youtunice.com^
 ||youtwo.ts-me.com.my^
@@ -17033,6 +17064,7 @@
 ||za.mreasandiego.com^
 ||zabolotskikh.dev^
 ||zaborona.help^
+||zacebookpk.com^
 ||zadmin.dev^
 ||zagbit.com^
 ||zakaria.website^
@@ -17108,6 +17140,7 @@
 ||zdn.ro^
 ||zearn.buzz.cdn.cloudflare.net^
 ||zebravpn.com^
+||zeenkah.ajdoutdoors.com^
 ||zem.indevs.in^
 ||zemhcyg.org^
 ||zen44.com^
@@ -17135,6 +17168,7 @@
 ||zestivo.ru^
 ||zetland.rm-ni.uk^
 ||zeusvps.cloudns.nz^
+||zexrctvjykiuln.evils.in^
 ||zfd01-1ujzkyso.top^
 ||zfd02-28hg5ijp.top^
 ||zgcon.online^
