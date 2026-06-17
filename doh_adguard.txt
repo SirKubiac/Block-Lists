@@ -15314,7 +15314,6 @@
 ||us1.cambrianscientific.com^
 ||us1.dns.lavate.ch^
 ||us2-browse.startpage.com^
-||us3-browse.startpage.com^
 ||us4-ubg.global.ssl.fastly.net^
 ||us44nas.top^
 ||usa-proxy.org^
