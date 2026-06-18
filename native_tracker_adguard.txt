@@ -2,6 +2,7 @@
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||11-c3.bigdata.ctc.neo.xiaomi.com^
+||3px.axp.amazon-adsystem.com^
 ||3rdupgrade.pandora.xiaomi.com^
 ||5-c3.bigdata.ctc.neo.xiaomi.com^
 ||a.hl.mi.com^
@@ -20,6 +21,7 @@
 ||aax-apse-dtb-mobile.amazon-adsystem.com^
 ||aax-apse-dtb-web.amazon-adsystem.com^
 ||aax-audio.amazon-adsystem.com^
+||aax-beta-us-east.axp.amazon-adsystem.com^
 ||aax-cpm.amazon-adsystem.com^
 ||aax-dtb-cf.amazon-adsystem.amazon.com^
 ||aax-dtb-cf.amazon-adsystem.com^
@@ -45,6 +47,7 @@
 ||aax-fe-sin-rtb.amazon-adsystem.com^
 ||aax-fe-sin.amazon-adsystem.com^
 ||aax-fe.amazon-adsystem.com^
+||aax-gamma-us-east.axp.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
 ||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
@@ -259,6 +262,9 @@
 ||adxu-bigo-sg.heytapmobile.com^
 ||ae-ad-lgsmartad-com.aws-prd.net^
 ||ae.lgsmartad.com^
+||aes-beta.axp.amazon-adsystem.com^
+||aes.eu-south.ono.axp.amazon-adsystem.com^
+||aes.eu-west.ono.axp.amazon-adsystem.com^
 ||af-ad-lgsmartad-com.aws-prd.net^
 ||af.lgsmartad.com^
 ||ag-ad-lgsmartad-com.aws-prd.net^
@@ -414,6 +420,7 @@
 ||appstore.pandora.xiaomi.com^
 ||appstore.ptmi.gitv.tv^
 ||aps.amazon-adsystem.com^
+||aps.axp.amazon-adsystem.com^
 ||apu.samsungelectronics.com^
 ||ar-ad-lgsmartad-com.aws-prd.net^
 ||ar.lgsmartad.com^
@@ -485,7 +492,6 @@
 ||aw.lgsmartad.com^
 ||awssgp0-files.fds.api.xiaomi.com^
 ||awsusor0-cdn.fds-ssl.api.xiaomi.com^
-||axp.amazon-adsystem.com^
 ||az-ad-lgsmartad-com.aws-prd.net^
 ||az.appstore.vivo.com.cn^
 ||az.lgsmartad.com^
@@ -964,6 +970,8 @@
 ||extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com^
 ||fast.samsungsingapore.demdex.net^
 ||fbs.smoot.apple.com^
+||fe.ono.axp.amazon-adsystem.com^
+||fe.us-west.ono.axp.amazon-adsystem.com^
 ||featureinfo-service-sg.allawnos.com^
 ||federatedanalytics.amazon.com^
 ||feedback.miui.com^
@@ -1334,6 +1342,7 @@
 ||lg-bgp-misc.pandora.xiaomi.com^
 ||lgads.tv^
 ||li-ad-lgsmartad-com.aws-prd.net^
+||live-events.ono.axp.amazon-adsystem.com^
 ||live-video-log16-normal-alisg.tiktokv.com^
 ||live.miphone.pandora.xiaomi.com^
 ||lk-ad-lgsmartad-com.aws-prd.net^
@@ -2113,6 +2122,7 @@
 ||ro.lgsmartad.com^
 ||rs-ad-lgsmartad-com.aws-prd.net^
 ||rs.lgsmartad.com^
+||rtb.axp.amazon-adsystem.com^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger-ttp2.us.tiktokv.com^
@@ -2660,6 +2670,7 @@
 ||ureca.samsungapps.com.ad.mexnet.de^
 ||ureca.samsungapps.com^
 ||us-ad-lgsmartad-com.aws-prd.net^
+||us-east.ono.axp.amazon-adsystem.com^
 ||us-report.gras.samsungdm.com^
 ||us.lgsmartad.com^
 ||userdata.dev.sr.roku.com^
