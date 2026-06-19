@@ -14742,6 +14742,7 @@
 ||tor.bravesoftware.com^
 ||tor.calyxinstitute.org^
 ||tor.eff.org^
+||tor.r0cket.net^
 ||tor.vasi.li^
 ||tor2web.fi^
 ||tor2web.io^
