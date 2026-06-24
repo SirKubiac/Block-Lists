@@ -5626,6 +5626,7 @@
 ||donoen.ipv64.net^
 ||donord.net^
 ||donpv.com^
+||donsalvatore.info^
 ||dontblock.networkoutpost.com^
 ||dontblockme.org^
 ||dontfilter.us^
@@ -8517,6 +8518,7 @@
 ||hxwnkrnn.cc^
 ||hxxxxx.name^
 ||hxy.name^
+||hy5o5ua8gklpqjbqzjaaje8yy.online^
 ||hydra.screenclip.net^
 ||hydroxide.wtf^
 ||hyeeypad.cc^
@@ -11959,6 +11961,7 @@
 ||piano.goal.the-black-hole.co.uk^
 ||piano.login.mastergolfworld.hk^
 ||piano.think.substruction.net^
+||piaproxy.com^
 ||piaproxy.net^
 ||piaservers.net^
 ||picknife.org^
@@ -13739,6 +13742,7 @@
 ||sitenable.com^
 ||sitenable.in^
 ||sitenable.org^
+||sitescrack.host^
 ||sitespeedtest.net^
 ||sitesunblocked.com^
 ||siteunblock.org^
@@ -15116,7 +15120,6 @@
 ||unblockit.uno^
 ||unblockitnow.com^
 ||unblockmate.com^
-||unblockme.us^
 ||unblockmyweb.com^
 ||unblockmywebsite.com^
 ||unblockpro.app^
