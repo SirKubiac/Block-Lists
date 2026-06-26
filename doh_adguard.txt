@@ -3484,6 +3484,7 @@
 ||cskqmqic.cc^
 ||ct-access.pro^
 ||ct-vpn.com^
+||ct1doh.cipherdns.co.za^
 ||ctc.run^
 ||cteqqjve.com^
 ||ctilqhzv.cc^
@@ -16486,6 +16487,7 @@
 ||www-proxy.facil.wtf^
 ||www-proxy.fluxis.xyz^
 ||www-proxy.formen.cc^
+||www-proxy.gelaxiz.xyz^
 ||www-proxy.huorbx.com^
 ||www-proxy.konstl01.xyz^
 ||www-proxy.ladifsoftware.com^
