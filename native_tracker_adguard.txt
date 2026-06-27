@@ -137,6 +137,7 @@
 ||ad.intl.xiaomi.com^
 ||ad.lgsmartad.com^
 ||ad.mi.com^
+||ad.miui.com^
 ||ad.prod.rpay.int.roku.com^
 ||ad.qa.ap.int.roku.com^
 ||ad.quickapp.hybrid.xiaomi.com^
@@ -1889,6 +1890,7 @@
 ||mu-ad-lgsmartad-com.aws-prd.net^
 ||mw.lgsmartad.com^
 ||mx-ad-lgsmartad-com.aws-prd.net^
+||mx-album-api.vivoglobal.com^
 ||mx-cota.vivoglobal.com^
 ||mx-domaincfg.vivoglobal.com^
 ||mx-err-up.vivoglobal.com^
