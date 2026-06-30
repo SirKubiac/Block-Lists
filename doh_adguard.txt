@@ -6729,7 +6729,6 @@
 ||feitan.cloud^
 ||feitan.me^
 ||feiyujiasu.net^
-||feiyulink.net^
 ||felqorn.lol^
 ||felravo.ru^
 ||feltra.ru^
@@ -11540,6 +11539,7 @@
 ||ogxjmzsp.com^
 ||ohapil.eu^
 ||ohgodplease.help^
+||ohttp.prod.via.google^
 ||ohubhsvf.com^
 ||oijkmuiojk.yhujnmok.dingsheng-yule.com^
 ||ointernet.ru^
@@ -12869,6 +12869,7 @@
 ||rammersharkie.freeddns.org^
 ||ramy.run.place^
 ||random12.crabdance.com^
+||randomdomain.shop^
 ||rankedmc.win^
 ||rannma-saikou.easterndns.com^
 ||rannmaa.easterndns.com^
