@@ -140,7 +140,6 @@
 ||1346049272.rsc.cdn77.org^
 ||134744072.work^
 ||1373151536.rsc.cdn77.org^
-||13fwvc7ka.online^
 ||1414230960.rsc.cdn77.org^
 ||1437165997.rsc.cdn77.org^
 ||144-217-77-9.backname.io^
@@ -487,7 +486,6 @@
 ||55gms.skysthelimit.dev.cdn.cloudflare.net^
 ||55gms.skysthelimit.dev^
 ||55gms.store.cdn.cloudflare.net^
-||55gms.store^
 ||55laomao.com^
 ||5656io.easterndns.com^
 ||56rah0pl8g.execute-api.us-east-1.amazonaws.com^
@@ -635,7 +633,6 @@
 ||8v9m.com^
 ||8wgohwr.online^
 ||9-5job.tejidosdedignidad.org^
-||904523.404.mn^
 ||9132706292.cloudns.be^
 ||9184e7e5d684dc56def4c6186122231660620807.com^
 ||91ftq.com^
@@ -1615,6 +1612,7 @@
 ||apache-iv.com^
 ||apamerican.govt.hu^
 ||apexofficial.accesscam.org^
+||apfgexfusion.com^
 ||aphistorytutoring.bastaff.ru^
 ||aphistorytutoring.bisblick.org^
 ||aphistorytutoring.cencopro.cl^
@@ -1978,7 +1976,6 @@
 ||baxtri.ru^
 ||bazooki-infra.dev^
 ||bbbbb.men^
-||bbcincheecks.26252526.xyz^
 ||bcloudv.com^
 ||bcohqwqmvyioqg.xyz^
 ||bd-assets.com^
@@ -6808,6 +6805,7 @@
 ||fiberproxy.net^
 ||fiberproxy.us^
 ||fidelius.top^
+||fifaworldcupfreelivewatchtemporary.xyz^
 ||figcat.cc^
 ||figdon.com^
 ||figure.run^
@@ -11588,7 +11586,6 @@
 ||oneproxy.biz^
 ||onestreaming.org^
 ||onesy.top^
-||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^
 ||onevpn.com^
 ||onion.am^
 ||onion.ca^
@@ -12760,7 +12757,6 @@
 ||quiz.teach.secold.com^
 ||quiz25.live^
 ||quizletixlportal.mooo.com^
-||quizzesandworksheets.26252526.xyz^
 ||qulz.top^
 ||qumverta.ru^
 ||quoltira.ru^
@@ -13881,7 +13877,6 @@
 ||songochain.freeddns.org^
 ||sonicsvpn.com^
 ||sonyacity.com^
-||sophie-fulton.26252526.xyz^
 ||soporte-premium.duckdns.org^
 ||sorephie-dns2.ddns.net^
 ||sorryimplayingwiththefroggiesinthearcade.mahesh-khanal.com.np^
@@ -13913,7 +13908,6 @@
 ||speedifynetworks.com^
 ||speedin.com^
 ||speedin.in^
-||speedineedthis7475.404.mn^
 ||speedinpc.com^
 ||speedlynk.com^
 ||speedprintvisit.com^
@@ -16278,7 +16272,6 @@
 ||whateverorigin.org^
 ||whatsonthebox.net^
 ||whatsuprox.com^
-||when-sophie-gets-angry.26252526.xyz^
 ||whendopilotsgotosleep.rhodec.rocks^
 ||wheresyourmoney.chickenkiller.com^
 ||wheresyourmoney.gatewayjobs.com.np^
