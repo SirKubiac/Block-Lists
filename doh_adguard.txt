@@ -535,9 +535,7 @@
 ||67.langhorne.ws^
 ||6741.it.com^
 ||676141mango1.itafricagroup.com^
-||6767676767676767676162.allisons.org^
 ||676767676767676767616864.allisons.org^
-||67676767676767676762.allisons.org^
 ||67818-bro.strangled.net^
 ||67dircen67.pjabbari.com^
 ||67hub.decoro.cl^
@@ -636,7 +634,6 @@
 ||9132706292.cloudns.be^
 ||9184e7e5d684dc56def4c6186122231660620807.com^
 ||91ftq.com^
-||91vpn02.cfd^
 ||91zfdao.com^
 ||92-38-177-16.nip.io^
 ||92-38-177-16.plesk.page^
@@ -1018,7 +1015,6 @@
 ||adguard.aminetwork.biz^
 ||adguard.amscenter.net^
 ||adguard.app.sabino.pro^
-||adguard.avavd.ru^
 ||adguard.ayrespace.cc^
 ||adguard.baltes.info^
 ||adguard.bitteeinbyte.de^
@@ -1244,7 +1240,6 @@
 ||ads.x88.in^
 ||adsimix.com^
 ||adsl.viettel.vn^
-||adslimit.info^
 ||adsnexage.com^
 ||adsnzebv.com^
 ||adsoasis.xyz^
@@ -1342,7 +1337,6 @@
 ||aicx99.shop^
 ||aihe.app^
 ||aiiaguli.info^
-||ailivechatweb.com^
 ||ailogogenerator.top^
 ||ainavigate.app^
 ||aioz.network^
@@ -1526,7 +1520,6 @@
 ||angelvpn.com^
 ||angry.pp.ua^
 ||angrysky.ru^
-||anhphamhn82.uk^
 ||animeproxy.net^
 ||aniscartujo.com^
 ||anixlab.com^
@@ -1534,7 +1527,6 @@
 ||annual2025.uk^
 ||ano404.top^
 ||anol.loan^
-||anomivpn.com^
 ||anonine.com^
 ||anonto.pw^
 ||anonvpn.io^
@@ -1585,7 +1577,6 @@
 ||aox777.xyz^
 ||aoxblog.com^
 ||aoxera.xyz^
-||aoxinvite.com^
 ||aoxjiasu.com^
 ||aoxjsq666.com^
 ||aoxlink.com^
@@ -1724,7 +1715,6 @@
 ||arnsvr.site^
 ||aroeuyo.dns64.de^
 ||arrakis.korolyzer.com.br^
-||arrives.run^
 ||arrow.clean.abrdns.com^
 ||art-class-omg.vercel.app^
 ||art.lexvoip.com^
@@ -1782,7 +1772,6 @@
 ||astrillcn.com^
 ||astrilldownloads.com^
 ||astrilljiasu.com^
-||astrilljsvpn.com^
 ||astrillvpnapp.com^
 ||astroid-go-static.pages.dev^
 ||astroid-three.vercel.app^
@@ -1810,7 +1799,6 @@
 ||au-syd-w-f-1.nashkan.net^
 ||au-syd-w-p-1.nashkan.net^
 ||au.rslvr.eu^
-||auberge78.site^
 ||audiobooks.netlibrary.click^
 ||auraclient.com^
 ||aurevia.ru^
@@ -2366,7 +2354,6 @@
 ||bigdih.shop^
 ||bigdihuptheahh.buzz^
 ||biggerneverknown.com.twilightparadox.com^
-||bigjimmy.xyz^
 ||bigma.org^
 ||bigmoney.cc^
 ||bigquerycdn.com^
@@ -2387,7 +2374,6 @@
 ||biology.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||biology.ndr.cl^
 ||biology.nicher.cl^
-||birgerboy.com^
 ||bit01-mfivuot8.top^
 ||bit02-u6bgppq7.top^
 ||bitaqwlx.com^
@@ -2700,7 +2686,6 @@
 ||bullvpn.com^
 ||bum.education^
 ||bumpy-picture.surge.sh^
-||bun.s.baumgardner.us^
 ||bunkerbustervpn.com^
 ||bunnydihhh.hotelconsuladoinn.com^
 ||bunnydihhhh.hotelconsuladoinn.com^
@@ -3354,7 +3339,6 @@
 ||cool-proxy.net^
 ||cool.creatyc.com^
 ||cool.wikilegia.org^
-||cool67.allisons.org^
 ||coolblackboard.pages.dev^
 ||cooldude123.sociedadelcubo.com^
 ||coolervpn.help^
@@ -3991,7 +3975,6 @@
 ||dash.learnenglishinmerton.org^
 ||dashboard.6brothersimports.com.cdn.cloudflare.net^
 ||dashboard.adidasnmdcitysock.com.cdn.cloudflare.net^
-||dashboard.adidasnmdcitysock.com^
 ||dashboard.noamank.com^
 ||dashboard.vincenzodimaro.it.cdn.cloudflare.net^
 ||dashboard.vincenzodimaro.it^
@@ -4119,7 +4102,6 @@
 ||desm0s.vercel.app^
 ||desm0slearning.vercel.app^
 ||desmos.dazzos.com^
-||desmos.edu.baumgardner.us^
 ||desmosclassroomtpday.sentinet.co.za^
 ||desmosmath.graphicon.ru^
 ||desmossciencehelp.global.ssl.fastly.net^
@@ -4329,7 +4311,6 @@
 ||dns.853852.xyz^
 ||dns.886886886.xyz^
 ||dns.888654.xyz^
-||dns.890806.xyz^
 ||dns.920313.xyz^
 ||dns.985900.xyz^
 ||dns.9999.sg^
@@ -4388,7 +4369,6 @@
 ||dns.audet.cloud^
 ||dns.auffray.org^
 ||dns.axto.me^
-||dns.aykanbacaksoy.de^
 ||dns.azcom.dev^
 ||dns.azfar.my^
 ||dns.b33.network^
@@ -5473,7 +5453,6 @@
 ||doh.immerda.ch^
 ||doh.infracell.net^
 ||doh.iqiyi.com^
-||doh.iucc.ac.il^
 ||doh.jeroenhd.nl^
 ||doh.kekew.info^
 ||doh.kekew.racing^
@@ -5775,7 +5754,6 @@
 ||drgdtk6726lp4.cloudfront.net^
 ||driftvibe.cfd^
 ||drinksnucleus.com^
-||drive.google.com.adultboss.pl^
 ||drive.google.com.csdue.it^
 ||drive.google.com.drciocan.ro^
 ||drive.google.com.exid.me^
@@ -6114,8 +6092,6 @@
 ||edu.ucecom-craiova.ro^
 ||edublue.org^
 ||education-learning.wanhuiarchitect.com^
-||education.babushkamail.com^
-||education.balalaikamail.com^
 ||education.com.boxathome.net^
 ||education.gosdumamail.com^
 ||education.gpu74.ru^
@@ -6123,31 +6099,6 @@
 ||education.mojoteeth.ca^
 ||education.tejidosdedignidad.org^
 ||education.zeptoinitiative.org^
-||education1082.babushkamail.com^
-||education123.babushkamail.com^
-||education12897.babushkamail.com^
-||education13232.babushkamail.com^
-||education14195.babushkamail.com^
-||education15257.babushkamail.com^
-||education18968.babushkamail.com^
-||education19066.babushkamail.com^
-||education21336.babushkamail.com^
-||education23400.babushkamail.com^
-||education23695.babushkamail.com^
-||education25932.babushkamail.com^
-||education26144.babushkamail.com^
-||education27423.babushkamail.com^
-||education29217.babushkamail.com^
-||education30974.babushkamail.com^
-||education31880.babushkamail.com^
-||education32550.babushkamail.com^
-||education32619.babushkamail.com^
-||education4391.babushkamail.com^
-||education5394.babushkamail.com^
-||education6353.babushkamail.com^
-||education6833.babushkamail.com^
-||education7035.babushkamail.com^
-||education9588.babushkamail.com^
 ||educational-site.24x7.hk^
 ||educational.radissontucson.com^
 ||educational2learn.highdesertcoders.com^
@@ -6744,7 +6695,6 @@
 ||fent.rest^
 ||feqfqsweffqwe.myaddr.tools^
 ||fer.verandahotels.com^
-||fern-is.nice.baumgardner.us^
 ||fern.ape3d.com^
 ||fern.best.blinklab.com^
 ||fern.best^
@@ -6990,7 +6940,6 @@
 ||fralcks.com^
 ||frandcomfort.us^
 ||frank-web.dedyn.io^
-||franzosen.bad.mn^
 ||frasfznl.com^
 ||fravix.ru^
 ||fraymova.ru^
@@ -7487,7 +7436,6 @@
 ||gmodsandbox.com^
 ||gms.gmsgroup.app^
 ||gmsmedia.pics^
-||gn-math.is-annoying.cuz-of.the-soundboard.baumgardner.us^
 ||gn-z11.franscois.co.za^
 ||gngstopblockinmyshi.geetabasyal.com.np^
 ||gnuvpn.com^
@@ -7665,7 +7613,6 @@
 ||greppie.nl^
 ||grestilo.ru^
 ||grevino.ru^
-||grgrgrkeepcalmkeepcalm.asatid12.ir^
 ||grid.know.hs.vc^
 ||grim-ora.ru^
 ||grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws^
@@ -7774,7 +7721,6 @@
 ||haffnetworkot.com^
 ||haffnetworkpr.com^
 ||haffnetworktt.com^
-||haha-no.one-knows.how.to.make-links.baumgardner.us^
 ||hahhahahaaaahahahahahaahahahahahahahahahahahahaha.mooo.com^
 ||hahwugqe.com^
 ||hai913.com^
@@ -8160,7 +8106,6 @@
 ||himfswgj.com^
 ||himik.chickenkiller.com^
 ||himinecraft.com^
-||hint.bamastuff.com^
 ||hintz.pics^
 ||hiproxy.net^
 ||hiqifei.com^
@@ -9077,7 +9022,6 @@
 ||jobi.one.cdn.cloudflare.net^
 ||jobi.one^
 ||jobiakaajhsgoodboy.ajh.boats.cdn.cloudflare.net^
-||jobixtetoyuri.ames.website^
 ||jobjapan.com^
 ||jobs.bostoncareercounselor.com^
 ||joczxcrdycxbhslwzu.online^
@@ -9947,7 +9891,6 @@
 ||leitingjiasu.net^
 ||leitingvpn1.com^
 ||lelux.fi^
-||lemonlimesuckers.barabesta.is^
 ||lengua.insti.mooo.com^
 ||lenz.bouncers4rent.com^
 ||leoadguard.duckdns.org^
@@ -12567,7 +12510,6 @@
 ||pudnlsiw.cc^
 ||puhr.top^
 ||pulodyii.com^
-||pulsewire.atamanco.eu^
 ||pulvaro.ru^
 ||pulyavpn.blog^
 ||pulyavpn.cc^
@@ -14792,9 +14734,6 @@
 ||trialproxy.com^
 ||tributh.net^
 ||trickbyte.com^
-||trig.bamastuff.com^
-||trigg.bamastuff.com^
-||triggg.bamastuff.com^
 ||trilightzone.org^
 ||trinitypreschoolmp.org^
 ||tripham.marieblazek.com^
@@ -16519,7 +16458,6 @@
 ||www.pleaseinput.html-5.me^
 ||www.portal.dont-let-securly-block-this.duckdns.org^
 ||www.securly.com.0x35a4e4f5.cc^
-||www.securly.com.australianwildharvest.com^
 ||www.securly.com.bangerade.us^
 ||www.securly.com.bookpropofplace.com^
 ||www.securly.com.dnscream.com^
@@ -16997,7 +16935,6 @@
 ||yyssr.net^
 ||yyssr.org^
 ||yyvjf.cn^
-||z.axsetubal.pt^
 ||z.vipit.one^
 ||z01g.com^
 ||z04g.com^
