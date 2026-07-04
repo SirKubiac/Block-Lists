@@ -290,6 +290,7 @@ analytics-attribution-va.tiktok.com
 analytics-attribution-va.tiktok.com.edgekey.net
 analytics-attribution.tiktok.com
 analytics-dev-api.test.samsunghealth.com
+analytics-events.apple.com
 analytics-exp-i18n.tiktok.com
 analytics-exp-i18n.tiktok.com.edgekey.net
 analytics-exp-ru.tiktok.com
@@ -800,7 +801,6 @@ crypto-dsf-in.allawnos.com
 crypto-dsf-sg.allawnos.com
 crypto-dsf-us.allawnos.com
 cse.avlyun.sec.miui.com
-cstat-lb.apple.com.akadns.net
 cstat-origin.apple.com
 cstat.apple.com
 cstat.apple.com.edgesuite.net
@@ -1912,6 +1912,7 @@ mz-ad-lgsmartad-com.aws-prd.net
 na-ad-lgsmartad-com.aws-prd.net
 nav.sec.miui.com
 netcheck.pandora.xiaomi.com
+news-analytics-events.apple.com
 news-app-events.apple.com
 news-events.apple.com
 news-notification-events.apple.com
@@ -2042,6 +2043,7 @@ pl.lgsmartad.com
 plbusiness.samsung.com
 pmir.sec.miui.com
 pnrt-stsdk.vivoglobal.com
+podcasts-analytics-events.apple.com
 port.sec.intl.miui.com
 port.sec.miui.com
 pr-ad-lgsmartad-com.aws-prd.net
@@ -2625,6 +2627,7 @@ ts.amazon-adsystem.com
 tsearch.snssdk.com
 tt-ad-lgsmartad-com.aws-prd.net
 tt.lgsmartad.com
+tv-analytics-events.apple.com
 tvboss.pandora.xiaomi.com
 tvepg.pandora.xiaomi.com
 tw-ad-lgsmartad-com.aws-prd.net
@@ -2774,11 +2777,9 @@ xlog16-platform-useast5.us.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
 xn-ex-adreq-asa-c5b.vivoglobal.com
-xp-cdn-lb.itunes-apple.com.akadns.net
 xp-cdn.apple.com
 xp.apple.com
 xp.apple.com.edgekey.net
-xp.itunes-apple.com.akadns.net
 xp.v.aaplimg.com
 xpu.samsungelectronics.com
 ye-ad-lgsmartad-com.aws-prd.net
