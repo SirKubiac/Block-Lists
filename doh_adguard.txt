@@ -684,7 +684,6 @@
 ||aaaaaaaaaa.dinprima.ro^
 ||aaaaaaaaaaaa.eminescusm.ro^
 ||aaaaaaaaaaaaaaaaa.easterndns.com^
-||aanakwd.jumpingcrab.com^
 ||aapljs.com^
 ||aarash.pro^
 ||aaron.listens.to.mango.phonk.bine.me^
@@ -1082,7 +1081,6 @@
 ||adguard.kngnet.de^
 ||adguard.konikoni428.com^
 ||adguard.konnkors.lol^
-||adguard.lamhoangtung.space^
 ||adguard.laurenlaufman.com^
 ||adguard.lege.despagne.net^
 ||adguard.llf520.dpdns.org^
@@ -1346,7 +1344,6 @@
 ||aisigma-vpn.help^
 ||aiskyapp.com^
 ||aisleep.info^
-||aitkcrev.minhduc.pw^
 ||aivpn.mom^
 ||aiyun007.top^
 ||aiyunjiasu.net^
@@ -2547,7 +2544,6 @@
 ||bramka-proxy.pl^
 ||bran-ex.ru^
 ||bran.covalpo.cl^
-||brandon.jwork.ru^
 ||brastil.ru^
 ||bratokvpn.com^
 ||brave-mind-304.conwordable.com^
@@ -2589,8 +2585,6 @@
 ||bro-ru.org^
 ||broadcastelement.space^
 ||broadearn.com^
-||brollyho.professor.keybusinessconnection.com^
-||brollyonly.keybusinessconnection.com^
 ||bromineproxy.netlify.app^
 ||broniva.ru^
 ||brooklyndancefestival.org^
@@ -2930,7 +2924,6 @@
 ||cdnonedge.org^
 ||cdnpaopaogou.top^
 ||cdnpaopaoyun.top^
-||cdns.lagzerotm.com^
 ||cdnshandian.top^
 ||cdnstreamer.com^
 ||cdntanz.top^
@@ -5548,7 +5541,6 @@
 ||domayi.com^
 ||domburg.beruys.com^
 ||domeq.waw.pl^
-||domer.merniekszm.lv^
 ||domfswgj.com^
 ||domiaa.ru^
 ||domifeng.com^
@@ -6075,7 +6067,6 @@
 ||eeaglevpn.com^
 ||eeeb.loan^
 ||eef62cfd612e33b5871850596955c76e42b4eaa9.com^
-||eeffoc.merniekszm.lv^
 ||eepresearch.org^
 ||effuz.cn^
 ||efxyyjlf.cc^
@@ -6642,7 +6633,6 @@
 ||fern.best.blinklab.com^
 ||fern.best^
 ||fern.crosbreaker.dev^
-||fern.lovethosetrains.com^
 ||fern.mine.bz^
 ||fern.r4ash.work.gd^
 ||fern.ub.phuri.cc^
@@ -8508,7 +8498,6 @@
 ||image-grid-maker.com^
 ||imageflow.club^
 ||imagetrove.org^
-||imagine-learning.marqenhotels.com^
 ||imaginelearningmath.com^
 ||imbavpn.mom^
 ||imbored.crabdance.com^
@@ -8873,7 +8862,6 @@
 ||jirvanto.ru^
 ||jisuvip.info^
 ||jit.ddns.net^
-||jitudh.xyz^
 ||jiujiu-speed.com^
 ||jiujiu-speed.net^
 ||jiujiuspeed.net^
@@ -8893,7 +8881,6 @@
 ||jjjxgc.com^
 ||jjk.deltacompy.com.br^
 ||jjoiug.ipv64.net^
-||jjs-bbq.space^
 ||jjspeed.com^
 ||jk-cloud.net^
 ||jkbest033.net^
@@ -8924,7 +8911,6 @@
 ||johnbartlett.keybusinessconnection.com^
 ||johnbingofelden.org^
 ||johneldenring.lol^
-||johnfrost.lumiwow.su^
 ||johnineedeep.org^
 ||johnkellyprivate.com^
 ||joindns4.in^
@@ -8941,7 +8927,6 @@
 ||jongserver.xyz^
 ||joniro.ru^
 ||jonzalvo.duckdns.org^
-||joouddo.ru^
 ||jooy.cc^
 ||jopidf.ipv64.net^
 ||jordanburrow.com^
@@ -9147,7 +9132,6 @@
 ||keithchunguat.hopto.org^
 ||keito.swanndvr.net^
 ||kejifenxiang.com^
-||kekv.fun^
 ||keldrix.xyz^
 ||kellerbier-home.com^
 ||kelrano.ru^
@@ -9221,7 +9205,6 @@
 ||klavino.ru^
 ||klctextor5ag.online^
 ||klevoro.ru^
-||klgf.net^
 ||klimora.ru^
 ||klimydkx.com^
 ||klivaro.ru^
@@ -9512,14 +9495,11 @@
 ||kuailian-st.com^
 ||kuailian-ui.com^
 ||kuailian-vip.com^
-||kuailian-vlp.com^
 ||kuailian-vpn.com^
 ||kuailian-vpn.vip^
 ||kuailian-we.com^
 ||kuailian-web.com^
 ||kuailian-win.com^
-||kuailian-wins.com^
-||kuailian-world.com^
 ||kuailian-wp.com^
 ||kuailian-zo.com^
 ||kuailian.cc^
@@ -9574,7 +9554,6 @@
 ||kuailianvv.com^
 ||kuailianworld.org.cn^
 ||kuailianx.com^
-||kuailianx.org^
 ||kuailiian.com^
 ||kuailivpn.cn^
 ||kuailkian.com^
@@ -9628,7 +9607,6 @@
 ||laddervpnapp.com^
 ||laflame.us^
 ||lagom.click^
-||lagomvpn.biz^
 ||lagomvpn.com^
 ||lagomvpn.help^
 ||lagomvpn.org^
@@ -9643,9 +9621,6 @@
 ||lanfancloud.info^
 ||language.smelly.cc^
 ||languagelearninginc.com^
-||lanmao365.com^
-||lanmaojiasu.com^
-||lanmaoyun.cc^
 ||lanmaoyun.uk^
 ||lantern.io^
 ||lanternvpn.biz^
@@ -9778,7 +9753,6 @@
 ||lerbix.xyz^
 ||les-vpn.com^
 ||lestfvpn.com^
-||lestkuai.com^
 ||lesuo.top^
 ||letlab.online^
 ||letmeoutletmeout.xyz^
@@ -9794,41 +9768,29 @@
 ||lets-vpn.net^
 ||lets-vpn.org^
 ||lets-vpn.pub^
-||lets-vpn.tv^
 ||lets-vpns.com^
 ||lets.ac.cn^
 ||lets.lat^
-||letsauqvpn.com^
-||letsavuvpn.com^
 ||letsbavvpn.com^
 ||letsbvpn.com^
 ||letsccsvpn.com^
-||letscifvpn.com^
 ||letscn.cn^
 ||letsconn.com^
 ||letsconnectkuailianvpn.com^
 ||letscpvpn.com^
-||letsddxvpn.com^
 ||letseaivpn.com^
 ||letsejavpn.com^
-||letsiesvpn.com^
 ||letsilvpn.com^
 ||letslian.com^
 ||letslvpn.com^
-||letsoifvpn.com^
 ||letsoluvpn.com^
-||letsoqqvpn.com^
-||letspcxvpn.com^
-||letsphcvpn.com^
 ||letspmnvpn.com^
 ||letsqtkvpn.com^
 ||letsrstvpn.com^
-||letsvmevpn.com^
 ||letsvpn-cn.co^
 ||letsvpn-hd.com^
 ||letsvpn-kuailian.com^
 ||letsvpn-kuailian.net^
-||letsvpn-pc.cn^
 ||letsvpn-w0rid.com^
 ||letsvpn-w0rld.com^
 ||letsvpn-worid.com^
@@ -9863,7 +9825,6 @@
 ||letsxvpn.com^
 ||letsyuivpn.com^
 ||letvpn.net^
-||letvpna.com^
 ||level.how.denizbuklet.com^
 ||levsvpn.com^
 ||lewsha.lol^
@@ -9927,7 +9888,6 @@
 ||link-two.ibewlocalzero.com^
 ||link-vpn.mom^
 ||link.altapo.ru^
-||linkideo.com^
 ||linkmefree.net^
 ||linkmetube.com^
 ||linknet.linkpc.net^
@@ -10033,7 +9993,6 @@
 ||lopana.com^
 ||lor-vino.ru^
 ||lorc17-dns.komeho.info^
-||lord-justice.lol^
 ||lordsalty.com^
 ||lorvino.ru^
 ||lostwi.cn^
@@ -10089,7 +10048,6 @@
 ||lunaar.org.cdn.cloudflare.net^
 ||lunaar.org^
 ||lunar.vcsa.gpu74.ru^
-||lunaralgebra.localization.ee^
 ||lunarsync.smartfoloo.space^
 ||lunazf.cn^
 ||lunoluno.org^
@@ -10145,7 +10103,6 @@
 ||making-more-kids-from-ur-mother.hosteriafutaleufu.cl^
 ||makomako.easterndns.com^
 ||malanser.ru^
-||malelolula.store^
 ||maleyu.org^
 ||mallocapp.com^
 ||mallocprivacy.com^
@@ -10169,7 +10126,6 @@
 ||mapspublications.us^
 ||maqgie.xyz^
 ||maradns.org^
-||marjifx.club^
 ||marko1oko.online^
 ||marnovx.xyz^
 ||maroon.momentos.com.ar^
@@ -10263,7 +10219,6 @@
 ||mathwonders.xyz^
 ||matorian.pro^
 ||matrixvpn.net^
-||maureenesther.website^
 ||mavalleenumerique.hopto.org^
 ||mavrex.ru^
 ||maxfong.cc^
@@ -10352,7 +10307,6 @@
 ||metrovpn.mobi^
 ||metrovpn.net^
 ||metrovpn.xyz^
-||metteolovesitinthebut.jumpingcrab.com^
 ||mexi.lol.cdn.cloudflare.net^
 ||mexi.lol^
 ||mexi.rest.cdn.cloudflare.net^
@@ -10420,7 +10374,6 @@
 ||miscrosoft365.cloud^
 ||miseryrecord.com^
 ||missionjesus.net^
-||mistasinresolver.ru^
 ||mixing.run^
 ||mixturestab.com^
 ||mizban-r.site^
@@ -11469,7 +11422,6 @@
 ||orange1.freeddns.us^
 ||orangeproxy.net^
 ||orau.lz0724.com^
-||oraxenpetea.lczipper.com^
 ||orbit.bio.xand.es^
 ||orbit.craft.kuede.info^
 ||orbit.tutor.damienhollier.com^
@@ -11705,7 +11657,6 @@
 ||personaly.click^
 ||pervilo.ru^
 ||pesoalbay.live^
-||petenirbyte.lczipper.com^
 ||petervpn.com^
 ||petezah.pages.dev^
 ||petezahbare.adidasnmdcitysock.com.cdn.cloudflare.net^
@@ -11783,7 +11734,6 @@
 ||pirzjdlz.com^
 ||piscatorial.karrozzin.cloud-ip.cc^
 ||pisk.loan^
-||pistontomato.endis.it.com^
 ||pitchforkwaydns.duckdns.org^
 ||pitertv24.ru^
 ||pixelgorithm.com^
@@ -12552,7 +12502,6 @@
 ||quoltira.ru^
 ||quonira.ru^
 ||quorilo.ru^
-||qusr.jumpingcrab.com^
 ||qustano.xyz^
 ||qv2ray.org^
 ||qvkyjkus.cc^
@@ -12609,14 +12558,12 @@
 ||rainforest.lol^
 ||raininglondon.com^
 ||rainshadow.help^
-||raiseyouryayaya.katan.ro^
 ||rajgdpqu.com^
 ||raldrix.ru^
 ||raltrix.ru^
 ||ralveno.ru^
 ||ram.br3xality.org^
 ||ram.kdot.cam^
-||ram.kunar.baby^
 ||rameo.myclarevision.com^
 ||ramivo.ru^
 ||ramjam.pythontheproto.com^
@@ -12859,7 +12806,6 @@
 ||rivrs.shop^
 ||rivrs.xyz^
 ||rizzgodmogger.duckdns.org^
-||rizzmas2025.marqenhotels.com^
 ||rj7wzq-8080.csb.app^
 ||rjaldorau.com^
 ||rkptestdomain.site^
@@ -13050,7 +12996,6 @@
 ||sams.adg.siudzinski.net^
 ||samsungmax.com^
 ||samual.twilightparadox.com^
-||samuel-is-your-leader.jumpingcrab.com^
 ||san134.net^
 ||sandmining.us^
 ||sandparticles.us^
@@ -13325,7 +13270,6 @@
 ||shadow-hiyu.easterndns.com^
 ||shadow-vp.easterndns.com^
 ||shadow.curesoutpost.com^
-||shadow.localization.ee^
 ||shadow.vcsa.blackonstuff.com^
 ||shadow001.easterndns.com^
 ||shadow1.easterndns.com^
@@ -13492,11 +13436,9 @@
 ||sitev3.org^
 ||sitework.info^
 ||sitx2.cc^
-||sixone.merniekszm.lv^
 ||sixseveendj82iiddududjdjeuei.ckm.scarboroughgymelites.ca^
 ||sixseven67.errorrail.dev^
 ||sixsevwnmanfosude.strangled.net^
-||sixsveen2927e8iddj.localization.ee^
 ||size.registration.abrdns.com^
 ||sjaarzmo.com^
 ||sjlx.win^
@@ -13548,7 +13490,6 @@
 ||skyvpn.net^
 ||slayerseducation.dinprima.ro^
 ||sleds.manutec.dinprima.ro^
-||sleep-studies.marqenhotels.com^
 ||sleepsleepplease.org^
 ||sleepwouldbenice.org^
 ||sleepyineedsleep.xyz^
@@ -14235,7 +14176,6 @@
 ||thejungla.com^
 ||thelastempire.easterndns.com^
 ||themathoffun.xyz^
-||themaxeni.lczipper.com^
 ||theme.basic.voomi.com^
 ||themeaningofallmeaningsforallofthemeaningsmeanings.lol^
 ||themebm.com^
@@ -14823,7 +14763,6 @@
 ||unblockedstreaming.org^
 ||unblockedv4.com^
 ||unblockedwarez.com^
-||unblockedxerr.lczipper.com^
 ||unblocker.cc^
 ||unblocker.net^
 ||unblocker.netlify.app^
@@ -14995,6 +14934,7 @@
 ||us1.cambrianscientific.com^
 ||us1.dns.lavate.ch^
 ||us2-browse.startpage.com^
+||us3-browse.startpage.com^
 ||us4-ubg.global.ssl.fastly.net^
 ||us44nas.top^
 ||usa-proxy.org^
@@ -15371,6 +15311,7 @@
 ||vpn-free.com^
 ||vpn-free.download^
 ||vpn-free.pro^
+||vpn-kostenlos.com^
 ||vpn-kuailianapp.com^
 ||vpn-lets.com^
 ||vpn-lets.dev^
@@ -15884,7 +15825,6 @@
 ||web-rated.ie^
 ||web.artweb.website.cdn.cloudflare.net^
 ||web.itafricagroup.com^
-||web.jiij.cc^
 ||web.unstop.cloudns.ch^
 ||web.vserver.app^
 ||web01.privatedns.org^
@@ -16219,10 +16159,8 @@
 ||www.3.theartieschaffer.com^
 ||www.94.theartieschaffer.com^
 ||www.bhghhfhgffghfjh.152-53-136-204.plesk.page^
-||www.google.com.mikata.ru^
 ||www.i.cpfrx.info^
 ||www.iloveto.talk4fun.net^
-||www.itrsa.env.lntxbox.com^
 ||www.itrsa.home.next.youradbyus.com^
 ||www.nogfdb.ipv64.net^
 ||www.p.theartieschaffer.com^
@@ -16236,7 +16174,6 @@
 ||www.securly.com.dnsear.com^
 ||www.securly.com.dynamosolutions.com.ar^
 ||www.securly.com.jackietian.com^
-||www.securly.com.laangles.com^
 ||www.securly.com.riteeats.com^
 ||www.securly.com.salavat.ru^
 ||www.securly.com.setto.cl^
