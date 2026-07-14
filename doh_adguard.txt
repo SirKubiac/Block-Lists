@@ -272,6 +272,7 @@
 ||1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com^
 ||1void-vision2.global.ssl.fastly.net^
 ||1vpn.app^
+||1vpn.co^
 ||1vpn.org^
 ||1vpn.website^
 ||1xiaowang.com^
@@ -1602,6 +1603,7 @@
 ||api.get-just-api.com^
 ||api.miningbest.com^
 ||api.nolathedogtherapist.com^
+||api.npvu.me^
 ||api.rdocart.com^
 ||api.sailforeducation.org^
 ||api.smoz.me^
@@ -3148,11 +3150,15 @@
 ||cloud2.holzmannclouddns.de^
 ||cloudbenders.fun^
 ||cloudbob.fr^
+||cloudburstcdn.com^
+||cloudflaracdn.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
 ||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudflares.ddns.net^
+||cloudflingcdn.com^
+||cloudlogcdn.com^
 ||cloudnetcdn.com^
 ||cloudnetwork.pro^
 ||cloudns.bosco.ovh^
@@ -3164,6 +3170,7 @@
 ||cloudsrv.charitosnet.de^
 ||cloudssh.net^
 ||cloudssh.us^
+||cloudtimecdn.com^
 ||cloudvpn.ai^
 ||cloudvpn.pro^
 ||clovian.ru^
@@ -4383,6 +4390,7 @@
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
+||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
