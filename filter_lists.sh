@@ -16,12 +16,16 @@ ads_tracker_url_sophos=(
     "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/multi.txt"
     "https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt"
     "https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/r-a-y/AdguardMobileAds.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/firebog/AdguardDNS.fork.txt"
 )
 
 ads_tracker_url_adguard=(
     "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt"
     "https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt"
     "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"
+    "https://blocklist.sefinek.net/generated/v1/adguard/ads/r-a-y/AdguardMobileAds.fork.txt"
+    "https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/AdguardDNS.fork.txt"
 )
 
 # URL for AMP blocklist
