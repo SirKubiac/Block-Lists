@@ -7525,7 +7525,6 @@
 ||guestappearance.us^
 ||guide.terms.gatpp.com^
 ||guidetoworld.link^
-||guigu.dns.army^
 ||guildstashtracker.xyz^
 ||gulaaron.ru^
 ||gule.loan^
