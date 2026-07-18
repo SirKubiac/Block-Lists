@@ -22,3 +22,5 @@
 ||wns.windows.com^
 ||geo.prod.do.dsp.mp.microsoft.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
+||config.edge.skype.com^
+||config.edge.skype.com.trafficmanager.net^
