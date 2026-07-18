@@ -27,3 +27,4 @@
 ||inference.location.live.net^
 ||iris.microsoft.com^
 ||activity.windows.com^
+||telem-edge.smartscreen.microsoft.com^
