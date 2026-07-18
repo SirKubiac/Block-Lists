@@ -22,3 +22,4 @@ arc.msn.com
 client.wns.windows.com
 geo.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
+wns.windows.com
