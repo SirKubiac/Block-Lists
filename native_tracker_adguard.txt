@@ -49,7 +49,6 @@
 ||aax-fe.amazon-adsystem.com^
 ||aax-gamma-us-east.axp.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
-||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
@@ -2003,6 +2002,7 @@
 ||opex-service-eu.allawnos.com^
 ||opex-service-in.allawnos.com^
 ||opex-service-sg.allawnos.com^
+||origin-sq-tungsten-ts-fe.amazon-adsystem.com^
 ||origin-sq-tungsten-ts.amazon-adsystem.com^
 ||orsdls.di.runestone.samsung.com^
 ||orsfs.di.runestone.samsung.com^
@@ -2145,6 +2145,7 @@
 ||rtb.axp.amazon-adsystem.com^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
+||rtc-logger-ttp2.tiktokv.us^
 ||rtc-logger-ttp2.us.tiktokv.com^
 ||rtc-logger-va.tiktokv.com^
 ||rtc-logger.tiktokv.com^
