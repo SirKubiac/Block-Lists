@@ -25,3 +25,6 @@ geo.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
 config.edge.skype.com.trafficmanager.net
 config.edge.skype.com
+inference.location.live.net
+iris.microsoft.com
+activity.windows.com
