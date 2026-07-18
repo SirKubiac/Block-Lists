@@ -24,3 +24,6 @@
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||config.edge.skype.com^
 ||config.edge.skype.com.trafficmanager.net^
+||inference.location.live.net^
+||iris.microsoft.com^
+||activity.windows.com^
