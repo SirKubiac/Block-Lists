@@ -20,6 +20,8 @@ fp.msedge.net
 msedge.net
 arc.msn.com
 client.wns.windows.com
+wns.windows.com
 geo.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
-wns.windows.com
+config.edge.skype.com.trafficmanager.net
+config.edge.skype.com
