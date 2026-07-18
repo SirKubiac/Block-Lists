@@ -3991,7 +3991,6 @@
 ||ddx.v2.nana.rinet.ai^
 ||ddy7y2gzhimwt.cloudfront.net^
 ||de-adguard.dr3ff1c13nt.com^
-||de-f1.foxyfy.net^
 ||de-fra-w-f-1.nashkan.net^
 ||de-fra-w-f-2.nashkan.net^
 ||de-fra-w-f-3.nashkan.net^
@@ -4415,7 +4414,6 @@
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
-||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -10274,6 +10272,7 @@
 ||mehmetgayalo.southern.com.my^
 ||melisatea.com^
 ||mellowtel-bucket.s3.us-east-1.amazonaws.com^
+||meloo.bond^
 ||melqorvixa.xyz^
 ||membean.cf^
 ||memojiaura.com^
@@ -14054,6 +14053,7 @@
 ||techtecnow.club^
 ||techvaso.com^
 ||tecworx.at^
+||tejiass.com^
 ||telegramnn.org^
 ||telegramproxy.internetofthingsdev.com^
 ||telegramvpn.mom^
@@ -14149,13 +14149,16 @@
 ||theproxy.cc^
 ||theproxy.club^
 ||theproxy.dev^
+||theproxy.ink^
 ||theproxy.io^
 ||theproxy.lol^
 ||theproxy.red^
 ||theproxy.vip^
+||theproxy.work^
 ||theproxy2.biz^
 ||theproxy2.com^
 ||theproxya.org^
+||theproxyer.com^
 ||theproxyguide.com^
 ||theproxyultra.com^
 ||therabbitvpn.com^
@@ -14177,6 +14180,7 @@
 ||thiscopyofartclassisnotgenuine.rare1k.space^
 ||thiscost1dollar.store^
 ||thisismathteach.myclarevision.com^
+||thisisthe.bestprogramsforkids.com^
 ||thisthingrighthere.store^
 ||thiswebsiteispeak4life.com.ignorelist.com^
 ||thjk.srv64.de^
@@ -14276,6 +14280,7 @@
 ||tnquyfpp.com^
 ||tns5gcwfy.online^
 ||tntv2.com^
+||tnvpn.com^
 ||toaster.lol^
 ||tobias.myaddr.dev^
 ||tobias.myaddr.io^
@@ -14364,6 +14369,7 @@
 ||totorocloud.info^
 ||totorocloud.net^
 ||totorocloud.org^
+||totovps.com^
 ||touching.diddy.men^
 ||touchvpn.net^
 ||touhou.tel^
@@ -14406,6 +14412,7 @@
 ||travel.taniadomena.eu^
 ||travelaround.hotelconsuladoinn.com^
 ||travelvpn.info^
+||travelvpn.net^
 ||travis90x.ddns.net^
 ||traysub.com^
 ||trayvpn.com^
@@ -14599,6 +14606,7 @@
 ||uhhhhhh.ignorelist.com^
 ||uhidk.infotechnology.com^
 ||uhzuran.win^
+||uiovsjdfkldsf.jksdlfkesdf.nshosting.xyz^
 ||uisujhks.com^
 ||ujlhjhklhlfigjh.dtgxfjkiokl.searchegpt.com^
 ||ujrmdtrq.cc^
@@ -14672,7 +14680,9 @@
 ||unblocked.id^
 ||unblocked.me^
 ||unblocked.name^
+||unblocked.racing^
 ||unblocked.soy^
+||unblocked.surf^
 ||unblocked2.biz^
 ||unblocked2.cc^
 ||unblocked2.dev^
@@ -14913,6 +14923,7 @@
 ||utopia.ub.phuri.cc^
 ||utopiabest.linkpc.net^
 ||utopianpal.com^
+||utopiaunblocker.crabdance.com^
 ||utthaninternational.com^
 ||utube.cc^
 ||utunnel.io^
@@ -15046,6 +15057,7 @@
 ||vapor.my.cdn.cloudflare.net^
 ||vapor.my^
 ||vapor.onl^
+||vapor.techno.pics^
 ||vaporgithub.pages.dev^
 ||vaporized.help^
 ||vaporon.top.cdn.cloudflare.net^
@@ -15248,6 +15260,7 @@
 ||vpn-dlya-tg.vercel.app^
 ||vpn-edge.help^
 ||vpn-fastest.com^
+||vpn-free.com^
 ||vpn-free.pro^
 ||vpn-kostenlos.com^
 ||vpn-kuailianapp.com^
@@ -15326,6 +15339,7 @@
 ||vpn.stroialliance.com^
 ||vpn.surf^
 ||vpn.swisscows.com^
+||vpn.technicule.info^
 ||vpn.turbofast.io^
 ||vpn.vosjes.cloud^
 ||vpn.zotus.ru^
@@ -15675,6 +15689,7 @@
 ||vst-sh-se.mooo.com^
 ||vstkp.click^
 ||vtbimdkh.com^
+||vtcuong.site^
 ||vthiawvu.com^
 ||vthrnrwrbtq2n1xpjt5d.online^
 ||vuivn.site^
@@ -15695,9 +15710,11 @@
 ||vyprvpn.com^
 ||vzrsy.com^
 ||w--e.giize.com^
+||w.q.sagesinst.org^
 ||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^
 ||wadsworthyouthbasketball.org^
 ||waguri.nappod.com^
+||waguri.vancorp.com.au^
 ||waitfree.us^
 ||waiwangjiasu.net^
 ||waladunit.com^
@@ -15746,6 +15763,7 @@
 ||we-are.ksf.qzz.io^
 ||we-hate-school.bastaff.ru^
 ||we-make.org^
+||we2education.anjumanallana.in^
 ||weaang.co^
 ||wealthify.fr^
 ||wearecharleykirk.china.is^
@@ -15779,6 +15797,7 @@
 ||webedg.net^
 ||webfusiones.com^
 ||weblockapp.com^
+||webopen.info^
 ||weboproxy.com^
 ||webpro.xyz^
 ||webproxy.911proxy.com^
@@ -15787,6 +15806,7 @@
 ||webproxy.com^
 ||webproxy.ich-war-hier.de^
 ||webproxy.lumiproxy.com^
+||webproxy.mobi^
 ||webproxy.naproxy.com^
 ||webproxy.online^
 ||webproxy.proxylite.com^
