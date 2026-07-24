@@ -4539,6 +4539,7 @@
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
+||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -11087,6 +11088,7 @@
 ||nekoray.org^
 ||nelsonleung.org^
 ||nemuinemui-nemui.easterndns.com^
+||neo-vpn.ink^
 ||neodon-vpn.com^
 ||neon.lifepixeled.com^
 ||neonos.me^
@@ -11517,6 +11519,7 @@
 ||oculta.me^
 ||odeum.zelator.cloud-ip.cc^
 ||ododep.ru^
+||odoh-target-se.alekberg.net^
 ||odoh-target.alekberg.net^
 ||odpi3ekk.com^
 ||odvr.nic.cz^
