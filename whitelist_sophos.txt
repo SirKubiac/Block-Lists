@@ -30,3 +30,4 @@ iris.microsoft.com
 activity.windows.com
 telem-edge.smartscreen.microsoft.com
 metric.gstatic.com
+firebaseinstallations.googleapis.com
