@@ -1,25 +1,20 @@
-||cookielaw.org^
-||mup.amp.mcafee.com^
-||time.samsungcloudsolution.com^
-||dc.dqa.samsung.com^
-||push.services.mozilla.com^
+# Lidl App
 ||usercentrics.eu^
+
+# Samsung TV
+||time.samsungcloudsolution.com^
 ||cdn.samsungcloudsolution.com^
 ||lcprd1.samsungcloudsolution.net^
-||time.samsungcloudsolution.com^
 ||osb-v2.samsungqbe.com^
 ||samsungcloudsolution.com^
 ||samsungqbe.com^
+
+# Windows
 ||settings-win.data.microsoft.com^
 ||settings.data.microsoft.com^
-||fp.msedge.net^
-||grs.dbankcloud.eu^
-||grs.dbankcloud.com^
 ||inputsuggestions.msdxcdn.microsoft.com^
-||fp.msedge.net^
 ||msedge.net^
 ||arc.msn.com^
-||wns.windows.com^
 ||geo.prod.do.dsp.mp.microsoft.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||config.edge.skype.com^
@@ -28,6 +23,9 @@
 ||iris.microsoft.com^
 ||activity.windows.com^
 ||telem-edge.smartscreen.microsoft.com^
-||metric.gstatic.com^
+
+# Google push
 ||firebaseinstallations.googleapis.com^
+
+# DHL app
 ||janrain.com^
