@@ -9,14 +9,29 @@ cd /var/git/Block-Lists
 git pull
 git add .
 git commit -m "automatic update"
-git push https://$GIT_USERNAME:$GIT_PASSWORD@github.com/SirKubiac/Block-Lists.git --all
+git push
+
+echo ""
+echo ""
+echo "Pause für 60 Sekunden..."
+for i in {60..1}
+do
+    echo "Noch $i Sekunden..."
+    sleep 1
+done
+
+echo ""
+echo ""
+echo "Listen werden heruntergeladen und optimiert.."
+echo ""
+echo ""
 
 # URLs of ad blocklists
 ads_tracker_url_sophos=(
     "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/multi.txt"
     "https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt"
     "https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt"
-    "https://blocklist.sefinek.net/generated/v1/noip/ads/r-a-y/AdguardMobileAds.fork.txt
+    "https://blocklist.sefinek.net/generated/v1/noip/ads/r-a-y/AdguardMobileAds.fork.txt"
 )
 
 ads_tracker_url_adguard=(
@@ -138,17 +153,23 @@ grep -Fvxf "$whitelist_ads_tracking_adguard" "$temp_native_adguard" | sort -u > 
 # Clean up temporary files
 rm "$temp_ads_tracker_sophos" "$temp_doh_sophos" "$temp_native_sophos" "$temp_ads_tracker_adguard" "$temp_native_adguard"
 
-# Append blacklist entries to the final native tracker lists
-grep -v '^\s*$' "$blacklist_ads_tracking_sophos" >> "$native_tracker_output_sophos"
-grep -v '^\s*$' "$blacklist_ads_tracking_adguard" >> "$native_tracker_output_adguard"
+# Append blacklist entries to the final ads and tracker lists
+grep -v '^\s*$' "$blacklist_ads_tracking_sophos" >> "$ads_tracker_output_sophos"
+grep -v '^\s*$' "$blacklist_ads_tracking_adguard" >> "$ads_tracker_output_adguard"
 
 # Optional: remove duplicates again after appending
-sort -u "$native_tracker_output_sophos" -o "$native_tracker_output_sophos"
-sort -u "$native_tracker_output_adguard" -o "$native_tracker_output_adguard"
+sort -u "$ads_tracker_output_sophos" -o "$ads_tracker_output_sophos"
+sort -u "$ads_tracker_output_adguard" -o "$ads_tracker_output_adguard"
 
 # Update the Git repository
 cd /var/git/Block-Lists
 git push
 git add .
 git commit -m "automatic update"
-git push https://$GIT_USERNAME:$GIT_PASSWORD@github.com/SirKubiac/Block-Lists.git --all
+git push
+
+echo ""
+echo ""
+echo "Ferig!"
+echo ""
+echo ""
