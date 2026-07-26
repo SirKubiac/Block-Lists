@@ -2142,6 +2142,7 @@
 ||ro-ad-lgsmartad-com.aws-prd.net^
 ||ro-up.vivoglobal.com^
 ||ro.lgsmartad.com^
+||roku.adsmeasurement.com^
 ||rs-ad-lgsmartad-com.aws-prd.net^
 ||rs.lgsmartad.com^
 ||rtb.axp.amazon-adsystem.com^
