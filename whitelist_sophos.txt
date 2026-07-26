@@ -16,7 +16,6 @@ fp.msedge.net
 grs.dbankcloud.eu
 grs.dbankcloud.com
 inputsuggestions.msdxcdn.microsoft.com
-fp.msedge.net
 msedge.net
 arc.msn.com
 client.wns.windows.com
