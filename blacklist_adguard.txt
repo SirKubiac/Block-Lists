@@ -3,3 +3,4 @@
 ||geller-pa.googleapis.com^
 ||i-fallback.instagram.com^
 ||test-gateway.instagram.com^
+||capoo.nekogram.app^
