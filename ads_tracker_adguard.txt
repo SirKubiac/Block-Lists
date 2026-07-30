@@ -1,3 +1,4 @@
+||capoo.nekogram.app^
 ||geller-pa.googleapis.com^
 ||google-analytics.l.google.com^
 ||i-fallback.instagram.com^
