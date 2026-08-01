@@ -182,6 +182,7 @@
 ||ads-marketing-vivofs.vivo.com.cn.ctdns.cn^
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-ru.tiktok.com^
+||ads-service.tiktok.com^
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-setu-proxy-fe.amazon.com^
 ||ads-setu-proxy.amazon.com^
@@ -1870,7 +1871,6 @@
 ||mssdk.tiktokw.us^
 ||mssdk.us.tiktok.com^
 ||mssdk.us.tiktokv.com^
-||mssdk16-normal-no1a.tiktokvapp.eu^
 ||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal-us-ttp.capcutapi.us^
 ||mssdk16-normal-useastred.tiktokw.eu^
@@ -2736,6 +2736,7 @@
 ||vfw-us.amazon-adsystem.com^
 ||vfw.amazon-adsystem.com^
 ||vfwm-eu.amazon-adsystem.com^
+||vfwm-us-west.amazon-adsystem.com^
 ||vfwm-us.amazon-adsystem.com^
 ||vfwm.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^

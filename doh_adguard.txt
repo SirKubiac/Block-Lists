@@ -2085,6 +2085,7 @@
 ||atelier.alica.idv.tw^
 ||atill.giize.com^
 ||atlantic.dyn1.de^
+||atlast9hdp.info^
 ||atlasvpn.com^
 ||atlasvpn.net^
 ||atmyhouse.bangerade.us^
@@ -4804,6 +4805,7 @@
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
+||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -7208,7 +7210,9 @@
 ||flowvpn.com^
 ||flrnneprlkqiz.online^
 ||fluoutbreaks.screenclip.net^
+||flux3ni5o.info^
 ||fluxenta.click^
+||fluxmxd18.info^
 ||flxzeiow.com^
 ||flyall.me^
 ||flycatvipaff.cc^
@@ -9387,6 +9391,7 @@
 ||joinfufeitizi.com^
 ||joinguoneijichang.com^
 ||joinhaita.com^
+||joinmassive.com^
 ||joinyongjiumianfeijichang.com^
 ||joldoojv.com^
 ||jolmira.ru^
@@ -10852,6 +10857,7 @@
 ||mikumovieispeak.global.ssl.fastly.net^
 ||milanavpn.com^
 ||milanopuma.ir^
+||milo1fmyz.info^
 ||milou.cc^
 ||miltran.ru^
 ||mimetic.luminiferous.abrdns.com^
@@ -12178,6 +12184,7 @@
 ||pebdbvi58gbc.absq.ch^
 ||peekproxy.com^
 ||peekvpn.online^
+||peer2profit.com^
 ||peer2profit.in^
 ||peets.pro^
 ||peiqianjc.com^
