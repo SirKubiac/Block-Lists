@@ -29,3 +29,6 @@
 
 # DHL app
 ||janrain.com^
+
+#DeepL text-to-speech
+||s.deepl.com^
