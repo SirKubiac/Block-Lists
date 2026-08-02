@@ -31,3 +31,4 @@ telem-edge.smartscreen.microsoft.com
 metric.gstatic.com
 firebaseinstallations.googleapis.com
 janrain.com
+s.deepl.com
