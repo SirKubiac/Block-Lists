@@ -49,6 +49,7 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
+aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
@@ -76,6 +77,7 @@ aax-us-west-dtb-mobile.amazon-adsystem.com
 aax-us-west-ott-events.amazon-adsystem.com
 aax-us-west-ott.amazon-adsystem.com
 aax-us-west-rtb.amazon-adsystem.com
+aax-us.amazon-adsystem.amazon.com
 aax-us.amazon-adsystem.com
 aax-vx-api-us-east-1.amazon-adsystem.com
 aax-vx-api-us-west-2.amazon-adsystem.com
@@ -95,6 +97,7 @@ acr-eu-prd.samsungcloud.tv
 acr-in-prd.samsungcloud.tv
 acr-kr-prd.samsungcloud.tv
 acr-mx-prd.samsungcloud.tv
+acr-nz-prd.samsungcloud.tv
 acr-us-prd.samsungcloud.tv
 acr.roku.com
 acr0.samsungcloudsolution.com
@@ -587,10 +590,6 @@ c3-bgp.pandora.xiaomi.com
 c3mini.pandora.xiaomi.com
 ca-ad-lgsmartad-com.aws-prd.net
 ca.lgsmartad.com
-calculator-api-fr.allawnos.com
-calculator-api-in.allawnos.com
-calculator-api-sg.allawnos.com
-calculator-api-us.allawnos.com
 callback.xmpush.xiaomi.com
 cc.sys.miui.com
 cc2.sys.miui.com
@@ -1344,6 +1343,7 @@ kz-st-exappupgrade.vivoglobal.com
 kz-st-sl.vivoglobal.com
 kz-st-sysupgrade.vivoglobal.com
 kz-stsdk.vivoglobal.com
+kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
 kz.lgsmartad.com
@@ -2758,7 +2758,6 @@ vq-us-east-1.amazon-adsystem.com
 vq-us-west-2.amazon-adsystem.com
 vu-ad-lgsmartad-com.aws-prd.net
 w.pandora.xiaomi.com
-wallpaper-service-sg.allawnos.com
 wap.game.xiaomi.com
 weather-analytics-events.apple.com
 weather-analytics-events.news.apple-dns.net

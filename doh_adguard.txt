@@ -31,7 +31,6 @@
 ||1.hotelne.com^
 ||1.rock-review.ru^
 ||1.thetravelingtourguide.com^
-||10.bangerade.us^
 ||10.ln7371.top^
 ||1002407848.rsc.cdn77.org^
 ||1003957851.rsc.cdn77.org^
@@ -558,7 +557,6 @@
 ||220913.xyz^
 ||22laomao.com^
 ||23.106.141.137.16clouds.com^
-||23.bayworld.net^
 ||230704953-learn-maths-starters.twilightparadox.com^
 ||23081r.cn^
 ||233jms.com^
@@ -654,7 +652,6 @@
 ||3qguvtvrpyzkatp2.online^
 ||3wvve99e.com^
 ||3x.nz^
-||4.baumgardner.us^
 ||4.theartieschaffer.com^
 ||4.thetravelingtourguide.com^
 ||401-0506.b-cdn.net^
@@ -807,7 +804,6 @@
 ||67.langhorne.ws^
 ||6741.it.com^
 ||676141mango1.itafricagroup.com^
-||676767676767676767616864.allisons.org^
 ||67818-bro.strangled.net^
 ||67hub.decoro.cl^
 ||67in2026.bfcontrol.com.mx^
@@ -993,7 +989,6 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||aboba.pro^
-||about.baltimorefellowship.org^
 ||about.infotechnology.com^
 ||about.izenimplant.ro^
 ||abpvn.org^
@@ -1548,7 +1543,6 @@
 ||ae1.indevs.in^
 ||aecd74796f0ff8d20255d3286ec5cd89bf989b12.com^
 ||aecoe.xyz^
-||aeeesjxk.cc^
 ||affcdn.net^
 ||affiliatescn.net^
 ||affntowl.com^
@@ -1686,7 +1680,6 @@
 ||akunamatata8888.mooo.com^
 ||akunssh.net^
 ||akylah.zapto.org^
-||akzhfsyv.cc^
 ||alarmstat.click^
 ||albertcoolters.server.warhawkenterprises.com^
 ||alearluvsruby.twilightparadox.com^
@@ -1769,13 +1762,11 @@
 ||amnezia.org^
 ||amnzstrg01.blob.core.windows.net^
 ||amongusinreallifesussus.netlify.app^
-||amoosias.site^
 ||amopython.shop^
 ||amosstudios.com^
 ||amosvpn.com^
 ||amplify.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||amplifyscience.cf^
-||amplifyz.cfd^
 ||amplitude-go.com^
 ||ams.core.access.zznet.fun^
 ||ams01-n.surf-p.com^
@@ -1812,7 +1803,6 @@
 ||angelvpn.com^
 ||angry.pp.ua^
 ||angrysky.ru^
-||animeproxy.net^
 ||aniscartujo.com^
 ||anixlab.com^
 ||anker-beton.ru^
@@ -1858,7 +1848,6 @@
 ||antpeak.com^
 ||antycenzor.pl^
 ||anura.pro^
-||anvfamo4.online^
 ||anycast.censurfridns.nu^
 ||anycast.uncensoreddns.dk^
 ||anyhow.bury.abrdns.com^
@@ -1950,7 +1939,6 @@
 ||appart.yoannchappaz.best^
 ||appconget.com^
 ||apple-fun.ru^
-||apple072.jp^
 ||apple1.willemvisser.co.za^
 ||apple11.nowhearthis.co.uk^
 ||apple8.dnsdyn.net^
@@ -1983,7 +1971,6 @@
 ||aqua.is.my.waifu.cz^
 ||aqxors6l.com^
 ||arab.is.goated.teamradicus.com^
-||aracmtva.com^
 ||arapurayil.com^
 ||arashi.eu.org^
 ||arashi.net.eu.org^
@@ -2047,7 +2034,6 @@
 ||ash.yt^
 ||ash6.com^
 ||asheranztwitch.online^
-||ashish.money^
 ||ashixu.ggff.net^
 ||ashnet.cc^
 ||ashx.net^
@@ -2084,7 +2070,6 @@
 ||atlast9hdp.info^
 ||atlasvpn.com^
 ||atlasvpn.net^
-||atmyhouse.bangerade.us^
 ||atom.world.digitalhemi.com^
 ||atomapi.com^
 ||atomicspike.art^
@@ -2135,21 +2120,18 @@
 ||avo-vpn.help^
 ||avo-vpn.ru^
 ||avologin.com^
-||avopage.com^
 ||avovpn-ru.com^
 ||avovpn.biz^
 ||avovpn.blog^
 ||avovpn.club^
 ||avovpn.com^
 ||avovpn.guru^
-||avovpn.homes^
 ||avovpn.live^
 ||avovpn.lol^
 ||avovpn.net^
 ||avovpn.quest^
 ||avovpn.site^
 ||avovpnbot.info^
-||avovps.help^
 ||avpn.online^
 ||avql.net^
 ||aw.graphicon.ru^
@@ -2219,7 +2201,6 @@
 ||bad-lake-931.conwordable.com^
 ||badrsgpr.com^
 ||baikalvpn.ru^
-||bailey.today^
 ||bajie.la^
 ||bajiess.com^
 ||baku.chickenkiller.com^
@@ -2332,7 +2313,6 @@
 ||bebravpn-app.space^
 ||bebravpn-ru.com^
 ||bebravpn.app^
-||bebravpn.biz^
 ||bebravpn.blog^
 ||bebravpn.help^
 ||bebravpn.lol^
@@ -2367,7 +2347,6 @@
 ||bella.981377612.xyz^
 ||belldream.xyz^
 ||bellproxy.com^
-||belongdesert.com^
 ||beltruna.ru^
 ||benaah.online^
 ||benb.ir^
@@ -2995,7 +2974,6 @@
 ||buuba.bid^
 ||buunss.com^
 ||buy-express-vpn.asia^
-||buy.aeroantenna.com^
 ||buy.artweb.website.cdn.cloudflare.net^
 ||buy.artweb.website^
 ||buy.patf.net^
@@ -3441,7 +3419,6 @@
 ||classroomgoogle.chickenkiller.com^
 ||classroomip.online^
 ||classtime.canalspa.cl^
-||cld.996969.xyz^
 ||cleanbrowsing.org^
 ||clearvpn.co.uk^
 ||clearvpn.com^
@@ -3591,7 +3568,6 @@
 ||com.you-seen.fr^
 ||combawake.com^
 ||comcatches.live^
-||commandedurchin.amber-cypress.com^
 ||commons.host^
 ||comnpmjs.com^
 ||comododns.com^
@@ -4311,7 +4287,6 @@
 ||dashboard.noamank.com^
 ||dashboard.vincenzodimaro.it.cdn.cloudflare.net^
 ||dashboard.vincenzodimaro.it^
-||dashboardd.baselinux.net^
 ||dashi.mom^
 ||dashuai.us^
 ||dastrix.ru^
@@ -4664,7 +4639,6 @@
 ||dns.abhimankolte.com^
 ||dns.abppro.ru^
 ||dns.adguard.com^
-||dns.adguarddns.com^
 ||dns.adnull.com^
 ||dns.adrianlam.com^
 ||dns.adriason.co.uk^
@@ -4682,7 +4656,6 @@
 ||dns.alwynstudio.com.au^
 ||dns.amigo-mgn.ru^
 ||dns.andreykiv.com^
-||dns.anitelekom.ru^
 ||dns.anne-pierre.fr^
 ||dns.anon.no^
 ||dns.api.gandi.net^
@@ -6159,7 +6132,6 @@
 ||dwjaokp57it6j.cloudfront.net^
 ||dwt19px9j7kpm.cloudfront.net^
 ||dx-secure-resource-processing-cluster.com^
-||dx.alsarica.cl^
 ||dxbx1vfh.online^
 ||dxkazp4h1leyi.cloudfront.net^
 ||dxszzgr.com^
@@ -6502,7 +6474,6 @@
 ||elvano.ru^
 ||elvkd0.xyz^
 ||elyxvpn.com^
-||email.anti-spam.technology^
 ||email.yan.ch^
 ||emban-networks.com^
 ||embeddrr.web.app^
@@ -6719,7 +6690,6 @@
 ||falais.com^
 ||fallbreaksover.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||fallin.app^
-||family.adguarddns.com^
 ||family.dns.doubleangels.com^
 ||family.dns.teknoholistik.com^
 ||family.mydns.network^
@@ -7080,7 +7050,6 @@
 ||fgfd-nine.vercel.app^
 ||fgfw.eu.org^
 ||fgrkzvua.com^
-||fgsdhfch.allenbarnes.com^
 ||fhfhgfh.vercel.app^
 ||fhhcdvus.com^
 ||fhhii.com^
@@ -8820,7 +8789,6 @@
 ||i-ready.com.de.cdn.cloudflare.net^
 ||i-ready.com.de^
 ||i.dns-over-https.tk^
-||i.hate.fink.baumgardner.us^
 ||i.myclarevision.com^
 ||i0rp1l2j.com^
 ||i2cbd4iy.com^
@@ -8896,7 +8864,6 @@
 ||iiuqxrng.com^
 ||ijsebxrr.com^
 ||ijsiadksada.info.north-kazakhstan.su.cdn.cloudflare.net^
-||ijsutpoopedmyseldf.aerodev.cc^
 ||ijustmysocks.com^
 ||ijxhnhx.com^
 ||ikarosalpha.xyz^
@@ -9256,7 +9223,6 @@
 ||jcdns.fun^
 ||jdb.iot64.de^
 ||jeanndunn.rdocart.com^
-||jeffreyepstien.allisons.org^
 ||jego.club^
 ||jego.pro^
 ||jegocloud.com^
@@ -10120,7 +10086,6 @@
 ||larva.app^
 ||las-vegas.privacy-dns.pw^
 ||lasbg4.xyz^
-||laskjdfisd.skadfjs.antropologiayasombro.ar^
 ||last-spirit-554.guesstheanimal.org^
 ||lastentarvike.fi^
 ||lastvpn.help^
@@ -10193,7 +10158,6 @@
 ||learnsowashcoorg.ddnss.org^
 ||learntoteach.justlearning.net^
 ||learnvcsa.anjumanallana.in^
-||learnvcsa.bayworld.net^
 ||learnvcsa.bestprogramsforkids.com^
 ||learnvcsa.bfcontrol.com.mx^
 ||learnvcsa.cynic.gq^
@@ -11550,7 +11514,6 @@
 ||nolvira.ru^
 ||nomadish.store^
 ||nomiraq.ru^
-||nomore67its-2026-boi.allisons.org^
 ||nooken-vpn.europe-west1.firebasedatabase.app^
 ||nooken.app^
 ||nookenvpn.help^
@@ -11672,7 +11635,6 @@
 ||nrz.monster^
 ||nrzpwgaw.cc^
 ||ns.00dani.me^
-||ns.77ll.ru^
 ||ns.cd^
 ||ns.ciwer.cn^
 ||ns.data.haus^
@@ -12003,8 +11965,6 @@
 ||outsourcers4.biz^
 ||over.bernhard-rau.de^
 ||over.sulevkivastik.ee^
-||overcloak.allisons.org^
-||overcloak2.allisons.org^
 ||overcloaked.blindatech.cl^
 ||overcloaked.chickenkiller.com^
 ||overcloaked.onlinechildcareclass.com^
@@ -12367,10 +12327,8 @@
 ||play.schooloqy.com^
 ||play5r.com^
 ||player-nation.anjumanallana.in^
-||player-nation.bayworld.net^
 ||player-nation.hotelconsuladoinn.com^
 ||playernation.anjumanallana.in^
-||playernation.anti-spam.technology^
 ||playernation.blackonstuff.com^
 ||playernation.canalspa.cl^
 ||playernation.chinapoem.org^
@@ -13685,7 +13643,6 @@
 ||sdfewajgdaf.fosldfjklsdf.searchegpt.com^
 ||sdfklsfdafopk.aiskdljf.slidersgy.com^
 ||sdflkjkls.sdkfjsdf.sceneco.re^
-||sdfnm.sjdfhjkdf.antropologiayasombro.ar^
 ||sdifjklwkehhdfjkl.osdklafnm.smasesorias.cl^
 ||sdiybt.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||sdkconfig.tlivedns.com^
@@ -14027,14 +13984,12 @@
 ||skill.mass.mcdonnell.id.au^
 ||skill.vocab.lekovic.ca^
 ||skilledconfine.com^
-||skills.coach.afaa.it^
 ||skills.field.cftc-devoteam.one.pl^
 ||skills.graph.holverson.org^
 ||skills.notes.pakla.pl^
 ||skills.train.darvin.one.pl^
 ||skipdns.link^
 ||skipns.com^
-||skldfjei.wuejhrj.antropologiayasombro.ar^
 ||sklearntech.infotechnology.com^
 ||skrt.f5.si^
 ||sksubscribetech.infotechnology.com^
@@ -14391,7 +14346,6 @@
 ||studioai.freeddns.org^
 ||studiolearngeo.estudioferrer.com^
 ||study-math.nevuer.com^
-||study.9x.at^
 ||study.englishpapers.online^
 ||study.gpu74.ru^
 ||study.howto.ugo.si^
@@ -14401,7 +14355,6 @@
 ||study.wiki-edu.xyz^
 ||studybuddytime.wanhuiarchitect.com^
 ||studyhall.graphicon.ru^
-||studying.9x.at^
 ||studyingsocool.justlearning.net^
 ||studyingsofun.smathis.com^
 ||studysurf.com^
@@ -14642,7 +14595,6 @@
 ||tasks.gov.heronquays.com^
 ||tasks.know.kabindrakajibajracharya.com.np^
 ||tasks.media.bianchetti.com.ar^
-||tatakai001.8bit.ca^
 ||taxif.us^
 ||tb2hgc4485.execute-api.us-east-1.amazonaws.com^
 ||tbgthmrg.com^
@@ -14793,7 +14745,6 @@
 ||thevpncompany.net^
 ||thewalruss.net^
 ||thexite.net^
-||theykeepmessingitup.aerodolsolutions.ro^
 ||think.atom.i-nameservers.net^
 ||thinredline.us^
 ||third-army.surge.sh^
@@ -14806,7 +14757,6 @@
 ||thiswebsiteispeak4life.com.ignorelist.com^
 ||thjk.srv64.de^
 ||thordata.com^
-||thorn.barneysaurous.net^
 ||threeproxy.net^
 ||threeproxy.spacejamhd.com^
 ||thriftychoice.space^
@@ -15407,7 +15357,6 @@
 ||undertheradar.bucknine.com^
 ||undiscord.com^
 ||undofilters.com^
-||unfiltered.adguarddns.com^
 ||unfiltered.joindns4.eu^
 ||uni-apps.com^
 ||unicast.censurfridns.nu^
@@ -15735,7 +15684,6 @@
 ||vcsa.tovamiasto.com^
 ||vcsa.void.chinapoem.org^
 ||vcsa.worldpolyathlon.com^
-||vcsaontop.bayworld.net^
 ||vcsaxinter.bostoncareercounselor.com^
 ||vcsaxselenite.ms-itsllc.com^
 ||vd.i81.ru^
@@ -16503,7 +16451,6 @@
 ||welovemath.hornburst.com^
 ||welovemath.tcloud.my^
 ||welovemath123.duckdns.org^
-||welovemath89.barabesta.is^
 ||weloveplayernation.bfcontrol.com.mx^
 ||weloveschool.hornburst.com^
 ||welovescience123.duckdns.org^
@@ -16545,7 +16492,6 @@
 ||whatsuprox.com^
 ||wheresyourmoney.chickenkiller.com^
 ||wheresyourmoney.gatewayjobs.com.np^
-||wheresyourmoneyhehe.bangerade.us^
 ||whipstall.karrozzin.cloud-ip.cc^
 ||whiskergalaxy.com^
 ||whitehatvpn.com^
@@ -16777,7 +16723,6 @@
 ||www.platform.everfi.cf^
 ||www.pleaseinput.html-5.me^
 ||www.portal.dont-let-securly-block-this.duckdns.org^
-||www.securly.com.bangerade.us^
 ||www.securly.com.bookpropofplace.com^
 ||www.securly.com.dnscream.com^
 ||www.securly.com.dnsear.com^
