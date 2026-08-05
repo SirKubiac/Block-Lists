@@ -32,3 +32,4 @@ metric.gstatic.com
 firebaseinstallations.googleapis.com
 janrain.com
 s.deepl.com
+grs.dbankcloud.com
