@@ -32,3 +32,6 @@
 
 #DeepL text-to-speech
 ||s.deepl.com^
+
+# Huawei Health
+||grs.dbankcloud.com^
