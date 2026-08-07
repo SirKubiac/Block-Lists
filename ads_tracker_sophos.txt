@@ -775,7 +775,7 @@
 9nl.us
 9q1yc.r.a.d.sendibm1.com
 9ywl0cwf7e37m5yi.tapin.gg
-Package size exceeded the configured limit of 150 MB. Try https://github.com/hagezi/dns-blocklists/tree/37522026.217.30708/domains/multi.txt instead.
+Package size exceeded the configured limit of 150 MB. Try https://github.com/hagezi/dns-blocklists/tree/37522026.218.84400/domains/multi.txt instead.
 _analytics.synonym.to
 a-cdn.babylist.com
 a-counters.com
