@@ -1387,9 +1387,14 @@ location.us.tiktokv.com
 location16-normal-useastred.tiktokv.eu
 locationv16-normal-useastred.tiktokv.eu
 lockcard-service-in.allawnos.com
-log-abroad.avlyun.sec.miui.com
 log-boot.capcutapi.com
 log-boot.tiktokv.com
+log-dr.tiktokv.com
+log-dr16-normal-no1a.tiktokv.eu
+log-dr16-normal-useast1a.tiktokv.com
+log-dr16-normal-useast5.tiktokv.us
+log-dr16-normal-useast8.tiktokv.us
+log-dr16-normal-useastred.tiktokv.eu
 log-dra.platform.hihonorcloud.com
 log-drcn.platform.hihonorcloud.com
 log-dre.platform.hihonorcloud.com
@@ -2244,6 +2249,8 @@ rtlog58-normal-ycru.tiktokv.com
 rtlog58-normal.tiktokv.com
 rtmpott.pandora.xiaomi.com
 ru-ad-lgsmartad-com.aws-prd.net
+ru-album-api.vivoglobal.com
+ru-analyzer-appstore.vivoglobal.com
 ru-api.xmpush.global.xiaomi.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
@@ -2492,6 +2499,7 @@ sponsored-ads.amazon.com
 sponsored-ads.amazon.com.au
 sponsored-ads.amazon.com.br
 sponsored-ads.amazon.com.mx
+sponsored-ads.amazon.com.tr
 sponsored-ads.amazon.eg
 sponsored-ads.amazon.es
 sponsored-ads.amazon.fr
