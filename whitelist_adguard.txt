@@ -23,6 +23,8 @@
 ||iris.microsoft.com^
 ||activity.windows.com^
 ||telem-edge.smartscreen.microsoft.com^
+||cs.dds.microsoft.com^
+||continuum.dds.microsoft.com^
 
 # Google push
 ||firebaseinstallations.googleapis.com^
