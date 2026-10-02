@@ -25,6 +25,7 @@
 ||telem-edge.smartscreen.microsoft.com^
 ||cs.dds.microsoft.com^
 ||continuum.dds.microsoft.com^
+||client.wns.windows.com^
 
 # Google push
 ||firebaseinstallations.googleapis.com^
