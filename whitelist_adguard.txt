@@ -42,3 +42,6 @@
 
 # Huawei Health
 ||grs.dbankcloud.com^
+
+# Adguard DNS
+||d.adguard-dns.com^
